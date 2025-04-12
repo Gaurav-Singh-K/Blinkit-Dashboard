@@ -1,0 +1,1001 @@
+,Order ID,Customer ID,Order DateTime,Product Name,Category,Quantity,Price,City,Delivery Time (mins),Order Status,Total Amount,Order Hour,Day,Month,IsWeekend,Order Period,High Order Value,Fast Delivery
+0,ORD1000,CUST260,2023-06-25 17:15:00,Potatoes,Vegetables,1,388.63,Kolkata,0.0,Returned,388.63,17,Sunday,June,Yes,Evening,No,Fast
+1,ORD1001,CUST497,2023-09-15 11:24:00,Shampoo,Personal Care,1,272.92,Mumbai,0.0,Returned,272.92,11,Friday,September,No,Morning,No,Fast
+2,ORD1002,CUST217,2023-10-20 23:16:00,Bread,Bakery,4,123.2,Pune,82.9,Delivered,492.8,23,Friday,October,No,Night,No,Slow
+3,ORD1003,CUST434,2023-09-04 04:51:00,Butter,Dairy,4,425.03,Pune,41.54,Delivered,1700.12,4,Monday,September,No,Night,Yes,Slow
+4,ORD1004,CUST354,2023-07-04 20:01:00,Bananas,Fruits,3,483.1,Kolkata,26.17,Delivered,1449.3000000000002,20,Tuesday,July,No,Evening,Yes,Fast
+5,ORD1005,CUST353,2023-06-05 20:27:00,Eggs,Dairy,5,85.51,Mumbai,26.82,Delivered,427.55,20,Monday,June,No,Evening,No,Fast
+6,ORD1006,CUST360,2023-08-09 06:51:00,Shampoo,Personal Care,4,101.85,Delhi,72.19,Delivered,407.4,6,Wednesday,August,No,Morning,No,Slow
+7,ORD1007,CUST363,2023-01-12 08:18:00,Apples,Fruits,1,471.95,Delhi,0.0,Cancelled,471.95,8,Thursday,January,No,Morning,No,Fast
+8,ORD1008,CUST386,2023-06-10 03:51:00,Chicken,Meat,3,147.73,Pune,68.77,Delivered,443.18999999999994,3,Saturday,June,Yes,Night,No,Slow
+9,ORD1009,CUST105,2023-08-23 19:49:00,Rice,Grains,1,365.25,Mumbai,0.0,Returned,365.25,19,Wednesday,August,No,Evening,No,Fast
+10,ORD1010,CUST239,2023-01-05 08:25:00,Milk,Dairy,2,240.9,Chennai,0.0,Returned,481.8,8,Thursday,January,No,Morning,No,Fast
+11,ORD1011,CUST402,2023-05-16 18:18:00,Milk,Dairy,5,142.63,Hyderabad,26.48,Delivered,713.15,18,Tuesday,May,No,Evening,Yes,Fast
+12,ORD1012,CUST491,2023-06-10 22:06:00,Rice,Grains,3,492.06,Hyderabad,65.72,Delivered,1476.18,22,Saturday,June,Yes,Night,Yes,Slow
+13,ORD1013,CUST257,2023-01-24 18:42:00,Shampoo,Personal Care,3,26.07,Bangalore,56.35,Delivered,78.21000000000001,18,Tuesday,January,No,Evening,No,Slow
+14,ORD1014,CUST165,2023-09-27 05:50:00,Apples,Fruits,4,326.88,Chennai,86.23,Delivered,1307.52,5,Wednesday,September,No,Morning,Yes,Slow
+15,ORD1015,CUST185,2023-09-10 20:33:00,Fish,Meat,4,223.98,Hyderabad,24.78,Delivered,895.92,20,Sunday,September,Yes,Evening,Yes,Fast
+16,ORD1016,CUST484,2023-10-12 02:18:00,Tomatoes,Vegetables,4,376.61,Pune,60.82,Delivered,1506.44,2,Thursday,October,No,Night,Yes,Slow
+17,ORD1017,CUST438,2023-01-25 16:25:00,Bananas,Fruits,2,355.75,Mumbai,0.0,Cancelled,711.5,16,Wednesday,January,No,Afternoon,Yes,Fast
+18,ORD1018,CUST103,2023-04-22 11:57:00,Tomatoes,Vegetables,4,280.3,Kolkata,26.06,Delivered,1121.2,11,Saturday,April,Yes,Morning,Yes,Fast
+19,ORD1019,CUST285,2023-09-21 07:43:00,Onions,Vegetables,1,436.45,Pune,84.69,Delivered,436.45,7,Thursday,September,No,Morning,No,Slow
+20,ORD1020,CUST383,2023-02-14 06:00:00,Toothpaste,Personal Care,5,119.86,Mumbai,25.7,Delivered,599.3,6,Tuesday,February,No,Morning,Yes,Fast
+21,ORD1021,CUST171,2023-10-01 20:55:00,Potatoes,Vegetables,4,78.87,Chennai,65.28,Delivered,315.48,20,Sunday,October,Yes,Evening,No,Slow
+22,ORD1022,CUST248,2023-02-13 05:09:00,Eggs,Dairy,1,293.07,Kolkata,28.77,Delivered,293.07,5,Monday,February,No,Morning,No,Fast
+23,ORD1023,CUST344,2023-05-27 22:31:00,Toothpaste,Personal Care,2,390.76,Delhi,67.83,Delivered,781.52,22,Saturday,May,Yes,Night,Yes,Slow
+24,ORD1024,CUST334,2023-03-18 03:24:00,Fish,Meat,5,140.49,Chennai,63.16,Delivered,702.45,3,Saturday,March,Yes,Night,Yes,Slow
+25,ORD1025,CUST381,2023-04-07 22:38:00,Shampoo,Personal Care,1,139.14,Hyderabad,23.45,Delivered,139.14,22,Friday,April,No,Night,No,Fast
+26,ORD1026,CUST392,2023-05-07 14:57:00,Fish,Meat,3,302.6,Kolkata,56.3,Delivered,907.8000000000001,14,Sunday,May,Yes,Afternoon,Yes,Slow
+27,ORD1027,CUST277,2023-04-22 01:43:00,Chicken,Meat,1,114.93,Hyderabad,50.09,Delivered,114.93,1,Saturday,April,Yes,Night,No,Slow
+28,ORD1028,CUST477,2023-12-01 13:27:00,Milk,Dairy,4,321.45,Delhi,41.52,Delivered,1285.8,13,Friday,December,No,Afternoon,Yes,Slow
+29,ORD1029,CUST339,2023-01-17 09:50:00,Shampoo,Personal Care,2,103.87,Mumbai,25.51,Delivered,207.74,9,Tuesday,January,No,Morning,No,Fast
+30,ORD1030,CUST108,2023-05-12 04:09:00,Onions,Vegetables,3,272.08,Hyderabad,77.85,Delivered,816.24,4,Friday,May,No,Night,Yes,Slow
+31,ORD1031,CUST163,2023-04-13 18:16:00,Tomatoes,Vegetables,4,417.4,Pune,0.0,Returned,1669.6,18,Thursday,April,No,Evening,Yes,Fast
+32,ORD1032,CUST423,2023-02-10 13:01:00,Chicken,Meat,5,178.15,Pune,65.39,Delivered,890.75,13,Friday,February,No,Afternoon,Yes,Slow
+33,ORD1033,CUST397,2023-02-04 19:45:00,Onions,Vegetables,1,41.29,Kolkata,14.45,Delivered,41.29,19,Saturday,February,Yes,Evening,No,Fast
+34,ORD1034,CUST359,2023-09-02 21:52:00,Tomatoes,Vegetables,3,214.36,Hyderabad,0.0,Cancelled,643.08,21,Saturday,September,Yes,Night,Yes,Fast
+35,ORD1035,CUST415,2023-10-06 10:34:00,Butter,Dairy,5,495.06,Bangalore,35.29,Delivered,2475.3,10,Friday,October,No,Morning,Yes,Slow
+36,ORD1036,CUST324,2023-01-25 22:00:00,Milk,Dairy,4,440.59,Pune,12.22,Delivered,1762.36,22,Wednesday,January,No,Night,Yes,Fast
+37,ORD1037,CUST272,2023-11-27 05:07:00,Apples,Fruits,4,319.35,Mumbai,73.75,Delivered,1277.4,5,Monday,November,No,Morning,Yes,Slow
+38,ORD1038,CUST357,2023-10-19 17:15:00,Toothpaste,Personal Care,2,273.73,Kolkata,23.45,Delivered,547.46,17,Thursday,October,No,Evening,Yes,Fast
+39,ORD1039,CUST242,2023-10-01 20:10:00,Milk,Dairy,4,67.67,Pune,86.92,Delivered,270.68,20,Sunday,October,Yes,Evening,No,Slow
+40,ORD1040,CUST282,2023-03-02 13:09:00,Tomatoes,Vegetables,2,312.24,Kolkata,46.8,Delivered,624.48,13,Thursday,March,No,Afternoon,Yes,Slow
+41,ORD1041,CUST111,2023-12-01 07:06:00,Toothpaste,Personal Care,3,365.08,Hyderabad,61.25,Delivered,1095.24,7,Friday,December,No,Morning,Yes,Slow
+42,ORD1042,CUST373,2023-09-13 15:45:00,Wheat Flour,Grains,1,259.33,Hyderabad,0.0,Cancelled,259.33,15,Wednesday,September,No,Afternoon,No,Fast
+43,ORD1043,CUST254,2023-01-26 17:54:00,Apples,Fruits,5,469.54,Chennai,27.83,Delivered,2347.7000000000003,17,Thursday,January,No,Evening,Yes,Fast
+44,ORD1044,CUST285,2023-03-24 17:36:00,Tomatoes,Vegetables,5,383.8,Mumbai,0.0,Returned,1919.0,17,Friday,March,No,Evening,Yes,Fast
+45,ORD1045,CUST123,2023-08-31 09:36:00,Potatoes,Vegetables,1,485.01,Mumbai,39.08,Delivered,485.01,9,Thursday,August,No,Morning,No,Slow
+46,ORD1046,CUST470,2023-04-15 17:21:00,Wheat Flour,Grains,2,110.97,Chennai,0.0,Returned,221.94,17,Saturday,April,Yes,Evening,No,Fast
+47,ORD1047,CUST376,2023-03-28 16:30:00,Shampoo,Personal Care,4,353.32,Hyderabad,0.0,Returned,1413.28,16,Tuesday,March,No,Afternoon,Yes,Fast
+48,ORD1048,CUST353,2023-10-24 22:42:00,Rice,Grains,2,490.38,Chennai,22.68,Delivered,980.76,22,Tuesday,October,No,Night,Yes,Fast
+49,ORD1049,CUST286,2023-10-09 15:13:00,Wheat Flour,Grains,1,356.08,Hyderabad,26.12,Delivered,356.08,15,Monday,October,No,Afternoon,No,Fast
+50,ORD1050,CUST302,2023-09-13 00:42:00,Chicken,Meat,4,369.33,Delhi,30.35,Delivered,1477.32,0,Wednesday,September,No,Night,Yes,Slow
+51,ORD1051,CUST416,2023-01-05 23:25:00,Toothpaste,Personal Care,3,328.28,Delhi,51.85,Delivered,984.8399999999999,23,Thursday,January,No,Night,Yes,Slow
+52,ORD1052,CUST253,2023-01-25 01:54:00,Onions,Vegetables,2,325.06,Bangalore,37.23,Delivered,650.12,1,Wednesday,January,No,Night,Yes,Slow
+53,ORD1053,CUST141,2023-09-06 12:16:00,Butter,Dairy,4,368.07,Kolkata,30.94,Delivered,1472.28,12,Wednesday,September,No,Afternoon,Yes,Slow
+54,ORD1054,CUST445,2023-11-15 06:48:00,Potatoes,Vegetables,3,343.64,Hyderabad,54.39,Delivered,1030.92,6,Wednesday,November,No,Morning,Yes,Slow
+55,ORD1055,CUST106,2023-08-31 23:04:00,Wheat Flour,Grains,2,227.01,Bangalore,34.12,Delivered,454.02,23,Thursday,August,No,Night,No,Slow
+56,ORD1056,CUST297,2023-12-24 13:13:00,Rice,Grains,2,377.56,Kolkata,56.93,Delivered,755.12,13,Sunday,December,Yes,Afternoon,Yes,Slow
+57,ORD1057,CUST408,2023-11-22 02:14:00,Shampoo,Personal Care,1,360.7,Bangalore,89.48,Delivered,360.7,2,Wednesday,November,No,Night,No,Slow
+58,ORD1058,CUST272,2023-02-04 16:22:00,Onions,Vegetables,4,205.52,Pune,48.57,Delivered,822.08,16,Saturday,February,Yes,Afternoon,Yes,Slow
+59,ORD1059,CUST322,2023-01-11 16:35:00,Chicken,Meat,2,155.0,Chennai,57.19,Delivered,310.0,16,Wednesday,January,No,Afternoon,No,Slow
+60,ORD1060,CUST244,2023-08-25 22:24:00,Potatoes,Vegetables,5,472.97,Delhi,19.97,Delivered,2364.8500000000004,22,Friday,August,No,Night,Yes,Fast
+61,ORD1061,CUST287,2023-04-07 11:53:00,Bread,Bakery,2,30.59,Mumbai,85.29,Delivered,61.18,11,Friday,April,No,Morning,No,Slow
+62,ORD1062,CUST286,2023-01-02 06:45:00,Wheat Flour,Grains,5,209.15,Chennai,75.67,Delivered,1045.75,6,Monday,January,No,Morning,Yes,Slow
+63,ORD1063,CUST484,2023-03-29 10:29:00,Onions,Vegetables,3,73.89,Hyderabad,20.68,Delivered,221.67000000000002,10,Wednesday,March,No,Morning,No,Fast
+64,ORD1064,CUST402,2023-03-09 21:07:00,Bananas,Fruits,5,453.81,Pune,53.6,Delivered,2269.05,21,Thursday,March,No,Night,Yes,Slow
+65,ORD1065,CUST346,2023-01-21 07:06:00,Bread,Bakery,1,397.9,Bangalore,86.21,Delivered,397.9,7,Saturday,January,Yes,Morning,No,Slow
+66,ORD1066,CUST418,2023-11-24 19:10:00,Bread,Bakery,4,382.08,Mumbai,20.44,Delivered,1528.32,19,Friday,November,No,Evening,Yes,Fast
+67,ORD1067,CUST275,2023-04-25 02:23:00,Milk,Dairy,4,294.22,Kolkata,34.04,Delivered,1176.88,2,Tuesday,April,No,Night,Yes,Slow
+68,ORD1068,CUST299,2023-07-07 10:17:00,Shampoo,Personal Care,3,44.26,Bangalore,34.9,Delivered,132.78,10,Friday,July,No,Morning,No,Slow
+69,ORD1069,CUST331,2023-10-08 00:29:00,Potatoes,Vegetables,5,236.79,Pune,34.64,Delivered,1183.95,0,Sunday,October,Yes,Night,Yes,Slow
+70,ORD1070,CUST230,2023-03-19 06:51:00,Butter,Dairy,2,88.06,Bangalore,45.28,Delivered,176.12,6,Sunday,March,Yes,Morning,No,Slow
+71,ORD1071,CUST359,2023-01-30 19:47:00,Butter,Dairy,4,264.89,Mumbai,42.38,Delivered,1059.56,19,Monday,January,No,Evening,Yes,Slow
+72,ORD1072,CUST410,2023-07-18 22:41:00,Milk,Dairy,1,253.38,Hyderabad,47.92,Delivered,253.38,22,Tuesday,July,No,Night,No,Slow
+73,ORD1073,CUST205,2023-03-04 11:21:00,Chicken,Meat,1,72.84,Hyderabad,0.0,Returned,72.84,11,Saturday,March,Yes,Morning,No,Fast
+74,ORD1074,CUST432,2023-09-07 19:59:00,Potatoes,Vegetables,5,122.18,Bangalore,60.15,Delivered,610.9000000000001,19,Thursday,September,No,Evening,Yes,Slow
+75,ORD1075,CUST475,2023-12-06 05:03:00,Rice,Grains,4,346.71,Hyderabad,48.37,Delivered,1386.84,5,Wednesday,December,No,Morning,Yes,Slow
+76,ORD1076,CUST265,2023-06-20 12:39:00,Eggs,Dairy,1,271.64,Chennai,40.05,Delivered,271.64,12,Tuesday,June,No,Afternoon,No,Slow
+77,ORD1077,CUST332,2023-07-19 20:49:00,Tomatoes,Vegetables,3,196.6,Kolkata,27.54,Delivered,589.8,20,Wednesday,July,No,Evening,Yes,Fast
+78,ORD1078,CUST257,2023-09-26 10:40:00,Rice,Grains,4,44.33,Bangalore,14.89,Delivered,177.32,10,Tuesday,September,No,Morning,No,Fast
+79,ORD1079,CUST447,2023-07-03 19:43:00,Eggs,Dairy,5,294.55,Bangalore,50.89,Delivered,1472.75,19,Monday,July,No,Evening,Yes,Slow
+80,ORD1080,CUST311,2023-09-08 06:24:00,Fish,Meat,2,298.94,Mumbai,32.63,Delivered,597.88,6,Friday,September,No,Morning,Yes,Slow
+81,ORD1081,CUST487,2023-02-11 14:44:00,Potatoes,Vegetables,1,267.81,Kolkata,0.0,Returned,267.81,14,Saturday,February,Yes,Afternoon,No,Fast
+82,ORD1082,CUST297,2023-05-20 23:05:00,Milk,Dairy,3,151.93,Chennai,0.0,Cancelled,455.79,23,Saturday,May,Yes,Night,No,Fast
+83,ORD1083,CUST104,2023-05-23 15:47:00,Chicken,Meat,1,82.12,Kolkata,32.08,Delivered,82.12,15,Tuesday,May,No,Afternoon,No,Slow
+84,ORD1084,CUST339,2023-06-23 23:20:00,Potatoes,Vegetables,1,97.52,Bangalore,14.18,Delivered,97.52,23,Friday,June,No,Night,No,Fast
+85,ORD1085,CUST197,2023-03-28 20:18:00,Fish,Meat,4,131.64,Mumbai,0.0,Returned,526.56,20,Tuesday,March,No,Evening,Yes,Fast
+86,ORD1086,CUST155,2023-10-11 15:07:00,Apples,Fruits,5,268.43,Kolkata,16.97,Delivered,1342.15,15,Wednesday,October,No,Afternoon,Yes,Fast
+87,ORD1087,CUST239,2023-10-11 17:29:00,Wheat Flour,Grains,4,355.32,Delhi,71.79,Delivered,1421.28,17,Wednesday,October,No,Evening,Yes,Slow
+88,ORD1088,CUST208,2023-05-27 12:09:00,Milk,Dairy,2,299.06,Delhi,35.42,Delivered,598.12,12,Saturday,May,Yes,Afternoon,Yes,Slow
+89,ORD1089,CUST452,2023-03-02 12:35:00,Toothpaste,Personal Care,4,470.92,Mumbai,78.34,Delivered,1883.68,12,Thursday,March,No,Afternoon,Yes,Slow
+90,ORD1090,CUST464,2023-10-23 23:46:00,Butter,Dairy,5,95.97,Delhi,46.48,Delivered,479.85,23,Monday,October,No,Night,No,Slow
+91,ORD1091,CUST454,2023-04-02 23:22:00,Tomatoes,Vegetables,5,68.92,Pune,0.0,Cancelled,344.6,23,Sunday,April,Yes,Night,No,Fast
+92,ORD1092,CUST302,2023-08-01 11:26:00,Potatoes,Vegetables,3,171.7,Bangalore,17.98,Delivered,515.0999999999999,11,Tuesday,August,No,Morning,Yes,Fast
+93,ORD1093,CUST176,2023-02-05 00:23:00,Bread,Bakery,2,127.11,Hyderabad,17.93,Delivered,254.22,0,Sunday,February,Yes,Night,No,Fast
+94,ORD1094,CUST375,2023-05-04 12:55:00,Butter,Dairy,5,51.05,Chennai,0.0,Cancelled,255.25,12,Thursday,May,No,Afternoon,No,Fast
+95,ORD1095,CUST237,2023-07-02 12:27:00,Butter,Dairy,5,345.96,Kolkata,10.55,Delivered,1729.8,12,Sunday,July,Yes,Afternoon,Yes,Fast
+96,ORD1096,CUST221,2023-02-14 18:25:00,Chicken,Meat,4,203.63,Hyderabad,28.94,Delivered,814.52,18,Tuesday,February,No,Evening,Yes,Fast
+97,ORD1097,CUST355,2023-02-26 12:39:00,Butter,Dairy,3,246.63,Kolkata,72.09,Delivered,739.89,12,Sunday,February,Yes,Afternoon,Yes,Slow
+98,ORD1098,CUST197,2023-01-22 23:35:00,Bread,Bakery,1,459.16,Bangalore,73.69,Delivered,459.16,23,Sunday,January,Yes,Night,No,Slow
+99,ORD1099,CUST385,2023-12-17 10:42:00,Wheat Flour,Grains,1,379.46,Delhi,80.26,Delivered,379.46,10,Sunday,December,Yes,Morning,No,Slow
+100,ORD1100,CUST206,2023-08-06 06:05:00,Wheat Flour,Grains,4,147.58,Hyderabad,0.0,Cancelled,590.32,6,Sunday,August,Yes,Morning,Yes,Fast
+101,ORD1101,CUST161,2023-09-16 07:19:00,Fish,Meat,1,22.65,Kolkata,70.8,Delivered,22.65,7,Saturday,September,Yes,Morning,No,Slow
+102,ORD1102,CUST493,2023-05-22 12:08:00,Onions,Vegetables,5,472.41,Chennai,0.0,Cancelled,2362.05,12,Monday,May,No,Afternoon,Yes,Fast
+103,ORD1103,CUST311,2023-03-18 14:42:00,Butter,Dairy,5,338.63,Delhi,72.56,Delivered,1693.15,14,Saturday,March,Yes,Afternoon,Yes,Slow
+104,ORD1104,CUST463,2023-06-06 20:25:00,Milk,Dairy,5,342.31,Mumbai,26.6,Delivered,1711.55,20,Tuesday,June,No,Evening,Yes,Fast
+105,ORD1105,CUST112,2023-07-11 22:42:00,Bananas,Fruits,1,316.9,Chennai,76.83,Delivered,316.9,22,Tuesday,July,No,Night,No,Slow
+106,ORD1106,CUST128,2023-04-19 01:07:00,Milk,Dairy,2,23.75,Kolkata,0.0,Returned,47.5,1,Wednesday,April,No,Night,No,Fast
+107,ORD1107,CUST394,2023-03-07 05:18:00,Bread,Bakery,5,331.4,Hyderabad,16.96,Delivered,1657.0,5,Tuesday,March,No,Morning,Yes,Fast
+108,ORD1108,CUST106,2023-04-14 08:35:00,Wheat Flour,Grains,2,36.46,Chennai,34.57,Delivered,72.92,8,Friday,April,No,Morning,No,Slow
+109,ORD1109,CUST371,2023-04-01 02:01:00,Eggs,Dairy,4,133.49,Kolkata,31.07,Delivered,533.96,2,Saturday,April,Yes,Night,Yes,Slow
+110,ORD1110,CUST215,2023-04-12 23:05:00,Toothpaste,Personal Care,2,203.8,Bangalore,20.17,Delivered,407.6,23,Wednesday,April,No,Night,No,Fast
+111,ORD1111,CUST331,2023-05-09 00:11:00,Potatoes,Vegetables,2,377.79,Mumbai,44.91,Delivered,755.58,0,Tuesday,May,No,Night,Yes,Slow
+112,ORD1112,CUST474,2023-07-04 13:29:00,Shampoo,Personal Care,4,24.12,Hyderabad,0.0,Cancelled,96.48,13,Tuesday,July,No,Afternoon,No,Fast
+113,ORD1113,CUST241,2023-05-08 19:50:00,Toothpaste,Personal Care,4,460.06,Hyderabad,0.0,Returned,1840.24,19,Monday,May,No,Evening,Yes,Fast
+114,ORD1114,CUST457,2023-04-08 07:29:00,Apples,Fruits,5,170.31,Hyderabad,18.91,Delivered,851.55,7,Saturday,April,Yes,Morning,Yes,Fast
+115,ORD1115,CUST401,2023-07-27 18:46:00,Tomatoes,Vegetables,5,113.06,Bangalore,37.07,Delivered,565.3,18,Thursday,July,No,Evening,Yes,Slow
+116,ORD1116,CUST129,2023-02-21 23:10:00,Eggs,Dairy,5,174.44,Delhi,0.0,Returned,872.2,23,Tuesday,February,No,Night,Yes,Fast
+117,ORD1117,CUST102,2023-09-19 06:16:00,Toothpaste,Personal Care,2,335.6,Delhi,31.66,Delivered,671.2,6,Tuesday,September,No,Morning,Yes,Slow
+118,ORD1118,CUST385,2023-06-13 11:50:00,Toothpaste,Personal Care,4,498.05,Hyderabad,77.06,Delivered,1992.2,11,Tuesday,June,No,Morning,Yes,Slow
+119,ORD1119,CUST406,2023-12-05 09:24:00,Fish,Meat,2,228.79,Kolkata,71.7,Delivered,457.58,9,Tuesday,December,No,Morning,No,Slow
+120,ORD1120,CUST395,2023-09-17 10:21:00,Potatoes,Vegetables,4,428.98,Chennai,69.33,Delivered,1715.92,10,Sunday,September,Yes,Morning,Yes,Slow
+121,ORD1121,CUST469,2023-11-30 04:24:00,Onions,Vegetables,1,206.11,Mumbai,15.56,Delivered,206.11,4,Thursday,November,No,Night,No,Fast
+122,ORD1122,CUST314,2023-11-24 16:35:00,Fish,Meat,1,306.86,Hyderabad,83.0,Delivered,306.86,16,Friday,November,No,Afternoon,No,Slow
+123,ORD1123,CUST310,2023-10-17 00:01:00,Bananas,Fruits,4,417.02,Pune,64.84,Delivered,1668.08,0,Tuesday,October,No,Night,Yes,Slow
+124,ORD1124,CUST484,2023-04-22 03:30:00,Shampoo,Personal Care,1,381.72,Mumbai,0.0,Returned,381.72,3,Saturday,April,Yes,Night,No,Fast
+125,ORD1125,CUST476,2023-07-22 19:07:00,Apples,Fruits,1,432.34,Mumbai,53.3,Delivered,432.34,19,Saturday,July,Yes,Evening,No,Slow
+126,ORD1126,CUST336,2023-11-06 16:18:00,Bread,Bakery,4,33.66,Hyderabad,14.98,Delivered,134.64,16,Monday,November,No,Afternoon,No,Fast
+127,ORD1127,CUST256,2023-05-26 16:26:00,Eggs,Dairy,2,160.73,Delhi,50.34,Delivered,321.46,16,Friday,May,No,Afternoon,No,Slow
+128,ORD1128,CUST209,2023-04-09 17:01:00,Milk,Dairy,1,191.52,Chennai,0.0,Cancelled,191.52,17,Sunday,April,Yes,Evening,No,Fast
+129,ORD1129,CUST429,2023-02-19 04:09:00,Shampoo,Personal Care,2,70.92,Hyderabad,47.67,Delivered,141.84,4,Sunday,February,Yes,Night,No,Slow
+130,ORD1130,CUST461,2023-01-11 04:39:00,Wheat Flour,Grains,1,43.12,Bangalore,28.34,Delivered,43.12,4,Wednesday,January,No,Night,No,Fast
+131,ORD1131,CUST229,2023-09-12 21:06:00,Tomatoes,Vegetables,3,23.44,Delhi,72.04,Delivered,70.32000000000001,21,Tuesday,September,No,Night,No,Slow
+132,ORD1132,CUST110,2023-12-10 23:10:00,Fish,Meat,5,145.8,Delhi,53.93,Delivered,729.0,23,Sunday,December,Yes,Night,Yes,Slow
+133,ORD1133,CUST272,2023-05-19 10:16:00,Eggs,Dairy,1,52.2,Hyderabad,29.6,Delivered,52.2,10,Friday,May,No,Morning,No,Fast
+134,ORD1134,CUST348,2023-09-19 18:33:00,Milk,Dairy,2,97.39,Mumbai,75.61,Delivered,194.78,18,Tuesday,September,No,Evening,No,Slow
+135,ORD1135,CUST302,2023-06-23 03:47:00,Apples,Fruits,4,91.18,Mumbai,75.64,Delivered,364.72,3,Friday,June,No,Night,No,Slow
+136,ORD1136,CUST207,2023-12-02 01:09:00,Apples,Fruits,5,234.11,Chennai,71.76,Delivered,1170.5500000000002,1,Saturday,December,Yes,Night,Yes,Slow
+137,ORD1137,CUST113,2023-05-15 07:02:00,Milk,Dairy,3,357.44,Bangalore,34.84,Delivered,1072.32,7,Monday,May,No,Morning,Yes,Slow
+138,ORD1138,CUST297,2023-06-20 04:45:00,Apples,Fruits,5,174.35,Bangalore,46.11,Delivered,871.75,4,Tuesday,June,No,Night,Yes,Slow
+139,ORD1139,CUST498,2023-02-26 10:46:00,Potatoes,Vegetables,5,221.3,Kolkata,74.18,Delivered,1106.5,10,Sunday,February,Yes,Morning,Yes,Slow
+140,ORD1140,CUST340,2023-06-21 20:46:00,Onions,Vegetables,2,119.17,Chennai,78.7,Delivered,238.34,20,Wednesday,June,No,Evening,No,Slow
+141,ORD1141,CUST417,2023-02-20 23:50:00,Chicken,Meat,2,454.77,Mumbai,80.28,Delivered,909.54,23,Monday,February,No,Night,Yes,Slow
+142,ORD1142,CUST388,2023-05-23 00:59:00,Wheat Flour,Grains,4,68.13,Hyderabad,18.25,Delivered,272.52,0,Tuesday,May,No,Night,No,Fast
+143,ORD1143,CUST338,2023-08-09 03:05:00,Butter,Dairy,2,107.06,Kolkata,56.28,Delivered,214.12,3,Wednesday,August,No,Night,No,Slow
+144,ORD1144,CUST146,2023-04-14 04:31:00,Onions,Vegetables,5,309.8,Chennai,33.38,Delivered,1549.0,4,Friday,April,No,Night,Yes,Slow
+145,ORD1145,CUST138,2023-08-23 22:27:00,Tomatoes,Vegetables,4,276.07,Mumbai,79.47,Delivered,1104.28,22,Wednesday,August,No,Night,Yes,Slow
+146,ORD1146,CUST397,2023-03-09 08:58:00,Eggs,Dairy,2,453.64,Bangalore,71.99,Delivered,907.28,8,Thursday,March,No,Morning,Yes,Slow
+147,ORD1147,CUST257,2023-11-13 00:44:00,Potatoes,Vegetables,2,322.43,Pune,38.92,Delivered,644.86,0,Monday,November,No,Night,Yes,Slow
+148,ORD1148,CUST404,2023-04-15 05:37:00,Rice,Grains,4,124.82,Pune,77.43,Delivered,499.28,5,Saturday,April,Yes,Morning,No,Slow
+149,ORD1149,CUST444,2023-04-29 05:51:00,Chicken,Meat,2,53.78,Bangalore,62.05,Delivered,107.56,5,Saturday,April,Yes,Morning,No,Slow
+150,ORD1150,CUST437,2023-08-02 10:07:00,Onions,Vegetables,1,291.35,Bangalore,59.27,Delivered,291.35,10,Wednesday,August,No,Morning,No,Slow
+151,ORD1151,CUST170,2023-04-06 03:06:00,Apples,Fruits,3,100.4,Pune,82.03,Delivered,301.20000000000005,3,Thursday,April,No,Night,No,Slow
+152,ORD1152,CUST130,2023-04-01 07:44:00,Tomatoes,Vegetables,1,223.71,Chennai,12.97,Delivered,223.71,7,Saturday,April,Yes,Morning,No,Fast
+153,ORD1153,CUST409,2023-05-21 03:50:00,Butter,Dairy,5,248.88,Mumbai,18.75,Delivered,1244.4,3,Sunday,May,Yes,Night,Yes,Fast
+154,ORD1154,CUST275,2023-07-21 07:05:00,Apples,Fruits,5,99.42,Chennai,10.92,Delivered,497.1,7,Friday,July,No,Morning,No,Fast
+155,ORD1155,CUST340,2023-02-23 19:21:00,Eggs,Dairy,1,291.77,Pune,50.28,Delivered,291.77,19,Thursday,February,No,Evening,No,Slow
+156,ORD1156,CUST113,2023-05-31 03:11:00,Potatoes,Vegetables,1,402.93,Bangalore,69.89,Delivered,402.93,3,Wednesday,May,No,Night,No,Slow
+157,ORD1157,CUST401,2023-03-22 18:55:00,Butter,Dairy,1,415.19,Kolkata,22.48,Delivered,415.19,18,Wednesday,March,No,Evening,No,Fast
+158,ORD1158,CUST208,2023-04-05 04:56:00,Tomatoes,Vegetables,2,423.31,Chennai,24.12,Delivered,846.62,4,Wednesday,April,No,Night,Yes,Fast
+159,ORD1159,CUST432,2023-06-10 07:20:00,Butter,Dairy,1,151.53,Hyderabad,38.24,Delivered,151.53,7,Saturday,June,Yes,Morning,No,Slow
+160,ORD1160,CUST402,2023-03-06 11:45:00,Apples,Fruits,5,418.29,Pune,0.0,Returned,2091.4500000000003,11,Monday,March,No,Morning,Yes,Fast
+161,ORD1161,CUST199,2023-09-28 19:08:00,Wheat Flour,Grains,5,411.76,Chennai,85.19,Delivered,2058.8,19,Thursday,September,No,Evening,Yes,Slow
+162,ORD1162,CUST391,2023-02-06 16:31:00,Butter,Dairy,4,146.37,Bangalore,11.74,Delivered,585.48,16,Monday,February,No,Afternoon,Yes,Fast
+163,ORD1163,CUST141,2023-01-14 15:59:00,Potatoes,Vegetables,4,160.67,Hyderabad,86.79,Delivered,642.68,15,Saturday,January,Yes,Afternoon,Yes,Slow
+164,ORD1164,CUST239,2023-05-31 00:39:00,Butter,Dairy,5,71.1,Chennai,0.0,Cancelled,355.5,0,Wednesday,May,No,Night,No,Fast
+165,ORD1165,CUST377,2023-07-23 10:25:00,Wheat Flour,Grains,3,162.76,Mumbai,67.61,Delivered,488.28,10,Sunday,July,Yes,Morning,No,Slow
+166,ORD1166,CUST186,2023-06-26 21:25:00,Milk,Dairy,4,55.96,Hyderabad,75.42,Delivered,223.84,21,Monday,June,No,Night,No,Slow
+167,ORD1167,CUST227,2023-06-26 11:48:00,Fish,Meat,3,440.31,Chennai,0.0,Returned,1320.93,11,Monday,June,No,Morning,Yes,Fast
+168,ORD1168,CUST282,2023-09-16 18:31:00,Eggs,Dairy,1,138.95,Mumbai,28.55,Delivered,138.95,18,Saturday,September,Yes,Evening,No,Fast
+169,ORD1169,CUST445,2023-01-12 05:01:00,Butter,Dairy,1,189.07,Chennai,52.51,Delivered,189.07,5,Thursday,January,No,Morning,No,Slow
+170,ORD1170,CUST325,2023-06-19 10:41:00,Fish,Meat,4,285.64,Chennai,30.43,Delivered,1142.56,10,Monday,June,No,Morning,Yes,Slow
+171,ORD1171,CUST339,2023-05-13 03:48:00,Toothpaste,Personal Care,5,361.71,Pune,36.36,Delivered,1808.55,3,Saturday,May,Yes,Night,Yes,Slow
+172,ORD1172,CUST367,2023-03-26 05:15:00,Bananas,Fruits,2,277.41,Hyderabad,30.35,Delivered,554.82,5,Sunday,March,Yes,Morning,Yes,Slow
+173,ORD1173,CUST349,2023-11-10 10:43:00,Chicken,Meat,5,359.73,Pune,19.08,Delivered,1798.65,10,Friday,November,No,Morning,Yes,Fast
+174,ORD1174,CUST494,2023-12-21 07:20:00,Wheat Flour,Grains,2,293.27,Hyderabad,0.0,Returned,586.54,7,Thursday,December,No,Morning,Yes,Fast
+175,ORD1175,CUST413,2023-01-13 15:00:00,Toothpaste,Personal Care,2,140.76,Pune,42.28,Delivered,281.52,15,Friday,January,No,Afternoon,No,Slow
+176,ORD1176,CUST104,2023-02-12 20:39:00,Onions,Vegetables,5,299.77,Mumbai,0.0,Returned,1498.85,20,Sunday,February,Yes,Evening,Yes,Fast
+177,ORD1177,CUST206,2023-07-01 20:54:00,Milk,Dairy,1,40.33,Pune,37.43,Delivered,40.33,20,Saturday,July,Yes,Evening,No,Slow
+178,ORD1178,CUST319,2023-04-17 21:00:00,Onions,Vegetables,3,139.2,Kolkata,32.14,Delivered,417.59999999999997,21,Monday,April,No,Night,No,Slow
+179,ORD1179,CUST345,2023-12-11 09:26:00,Apples,Fruits,3,139.73,Mumbai,0.0,Cancelled,419.18999999999994,9,Monday,December,No,Morning,No,Fast
+180,ORD1180,CUST109,2023-02-14 12:41:00,Shampoo,Personal Care,4,184.55,Hyderabad,39.29,Delivered,738.2,12,Tuesday,February,No,Afternoon,Yes,Slow
+181,ORD1181,CUST112,2023-01-30 11:35:00,Milk,Dairy,3,298.71,Chennai,24.33,Delivered,896.1299999999999,11,Monday,January,No,Morning,Yes,Fast
+182,ORD1182,CUST350,2023-05-27 02:05:00,Apples,Fruits,5,493.72,Hyderabad,89.13,Delivered,2468.6000000000004,2,Saturday,May,Yes,Night,Yes,Slow
+183,ORD1183,CUST369,2023-09-01 08:38:00,Bananas,Fruits,1,296.02,Pune,38.25,Delivered,296.02,8,Friday,September,No,Morning,No,Slow
+184,ORD1184,CUST340,2023-02-06 07:39:00,Milk,Dairy,4,174.06,Chennai,45.66,Delivered,696.24,7,Monday,February,No,Morning,Yes,Slow
+185,ORD1185,CUST450,2023-03-14 13:09:00,Bananas,Fruits,3,35.68,Chennai,52.23,Delivered,107.03999999999999,13,Tuesday,March,No,Afternoon,No,Slow
+186,ORD1186,CUST165,2023-01-20 18:02:00,Wheat Flour,Grains,2,239.62,Chennai,0.0,Returned,479.24,18,Friday,January,No,Evening,No,Fast
+187,ORD1187,CUST448,2023-11-13 17:27:00,Tomatoes,Vegetables,4,441.7,Delhi,68.5,Delivered,1766.8,17,Monday,November,No,Evening,Yes,Slow
+188,ORD1188,CUST394,2023-12-13 12:13:00,Rice,Grains,2,223.85,Chennai,0.0,Cancelled,447.7,12,Wednesday,December,No,Afternoon,No,Fast
+189,ORD1189,CUST296,2023-03-25 08:45:00,Bread,Bakery,2,483.44,Hyderabad,81.34,Delivered,966.88,8,Saturday,March,Yes,Morning,Yes,Slow
+190,ORD1190,CUST447,2023-01-18 19:47:00,Potatoes,Vegetables,1,493.36,Kolkata,61.24,Delivered,493.36,19,Wednesday,January,No,Evening,No,Slow
+191,ORD1191,CUST291,2023-05-09 14:24:00,Butter,Dairy,1,336.17,Chennai,71.29,Delivered,336.17,14,Tuesday,May,No,Afternoon,No,Slow
+192,ORD1192,CUST500,2023-09-22 16:51:00,Potatoes,Vegetables,2,263.74,Mumbai,13.58,Delivered,527.48,16,Friday,September,No,Afternoon,Yes,Fast
+193,ORD1193,CUST377,2023-01-09 05:57:00,Butter,Dairy,4,190.79,Hyderabad,35.74,Delivered,763.16,5,Monday,January,No,Morning,Yes,Slow
+194,ORD1194,CUST296,2023-11-28 15:51:00,Eggs,Dairy,3,446.16,Hyderabad,66.22,Delivered,1338.48,15,Tuesday,November,No,Afternoon,Yes,Slow
+195,ORD1195,CUST204,2023-07-10 05:09:00,Wheat Flour,Grains,5,180.39,Hyderabad,46.45,Delivered,901.9499999999999,5,Monday,July,No,Morning,Yes,Slow
+196,ORD1196,CUST214,2023-12-29 16:09:00,Wheat Flour,Grains,3,137.51,Chennai,33.94,Delivered,412.53,16,Friday,December,No,Afternoon,No,Slow
+197,ORD1197,CUST499,2023-07-14 00:12:00,Rice,Grains,3,332.4,Mumbai,51.44,Delivered,997.1999999999999,0,Friday,July,No,Night,Yes,Slow
+198,ORD1198,CUST417,2023-11-05 22:16:00,Fish,Meat,1,77.43,Pune,10.7,Delivered,77.43,22,Sunday,November,Yes,Night,No,Fast
+199,ORD1199,CUST150,2023-10-15 06:36:00,Milk,Dairy,1,379.86,Kolkata,46.13,Delivered,379.86,6,Sunday,October,Yes,Morning,No,Slow
+200,ORD1200,CUST185,2023-11-28 00:19:00,Milk,Dairy,1,239.29,Chennai,86.47,Delivered,239.29,0,Tuesday,November,No,Night,No,Slow
+201,ORD1201,CUST171,2023-09-25 07:22:00,Apples,Fruits,3,237.79,Chennai,0.0,Returned,713.37,7,Monday,September,No,Morning,Yes,Fast
+202,ORD1202,CUST313,2023-10-14 05:03:00,Bananas,Fruits,5,201.23,Hyderabad,18.2,Delivered,1006.15,5,Saturday,October,Yes,Morning,Yes,Fast
+203,ORD1203,CUST199,2023-11-24 14:01:00,Eggs,Dairy,1,199.95,Hyderabad,0.0,Returned,199.95,14,Friday,November,No,Afternoon,No,Fast
+204,ORD1204,CUST479,2023-04-05 10:37:00,Eggs,Dairy,5,271.21,Bangalore,41.7,Delivered,1356.05,10,Wednesday,April,No,Morning,Yes,Slow
+205,ORD1205,CUST376,2023-12-20 12:30:00,Chicken,Meat,2,306.17,Delhi,0.0,Returned,612.34,12,Wednesday,December,No,Afternoon,Yes,Fast
+206,ORD1206,CUST288,2023-02-05 07:38:00,Apples,Fruits,5,105.26,Pune,80.1,Delivered,526.3000000000001,7,Sunday,February,Yes,Morning,Yes,Slow
+207,ORD1207,CUST364,2023-09-02 06:15:00,Milk,Dairy,5,359.49,Chennai,0.0,Cancelled,1797.45,6,Saturday,September,Yes,Morning,Yes,Fast
+208,ORD1208,CUST106,2023-11-09 01:21:00,Shampoo,Personal Care,5,455.69,Kolkata,38.16,Delivered,2278.45,1,Thursday,November,No,Night,Yes,Slow
+209,ORD1209,CUST202,2023-02-09 08:56:00,Shampoo,Personal Care,4,229.05,Chennai,68.64,Delivered,916.2,8,Thursday,February,No,Morning,Yes,Slow
+210,ORD1210,CUST216,2023-10-12 11:55:00,Apples,Fruits,1,400.58,Kolkata,52.82,Delivered,400.58,11,Thursday,October,No,Morning,No,Slow
+211,ORD1211,CUST429,2023-03-28 02:17:00,Chicken,Meat,1,60.06,Chennai,0.0,Returned,60.06,2,Tuesday,March,No,Night,No,Fast
+212,ORD1212,CUST488,2023-05-31 13:27:00,Rice,Grains,2,463.96,Delhi,65.52,Delivered,927.92,13,Wednesday,May,No,Afternoon,Yes,Slow
+213,ORD1213,CUST121,2023-06-03 22:44:00,Toothpaste,Personal Care,1,50.88,Kolkata,0.0,Returned,50.88,22,Saturday,June,Yes,Night,No,Fast
+214,ORD1214,CUST288,2023-07-05 03:37:00,Bread,Bakery,4,35.81,Bangalore,0.0,Cancelled,143.24,3,Wednesday,July,No,Night,No,Fast
+215,ORD1215,CUST418,2023-01-08 10:31:00,Eggs,Dairy,1,150.14,Pune,65.67,Delivered,150.14,10,Sunday,January,Yes,Morning,No,Slow
+216,ORD1216,CUST412,2023-09-25 04:33:00,Potatoes,Vegetables,3,147.51,Chennai,0.0,Cancelled,442.53,4,Monday,September,No,Night,No,Fast
+217,ORD1217,CUST129,2023-10-11 15:48:00,Butter,Dairy,2,482.15,Pune,0.0,Cancelled,964.3,15,Wednesday,October,No,Afternoon,Yes,Fast
+218,ORD1218,CUST263,2023-04-07 16:05:00,Fish,Meat,1,282.22,Hyderabad,48.29,Delivered,282.22,16,Friday,April,No,Afternoon,No,Slow
+219,ORD1219,CUST461,2023-11-03 16:19:00,Shampoo,Personal Care,3,376.69,Delhi,73.43,Delivered,1130.07,16,Friday,November,No,Afternoon,Yes,Slow
+220,ORD1220,CUST272,2023-03-15 15:48:00,Potatoes,Vegetables,5,442.83,Bangalore,78.85,Delivered,2214.15,15,Wednesday,March,No,Afternoon,Yes,Slow
+221,ORD1221,CUST177,2023-09-19 11:24:00,Onions,Vegetables,4,256.09,Chennai,37.53,Delivered,1024.36,11,Tuesday,September,No,Morning,Yes,Slow
+222,ORD1222,CUST369,2023-07-31 14:12:00,Fish,Meat,2,243.48,Kolkata,79.74,Delivered,486.96,14,Monday,July,No,Afternoon,No,Slow
+223,ORD1223,CUST291,2023-02-23 22:56:00,Chicken,Meat,4,225.85,Hyderabad,80.15,Delivered,903.4,22,Thursday,February,No,Night,Yes,Slow
+224,ORD1224,CUST136,2023-05-02 18:27:00,Potatoes,Vegetables,1,373.11,Kolkata,85.61,Delivered,373.11,18,Tuesday,May,No,Evening,No,Slow
+225,ORD1225,CUST297,2023-04-24 17:49:00,Apples,Fruits,5,259.91,Kolkata,81.42,Delivered,1299.5500000000002,17,Monday,April,No,Evening,Yes,Slow
+226,ORD1226,CUST435,2023-02-26 15:34:00,Apples,Fruits,4,35.04,Delhi,28.53,Delivered,140.16,15,Sunday,February,Yes,Afternoon,No,Fast
+227,ORD1227,CUST462,2023-03-12 10:14:00,Apples,Fruits,2,460.23,Chennai,0.0,Returned,920.46,10,Sunday,March,Yes,Morning,Yes,Fast
+228,ORD1228,CUST396,2023-03-04 01:59:00,Butter,Dairy,5,411.14,Delhi,49.0,Delivered,2055.7,1,Saturday,March,Yes,Night,Yes,Slow
+229,ORD1229,CUST417,2023-03-10 02:26:00,Rice,Grains,2,340.88,Delhi,37.18,Delivered,681.76,2,Friday,March,No,Night,Yes,Slow
+230,ORD1230,CUST388,2023-01-22 16:40:00,Butter,Dairy,4,154.42,Chennai,44.16,Delivered,617.68,16,Sunday,January,Yes,Afternoon,Yes,Slow
+231,ORD1231,CUST485,2023-06-04 04:29:00,Bread,Bakery,2,41.38,Chennai,0.0,Cancelled,82.76,4,Sunday,June,Yes,Night,No,Fast
+232,ORD1232,CUST467,2023-06-04 13:43:00,Toothpaste,Personal Care,1,48.77,Bangalore,85.57,Delivered,48.77,13,Sunday,June,Yes,Afternoon,No,Slow
+233,ORD1233,CUST296,2023-04-10 22:04:00,Wheat Flour,Grains,1,185.7,Delhi,59.71,Delivered,185.7,22,Monday,April,No,Night,No,Slow
+234,ORD1234,CUST496,2023-05-02 15:30:00,Milk,Dairy,3,25.09,Pune,36.11,Delivered,75.27,15,Tuesday,May,No,Afternoon,No,Slow
+235,ORD1235,CUST277,2023-07-03 07:38:00,Eggs,Dairy,4,232.27,Kolkata,44.0,Delivered,929.08,7,Monday,July,No,Morning,Yes,Slow
+236,ORD1236,CUST109,2023-06-23 21:42:00,Eggs,Dairy,2,212.86,Bangalore,13.84,Delivered,425.72,21,Friday,June,No,Night,No,Fast
+237,ORD1237,CUST418,2023-06-18 12:50:00,Bananas,Fruits,3,479.71,Hyderabad,60.36,Delivered,1439.1299999999999,12,Sunday,June,Yes,Afternoon,Yes,Slow
+238,ORD1238,CUST170,2023-10-08 23:22:00,Rice,Grains,3,343.72,Pune,26.39,Delivered,1031.16,23,Sunday,October,Yes,Night,Yes,Fast
+239,ORD1239,CUST343,2023-10-18 04:09:00,Butter,Dairy,3,90.82,Hyderabad,0.0,Cancelled,272.46,4,Wednesday,October,No,Night,No,Fast
+240,ORD1240,CUST332,2023-01-31 07:28:00,Butter,Dairy,1,129.91,Delhi,0.0,Cancelled,129.91,7,Tuesday,January,No,Morning,No,Fast
+241,ORD1241,CUST153,2023-02-15 17:21:00,Toothpaste,Personal Care,1,356.49,Delhi,35.95,Delivered,356.49,17,Wednesday,February,No,Evening,No,Slow
+242,ORD1242,CUST243,2023-01-01 13:21:00,Eggs,Dairy,5,243.43,Mumbai,44.87,Delivered,1217.15,13,Sunday,January,Yes,Afternoon,Yes,Slow
+243,ORD1243,CUST181,2023-05-01 02:52:00,Potatoes,Vegetables,4,248.37,Bangalore,74.69,Delivered,993.48,2,Monday,May,No,Night,Yes,Slow
+244,ORD1244,CUST412,2023-12-02 16:13:00,Potatoes,Vegetables,4,319.58,Pune,53.58,Delivered,1278.32,16,Saturday,December,Yes,Afternoon,Yes,Slow
+245,ORD1245,CUST242,2023-01-18 01:59:00,Rice,Grains,4,145.51,Chennai,69.9,Delivered,582.04,1,Wednesday,January,No,Night,Yes,Slow
+246,ORD1246,CUST153,2023-09-30 12:18:00,Bananas,Fruits,2,345.04,Bangalore,0.0,Cancelled,690.08,12,Saturday,September,Yes,Afternoon,Yes,Fast
+247,ORD1247,CUST149,2023-04-11 06:38:00,Bananas,Fruits,1,416.05,Mumbai,0.0,Cancelled,416.05,6,Tuesday,April,No,Morning,No,Fast
+248,ORD1248,CUST110,2023-02-25 14:39:00,Bananas,Fruits,4,202.68,Chennai,29.86,Delivered,810.72,14,Saturday,February,Yes,Afternoon,Yes,Fast
+249,ORD1249,CUST417,2023-12-27 15:50:00,Shampoo,Personal Care,5,397.82,Delhi,62.3,Delivered,1989.1,15,Wednesday,December,No,Afternoon,Yes,Slow
+250,ORD1250,CUST162,2023-02-16 15:07:00,Bananas,Fruits,4,384.54,Hyderabad,80.71,Delivered,1538.16,15,Thursday,February,No,Afternoon,Yes,Slow
+251,ORD1251,CUST362,2023-02-11 09:33:00,Bread,Bakery,1,24.26,Hyderabad,0.0,Returned,24.26,9,Saturday,February,Yes,Morning,No,Fast
+252,ORD1252,CUST153,2023-04-26 16:53:00,Potatoes,Vegetables,2,485.03,Pune,45.53,Delivered,970.06,16,Wednesday,April,No,Afternoon,Yes,Slow
+253,ORD1253,CUST215,2023-02-11 23:24:00,Chicken,Meat,3,186.65,Chennai,72.44,Delivered,559.95,23,Saturday,February,Yes,Night,Yes,Slow
+254,ORD1254,CUST230,2023-09-12 23:47:00,Milk,Dairy,5,405.95,Bangalore,14.38,Delivered,2029.75,23,Tuesday,September,No,Night,Yes,Fast
+255,ORD1255,CUST361,2023-01-30 13:58:00,Rice,Grains,4,374.37,Pune,0.0,Returned,1497.48,13,Monday,January,No,Afternoon,Yes,Fast
+256,ORD1256,CUST122,2023-07-04 09:25:00,Milk,Dairy,1,437.57,Kolkata,52.17,Delivered,437.57,9,Tuesday,July,No,Morning,No,Slow
+257,ORD1257,CUST198,2023-03-10 19:20:00,Shampoo,Personal Care,3,99.64,Kolkata,0.0,Returned,298.92,19,Friday,March,No,Evening,No,Fast
+258,ORD1258,CUST126,2023-07-25 03:52:00,Bananas,Fruits,4,232.9,Chennai,36.84,Delivered,931.6,3,Tuesday,July,No,Night,Yes,Slow
+259,ORD1259,CUST196,2023-05-11 11:48:00,Butter,Dairy,5,75.16,Kolkata,0.0,Returned,375.79999999999995,11,Thursday,May,No,Morning,No,Fast
+260,ORD1260,CUST154,2023-05-22 02:44:00,Potatoes,Vegetables,5,140.28,Bangalore,0.0,Returned,701.4,2,Monday,May,No,Night,Yes,Fast
+261,ORD1261,CUST347,2023-10-25 09:34:00,Apples,Fruits,2,72.64,Hyderabad,21.71,Delivered,145.28,9,Wednesday,October,No,Morning,No,Fast
+262,ORD1262,CUST136,2023-09-02 11:27:00,Onions,Vegetables,2,105.04,Pune,82.97,Delivered,210.08,11,Saturday,September,Yes,Morning,No,Slow
+263,ORD1263,CUST172,2023-11-20 10:13:00,Butter,Dairy,4,229.5,Delhi,86.88,Delivered,918.0,10,Monday,November,No,Morning,Yes,Slow
+264,ORD1264,CUST220,2023-11-06 05:40:00,Chicken,Meat,2,249.7,Chennai,0.0,Cancelled,499.4,5,Monday,November,No,Morning,No,Fast
+265,ORD1265,CUST362,2023-09-16 16:39:00,Bread,Bakery,4,53.07,Hyderabad,0.0,Cancelled,212.28,16,Saturday,September,Yes,Afternoon,No,Fast
+266,ORD1266,CUST495,2023-01-04 10:10:00,Toothpaste,Personal Care,5,260.14,Hyderabad,0.0,Cancelled,1300.6999999999998,10,Wednesday,January,No,Morning,Yes,Fast
+267,ORD1267,CUST276,2023-03-19 04:25:00,Rice,Grains,3,388.29,Pune,12.57,Delivered,1164.8700000000001,4,Sunday,March,Yes,Night,Yes,Fast
+268,ORD1268,CUST499,2023-04-23 13:53:00,Milk,Dairy,1,319.54,Chennai,28.24,Delivered,319.54,13,Sunday,April,Yes,Afternoon,No,Fast
+269,ORD1269,CUST207,2023-06-09 04:14:00,Bread,Bakery,4,252.31,Delhi,47.04,Delivered,1009.24,4,Friday,June,No,Night,Yes,Slow
+270,ORD1270,CUST181,2023-12-27 02:29:00,Wheat Flour,Grains,4,466.99,Bangalore,71.53,Delivered,1867.96,2,Wednesday,December,No,Night,Yes,Slow
+271,ORD1271,CUST195,2023-09-29 04:48:00,Toothpaste,Personal Care,5,379.82,Bangalore,42.0,Delivered,1899.1,4,Friday,September,No,Night,Yes,Slow
+272,ORD1272,CUST390,2023-08-11 21:50:00,Fish,Meat,5,171.67,Bangalore,14.38,Delivered,858.3499999999999,21,Friday,August,No,Night,Yes,Fast
+273,ORD1273,CUST257,2023-11-04 16:15:00,Chicken,Meat,5,481.79,Mumbai,74.03,Delivered,2408.9500000000003,16,Saturday,November,Yes,Afternoon,Yes,Slow
+274,ORD1274,CUST130,2023-07-19 04:46:00,Apples,Fruits,2,288.92,Mumbai,87.83,Delivered,577.84,4,Wednesday,July,No,Night,Yes,Slow
+275,ORD1275,CUST322,2023-06-06 19:10:00,Apples,Fruits,1,83.88,Kolkata,40.52,Delivered,83.88,19,Tuesday,June,No,Evening,No,Slow
+276,ORD1276,CUST435,2023-04-03 23:43:00,Wheat Flour,Grains,2,137.53,Hyderabad,76.63,Delivered,275.06,23,Monday,April,No,Night,No,Slow
+277,ORD1277,CUST106,2023-07-23 20:19:00,Bananas,Fruits,1,213.53,Kolkata,49.7,Delivered,213.53,20,Sunday,July,Yes,Evening,No,Slow
+278,ORD1278,CUST391,2023-03-30 00:07:00,Tomatoes,Vegetables,1,463.91,Pune,11.07,Delivered,463.91,0,Thursday,March,No,Night,No,Fast
+279,ORD1279,CUST366,2023-02-21 01:15:00,Eggs,Dairy,1,212.25,Hyderabad,67.94,Delivered,212.25,1,Tuesday,February,No,Night,No,Slow
+280,ORD1280,CUST440,2023-02-09 04:54:00,Chicken,Meat,3,208.08,Bangalore,58.8,Delivered,624.24,4,Thursday,February,No,Night,Yes,Slow
+281,ORD1281,CUST458,2023-03-11 07:10:00,Toothpaste,Personal Care,1,206.3,Delhi,53.55,Delivered,206.3,7,Saturday,March,Yes,Morning,No,Slow
+282,ORD1282,CUST496,2023-10-12 00:29:00,Tomatoes,Vegetables,2,266.98,Bangalore,84.59,Delivered,533.96,0,Thursday,October,No,Night,Yes,Slow
+283,ORD1283,CUST397,2023-11-21 13:50:00,Eggs,Dairy,2,251.02,Bangalore,43.78,Delivered,502.04,13,Tuesday,November,No,Afternoon,Yes,Slow
+284,ORD1284,CUST205,2023-07-30 08:35:00,Shampoo,Personal Care,5,53.53,Pune,89.11,Delivered,267.65,8,Sunday,July,Yes,Morning,No,Slow
+285,ORD1285,CUST182,2023-11-24 17:41:00,Tomatoes,Vegetables,5,469.44,Kolkata,0.0,Returned,2347.2,17,Friday,November,No,Evening,Yes,Fast
+286,ORD1286,CUST112,2023-12-08 01:18:00,Bananas,Fruits,1,172.62,Pune,0.0,Returned,172.62,1,Friday,December,No,Night,No,Fast
+287,ORD1287,CUST178,2023-10-27 13:39:00,Bread,Bakery,1,134.82,Kolkata,23.92,Delivered,134.82,13,Friday,October,No,Afternoon,No,Fast
+288,ORD1288,CUST265,2023-01-03 07:47:00,Onions,Vegetables,3,46.74,Chennai,89.13,Delivered,140.22,7,Tuesday,January,No,Morning,No,Slow
+289,ORD1289,CUST262,2023-03-04 02:14:00,Tomatoes,Vegetables,3,291.42,Mumbai,40.22,Delivered,874.26,2,Saturday,March,Yes,Night,Yes,Slow
+290,ORD1290,CUST109,2023-01-25 16:49:00,Toothpaste,Personal Care,3,64.18,Mumbai,27.22,Delivered,192.54000000000002,16,Wednesday,January,No,Afternoon,No,Fast
+291,ORD1291,CUST227,2023-04-04 08:40:00,Butter,Dairy,2,310.34,Pune,0.0,Cancelled,620.68,8,Tuesday,April,No,Morning,Yes,Fast
+292,ORD1292,CUST276,2023-07-15 02:22:00,Milk,Dairy,2,104.82,Hyderabad,0.0,Returned,209.64,2,Saturday,July,Yes,Night,No,Fast
+293,ORD1293,CUST336,2023-03-20 10:15:00,Potatoes,Vegetables,2,22.14,Delhi,32.97,Delivered,44.28,10,Monday,March,No,Morning,No,Slow
+294,ORD1294,CUST365,2023-05-26 18:08:00,Bread,Bakery,4,66.97,Delhi,42.43,Delivered,267.88,18,Friday,May,No,Evening,No,Slow
+295,ORD1295,CUST258,2023-02-01 09:50:00,Rice,Grains,2,106.31,Delhi,0.0,Returned,212.62,9,Wednesday,February,No,Morning,No,Fast
+296,ORD1296,CUST159,2023-04-06 14:46:00,Onions,Vegetables,2,32.76,Chennai,43.94,Delivered,65.52,14,Thursday,April,No,Afternoon,No,Slow
+297,ORD1297,CUST382,2023-04-25 11:19:00,Fish,Meat,1,249.82,Mumbai,58.8,Delivered,249.82,11,Tuesday,April,No,Morning,No,Slow
+298,ORD1298,CUST342,2023-07-30 02:52:00,Chicken,Meat,1,212.73,Delhi,25.21,Delivered,212.73,2,Sunday,July,Yes,Night,No,Fast
+299,ORD1299,CUST435,2023-12-30 10:35:00,Wheat Flour,Grains,5,99.34,Delhi,61.19,Delivered,496.70000000000005,10,Saturday,December,Yes,Morning,No,Slow
+300,ORD1300,CUST340,2023-08-06 22:04:00,Shampoo,Personal Care,5,198.42,Delhi,73.16,Delivered,992.0999999999999,22,Sunday,August,Yes,Night,Yes,Slow
+301,ORD1301,CUST161,2023-02-12 03:01:00,Eggs,Dairy,2,259.32,Bangalore,59.39,Delivered,518.64,3,Sunday,February,Yes,Night,Yes,Slow
+302,ORD1302,CUST374,2023-10-04 21:21:00,Toothpaste,Personal Care,5,231.59,Chennai,66.74,Delivered,1157.95,21,Wednesday,October,No,Night,Yes,Slow
+303,ORD1303,CUST166,2023-05-09 03:11:00,Toothpaste,Personal Care,5,313.97,Chennai,61.5,Delivered,1569.8500000000001,3,Tuesday,May,No,Night,Yes,Slow
+304,ORD1304,CUST246,2023-11-17 02:22:00,Apples,Fruits,2,104.45,Mumbai,56.35,Delivered,208.9,2,Friday,November,No,Night,No,Slow
+305,ORD1305,CUST342,2023-02-10 05:44:00,Eggs,Dairy,5,461.94,Chennai,12.16,Delivered,2309.7,5,Friday,February,No,Morning,Yes,Fast
+306,ORD1306,CUST409,2023-05-19 22:54:00,Apples,Fruits,3,379.83,Delhi,42.94,Delivered,1139.49,22,Friday,May,No,Night,Yes,Slow
+307,ORD1307,CUST438,2023-08-04 11:11:00,Apples,Fruits,1,493.14,Pune,76.34,Delivered,493.14,11,Friday,August,No,Morning,No,Slow
+308,ORD1308,CUST418,2023-02-09 17:47:00,Shampoo,Personal Care,4,235.71,Chennai,72.94,Delivered,942.84,17,Thursday,February,No,Evening,Yes,Slow
+309,ORD1309,CUST459,2023-12-15 14:08:00,Onions,Vegetables,1,162.97,Pune,36.8,Delivered,162.97,14,Friday,December,No,Afternoon,No,Slow
+310,ORD1310,CUST470,2023-01-05 01:40:00,Milk,Dairy,5,395.83,Mumbai,22.47,Delivered,1979.1499999999999,1,Thursday,January,No,Night,Yes,Fast
+311,ORD1311,CUST146,2023-09-19 15:48:00,Potatoes,Vegetables,4,209.67,Kolkata,73.25,Delivered,838.68,15,Tuesday,September,No,Afternoon,Yes,Slow
+312,ORD1312,CUST412,2023-03-14 12:47:00,Rice,Grains,5,208.52,Chennai,37.08,Delivered,1042.6000000000001,12,Tuesday,March,No,Afternoon,Yes,Slow
+313,ORD1313,CUST138,2023-02-15 14:23:00,Apples,Fruits,5,201.99,Chennai,40.26,Delivered,1009.95,14,Wednesday,February,No,Afternoon,Yes,Slow
+314,ORD1314,CUST172,2023-06-26 18:36:00,Wheat Flour,Grains,5,200.83,Hyderabad,0.0,Cancelled,1004.1500000000001,18,Monday,June,No,Evening,Yes,Fast
+315,ORD1315,CUST412,2023-07-04 11:13:00,Wheat Flour,Grains,4,118.08,Delhi,76.08,Delivered,472.32,11,Tuesday,July,No,Morning,No,Slow
+316,ORD1316,CUST223,2023-05-21 01:32:00,Bananas,Fruits,5,387.37,Delhi,0.0,Returned,1936.85,1,Sunday,May,Yes,Night,Yes,Fast
+317,ORD1317,CUST296,2023-02-06 16:16:00,Milk,Dairy,4,55.83,Pune,22.07,Delivered,223.32,16,Monday,February,No,Afternoon,No,Fast
+318,ORD1318,CUST175,2023-07-29 19:05:00,Butter,Dairy,1,36.25,Mumbai,0.0,Cancelled,36.25,19,Saturday,July,Yes,Evening,No,Fast
+319,ORD1319,CUST474,2023-03-18 04:35:00,Tomatoes,Vegetables,3,268.53,Hyderabad,73.61,Delivered,805.5899999999999,4,Saturday,March,Yes,Night,Yes,Slow
+320,ORD1320,CUST471,2023-03-23 02:51:00,Bananas,Fruits,3,202.29,Delhi,71.54,Delivered,606.87,2,Thursday,March,No,Night,Yes,Slow
+321,ORD1321,CUST123,2023-10-26 11:33:00,Onions,Vegetables,3,367.96,Bangalore,21.77,Delivered,1103.8799999999999,11,Thursday,October,No,Morning,Yes,Fast
+322,ORD1322,CUST377,2023-06-07 21:06:00,Potatoes,Vegetables,1,108.39,Bangalore,32.25,Delivered,108.39,21,Wednesday,June,No,Night,No,Slow
+323,ORD1323,CUST142,2023-03-17 07:10:00,Fish,Meat,1,210.25,Kolkata,37.09,Delivered,210.25,7,Friday,March,No,Morning,No,Slow
+324,ORD1324,CUST498,2023-07-31 08:20:00,Eggs,Dairy,4,58.35,Bangalore,0.0,Cancelled,233.4,8,Monday,July,No,Morning,No,Fast
+325,ORD1325,CUST458,2023-06-21 16:47:00,Eggs,Dairy,4,265.86,Bangalore,42.36,Delivered,1063.44,16,Wednesday,June,No,Afternoon,Yes,Slow
+326,ORD1326,CUST373,2023-04-06 21:51:00,Eggs,Dairy,2,187.55,Delhi,70.41,Delivered,375.1,21,Thursday,April,No,Night,No,Slow
+327,ORD1327,CUST232,2023-11-06 08:24:00,Bananas,Fruits,3,497.44,Delhi,20.08,Delivered,1492.32,8,Monday,November,No,Morning,Yes,Fast
+328,ORD1328,CUST340,2023-04-19 11:57:00,Bread,Bakery,4,381.73,Kolkata,46.71,Delivered,1526.92,11,Wednesday,April,No,Morning,Yes,Slow
+329,ORD1329,CUST306,2023-01-03 17:02:00,Eggs,Dairy,5,490.45,Delhi,14.5,Delivered,2452.25,17,Tuesday,January,No,Evening,Yes,Fast
+330,ORD1330,CUST287,2023-11-14 00:59:00,Chicken,Meat,3,207.84,Kolkata,0.0,Returned,623.52,0,Tuesday,November,No,Night,Yes,Fast
+331,ORD1331,CUST285,2023-12-15 17:42:00,Shampoo,Personal Care,3,156.21,Mumbai,15.16,Delivered,468.63,17,Friday,December,No,Evening,No,Fast
+332,ORD1332,CUST398,2023-02-11 20:03:00,Apples,Fruits,4,183.76,Bangalore,47.99,Delivered,735.04,20,Saturday,February,Yes,Evening,Yes,Slow
+333,ORD1333,CUST334,2023-01-18 23:00:00,Fish,Meat,4,114.75,Mumbai,44.62,Delivered,459.0,23,Wednesday,January,No,Night,No,Slow
+334,ORD1334,CUST162,2023-04-17 12:40:00,Rice,Grains,1,306.66,Hyderabad,22.64,Delivered,306.66,12,Monday,April,No,Afternoon,No,Fast
+335,ORD1335,CUST480,2023-09-01 04:32:00,Bananas,Fruits,5,449.75,Bangalore,38.26,Delivered,2248.75,4,Friday,September,No,Night,Yes,Slow
+336,ORD1336,CUST404,2023-01-23 00:19:00,Potatoes,Vegetables,3,76.61,Mumbai,42.35,Delivered,229.82999999999998,0,Monday,January,No,Night,No,Slow
+337,ORD1337,CUST382,2023-03-30 17:41:00,Potatoes,Vegetables,4,75.87,Pune,61.66,Delivered,303.48,17,Thursday,March,No,Evening,No,Slow
+338,ORD1338,CUST351,2023-03-29 09:29:00,Milk,Dairy,2,305.99,Chennai,59.54,Delivered,611.98,9,Wednesday,March,No,Morning,Yes,Slow
+339,ORD1339,CUST194,2023-10-24 02:07:00,Milk,Dairy,5,392.15,Hyderabad,24.14,Delivered,1960.75,2,Tuesday,October,No,Night,Yes,Fast
+340,ORD1340,CUST296,2023-10-19 02:15:00,Onions,Vegetables,2,476.45,Bangalore,85.38,Delivered,952.9,2,Thursday,October,No,Night,Yes,Slow
+341,ORD1341,CUST128,2023-01-02 22:26:00,Bread,Bakery,4,345.1,Bangalore,52.31,Delivered,1380.4,22,Monday,January,No,Night,Yes,Slow
+342,ORD1342,CUST262,2023-01-18 02:48:00,Bananas,Fruits,5,148.66,Hyderabad,70.58,Delivered,743.3,2,Wednesday,January,No,Night,Yes,Slow
+343,ORD1343,CUST498,2023-08-16 18:57:00,Potatoes,Vegetables,5,115.04,Chennai,0.0,Cancelled,575.2,18,Wednesday,August,No,Evening,Yes,Fast
+344,ORD1344,CUST227,2023-07-13 16:06:00,Potatoes,Vegetables,4,45.23,Delhi,52.06,Delivered,180.92,16,Thursday,July,No,Afternoon,No,Slow
+345,ORD1345,CUST258,2023-03-19 13:25:00,Apples,Fruits,1,337.71,Pune,0.0,Cancelled,337.71,13,Sunday,March,Yes,Afternoon,No,Fast
+346,ORD1346,CUST186,2023-02-10 03:36:00,Wheat Flour,Grains,2,315.55,Hyderabad,10.71,Delivered,631.1,3,Friday,February,No,Night,Yes,Fast
+347,ORD1347,CUST115,2023-05-30 16:53:00,Toothpaste,Personal Care,5,334.36,Chennai,0.0,Returned,1671.8000000000002,16,Tuesday,May,No,Afternoon,Yes,Fast
+348,ORD1348,CUST473,2023-10-09 11:42:00,Bread,Bakery,2,312.87,Kolkata,88.36,Delivered,625.74,11,Monday,October,No,Morning,Yes,Slow
+349,ORD1349,CUST141,2023-07-29 03:25:00,Onions,Vegetables,2,310.69,Delhi,25.13,Delivered,621.38,3,Saturday,July,Yes,Night,Yes,Fast
+350,ORD1350,CUST278,2023-01-01 14:38:00,Eggs,Dairy,1,61.83,Delhi,47.72,Delivered,61.83,14,Sunday,January,Yes,Afternoon,No,Slow
+351,ORD1351,CUST278,2023-07-16 19:15:00,Apples,Fruits,3,221.19,Kolkata,18.89,Delivered,663.5699999999999,19,Sunday,July,Yes,Evening,Yes,Fast
+352,ORD1352,CUST206,2023-04-22 05:23:00,Shampoo,Personal Care,3,389.92,Bangalore,87.94,Delivered,1169.76,5,Saturday,April,Yes,Morning,Yes,Slow
+353,ORD1353,CUST410,2023-03-06 17:09:00,Milk,Dairy,4,390.26,Pune,88.37,Delivered,1561.04,17,Monday,March,No,Evening,Yes,Slow
+354,ORD1354,CUST474,2023-05-03 08:08:00,Apples,Fruits,4,373.87,Delhi,0.0,Cancelled,1495.48,8,Wednesday,May,No,Morning,Yes,Fast
+355,ORD1355,CUST255,2023-06-09 21:54:00,Bread,Bakery,5,26.35,Pune,20.04,Delivered,131.75,21,Friday,June,No,Night,No,Fast
+356,ORD1356,CUST346,2023-08-28 19:01:00,Bread,Bakery,3,160.93,Pune,51.94,Delivered,482.79,19,Monday,August,No,Evening,No,Slow
+357,ORD1357,CUST185,2023-04-12 08:35:00,Onions,Vegetables,4,202.86,Bangalore,48.16,Delivered,811.44,8,Wednesday,April,No,Morning,Yes,Slow
+358,ORD1358,CUST164,2023-05-10 07:37:00,Chicken,Meat,3,243.7,Mumbai,54.34,Delivered,731.0999999999999,7,Wednesday,May,No,Morning,Yes,Slow
+359,ORD1359,CUST338,2023-02-19 05:19:00,Butter,Dairy,4,467.75,Kolkata,0.0,Cancelled,1871.0,5,Sunday,February,Yes,Morning,Yes,Fast
+360,ORD1360,CUST244,2023-05-11 16:28:00,Bread,Bakery,5,40.7,Hyderabad,75.9,Delivered,203.5,16,Thursday,May,No,Afternoon,No,Slow
+361,ORD1361,CUST249,2023-12-30 23:43:00,Tomatoes,Vegetables,2,32.47,Chennai,67.86,Delivered,64.94,23,Saturday,December,Yes,Night,No,Slow
+362,ORD1362,CUST324,2023-02-19 20:03:00,Milk,Dairy,3,157.28,Mumbai,43.68,Delivered,471.84000000000003,20,Sunday,February,Yes,Evening,No,Slow
+363,ORD1363,CUST196,2023-06-18 20:26:00,Toothpaste,Personal Care,3,386.43,Chennai,15.18,Delivered,1159.29,20,Sunday,June,Yes,Evening,Yes,Fast
+364,ORD1364,CUST312,2023-08-26 07:54:00,Bread,Bakery,3,349.47,Hyderabad,40.2,Delivered,1048.41,7,Saturday,August,Yes,Morning,Yes,Slow
+365,ORD1365,CUST240,2023-11-22 19:45:00,Rice,Grains,3,80.19,Kolkata,66.9,Delivered,240.57,19,Wednesday,November,No,Evening,No,Slow
+366,ORD1366,CUST131,2023-12-17 20:58:00,Eggs,Dairy,4,56.39,Hyderabad,39.09,Delivered,225.56,20,Sunday,December,Yes,Evening,No,Slow
+367,ORD1367,CUST204,2023-05-04 23:39:00,Toothpaste,Personal Care,4,135.69,Chennai,0.0,Returned,542.76,23,Thursday,May,No,Night,Yes,Fast
+368,ORD1368,CUST433,2023-11-11 18:32:00,Milk,Dairy,1,303.15,Mumbai,18.59,Delivered,303.15,18,Saturday,November,Yes,Evening,No,Fast
+369,ORD1369,CUST230,2023-03-06 15:49:00,Fish,Meat,5,294.7,Kolkata,0.0,Cancelled,1473.5,15,Monday,March,No,Afternoon,Yes,Fast
+370,ORD1370,CUST164,2023-11-07 02:32:00,Wheat Flour,Grains,3,169.75,Hyderabad,21.42,Delivered,509.25,2,Tuesday,November,No,Night,Yes,Fast
+371,ORD1371,CUST482,2023-04-28 06:24:00,Eggs,Dairy,4,189.9,Hyderabad,17.03,Delivered,759.6,6,Friday,April,No,Morning,Yes,Fast
+372,ORD1372,CUST370,2023-03-07 02:09:00,Butter,Dairy,5,220.79,Bangalore,37.84,Delivered,1103.95,2,Tuesday,March,No,Night,Yes,Slow
+373,ORD1373,CUST497,2023-07-21 11:26:00,Wheat Flour,Grains,5,473.13,Kolkata,0.0,Cancelled,2365.65,11,Friday,July,No,Morning,Yes,Fast
+374,ORD1374,CUST455,2023-10-21 21:58:00,Toothpaste,Personal Care,3,294.59,Bangalore,37.38,Delivered,883.77,21,Saturday,October,Yes,Night,Yes,Slow
+375,ORD1375,CUST218,2023-03-03 09:13:00,Shampoo,Personal Care,1,127.95,Mumbai,16.33,Delivered,127.95,9,Friday,March,No,Morning,No,Fast
+376,ORD1376,CUST176,2023-02-18 01:58:00,Bananas,Fruits,3,299.27,Chennai,16.74,Delivered,897.81,1,Saturday,February,Yes,Night,Yes,Fast
+377,ORD1377,CUST351,2023-09-08 21:40:00,Onions,Vegetables,3,179.3,Kolkata,57.11,Delivered,537.9000000000001,21,Friday,September,No,Night,Yes,Slow
+378,ORD1378,CUST220,2023-02-19 15:32:00,Rice,Grains,3,344.61,Pune,73.16,Delivered,1033.83,15,Sunday,February,Yes,Afternoon,Yes,Slow
+379,ORD1379,CUST370,2023-07-25 21:53:00,Eggs,Dairy,3,140.48,Chennai,36.24,Delivered,421.43999999999994,21,Tuesday,July,No,Night,No,Slow
+380,ORD1380,CUST120,2023-01-30 01:11:00,Onions,Vegetables,3,331.94,Delhi,59.21,Delivered,995.8199999999999,1,Monday,January,No,Night,Yes,Slow
+381,ORD1381,CUST226,2023-12-27 10:10:00,Potatoes,Vegetables,1,412.77,Kolkata,75.16,Delivered,412.77,10,Wednesday,December,No,Morning,No,Slow
+382,ORD1382,CUST422,2023-07-20 18:53:00,Potatoes,Vegetables,4,272.64,Hyderabad,60.92,Delivered,1090.56,18,Thursday,July,No,Evening,Yes,Slow
+383,ORD1383,CUST423,2023-09-09 11:36:00,Potatoes,Vegetables,2,402.93,Mumbai,0.0,Cancelled,805.86,11,Saturday,September,Yes,Morning,Yes,Fast
+384,ORD1384,CUST115,2023-05-20 00:29:00,Tomatoes,Vegetables,4,53.61,Pune,41.09,Delivered,214.44,0,Saturday,May,Yes,Night,No,Slow
+385,ORD1385,CUST244,2023-07-02 18:11:00,Wheat Flour,Grains,1,218.12,Kolkata,19.05,Delivered,218.12,18,Sunday,July,Yes,Evening,No,Fast
+386,ORD1386,CUST182,2023-07-14 10:08:00,Bread,Bakery,1,303.41,Chennai,27.84,Delivered,303.41,10,Friday,July,No,Morning,No,Fast
+387,ORD1387,CUST292,2023-03-05 17:55:00,Rice,Grains,5,149.81,Chennai,71.31,Delivered,749.05,17,Sunday,March,Yes,Evening,Yes,Slow
+388,ORD1388,CUST367,2023-08-25 09:20:00,Rice,Grains,5,476.86,Mumbai,16.44,Delivered,2384.3,9,Friday,August,No,Morning,Yes,Fast
+389,ORD1389,CUST488,2023-06-16 03:16:00,Fish,Meat,2,220.8,Delhi,0.0,Returned,441.6,3,Friday,June,No,Night,No,Fast
+390,ORD1390,CUST107,2023-09-18 08:53:00,Shampoo,Personal Care,5,97.25,Mumbai,86.61,Delivered,486.25,8,Monday,September,No,Morning,No,Slow
+391,ORD1391,CUST394,2023-04-09 17:36:00,Potatoes,Vegetables,3,94.05,Bangalore,84.23,Delivered,282.15,17,Sunday,April,Yes,Evening,No,Slow
+392,ORD1392,CUST322,2023-11-15 07:17:00,Toothpaste,Personal Care,5,409.26,Hyderabad,0.0,Cancelled,2046.3,7,Wednesday,November,No,Morning,Yes,Fast
+393,ORD1393,CUST382,2023-02-16 15:51:00,Rice,Grains,1,392.65,Hyderabad,32.72,Delivered,392.65,15,Thursday,February,No,Afternoon,No,Slow
+394,ORD1394,CUST441,2023-07-03 05:04:00,Chicken,Meat,1,313.66,Bangalore,0.0,Returned,313.66,5,Monday,July,No,Morning,No,Fast
+395,ORD1395,CUST101,2023-01-26 10:26:00,Milk,Dairy,1,487.02,Kolkata,0.0,Returned,487.02,10,Thursday,January,No,Morning,No,Fast
+396,ORD1396,CUST423,2023-05-21 01:03:00,Tomatoes,Vegetables,4,331.0,Mumbai,64.33,Delivered,1324.0,1,Sunday,May,Yes,Night,Yes,Slow
+397,ORD1397,CUST409,2023-05-12 22:31:00,Rice,Grains,5,202.85,Chennai,44.55,Delivered,1014.25,22,Friday,May,No,Night,Yes,Slow
+398,ORD1398,CUST458,2023-10-22 08:28:00,Bread,Bakery,5,426.62,Chennai,76.67,Delivered,2133.1,8,Sunday,October,Yes,Morning,Yes,Slow
+399,ORD1399,CUST333,2023-09-21 04:57:00,Toothpaste,Personal Care,4,139.22,Mumbai,68.1,Delivered,556.88,4,Thursday,September,No,Night,Yes,Slow
+400,ORD1400,CUST488,2023-02-23 15:04:00,Chicken,Meat,5,414.69,Kolkata,0.0,Returned,2073.45,15,Thursday,February,No,Afternoon,Yes,Fast
+401,ORD1401,CUST394,2023-10-06 17:22:00,Bananas,Fruits,3,243.21,Hyderabad,0.0,Returned,729.63,17,Friday,October,No,Evening,Yes,Fast
+402,ORD1402,CUST263,2023-02-13 17:54:00,Bread,Bakery,1,161.15,Mumbai,39.71,Delivered,161.15,17,Monday,February,No,Evening,No,Slow
+403,ORD1403,CUST271,2023-08-15 00:56:00,Chicken,Meat,5,270.55,Bangalore,22.66,Delivered,1352.75,0,Tuesday,August,No,Night,Yes,Fast
+404,ORD1404,CUST104,2023-11-10 00:19:00,Bananas,Fruits,4,195.62,Delhi,0.0,Cancelled,782.48,0,Friday,November,No,Night,Yes,Fast
+405,ORD1405,CUST215,2023-02-27 20:26:00,Bananas,Fruits,4,372.24,Mumbai,86.6,Delivered,1488.96,20,Monday,February,No,Evening,Yes,Slow
+406,ORD1406,CUST439,2023-05-09 06:27:00,Fish,Meat,4,138.72,Chennai,17.15,Delivered,554.88,6,Tuesday,May,No,Morning,Yes,Fast
+407,ORD1407,CUST294,2023-03-26 22:00:00,Tomatoes,Vegetables,5,394.9,Chennai,0.0,Returned,1974.5,22,Sunday,March,Yes,Night,Yes,Fast
+408,ORD1408,CUST478,2023-04-21 09:51:00,Bread,Bakery,5,368.34,Delhi,63.58,Delivered,1841.6999999999998,9,Friday,April,No,Morning,Yes,Slow
+409,ORD1409,CUST358,2023-08-19 03:29:00,Chicken,Meat,5,437.52,Delhi,47.44,Delivered,2187.6,3,Saturday,August,Yes,Night,Yes,Slow
+410,ORD1410,CUST403,2023-08-03 09:40:00,Fish,Meat,1,358.01,Hyderabad,76.55,Delivered,358.01,9,Thursday,August,No,Morning,No,Slow
+411,ORD1411,CUST460,2023-09-24 11:32:00,Milk,Dairy,3,87.08,Delhi,65.44,Delivered,261.24,11,Sunday,September,Yes,Morning,No,Slow
+412,ORD1412,CUST157,2023-11-02 20:56:00,Bread,Bakery,2,285.42,Delhi,84.16,Delivered,570.84,20,Thursday,November,No,Evening,Yes,Slow
+413,ORD1413,CUST399,2023-11-28 06:38:00,Rice,Grains,1,429.54,Delhi,26.1,Delivered,429.54,6,Tuesday,November,No,Morning,No,Fast
+414,ORD1414,CUST394,2023-06-09 03:57:00,Tomatoes,Vegetables,3,88.19,Delhi,87.75,Delivered,264.57,3,Friday,June,No,Night,No,Slow
+415,ORD1415,CUST406,2023-10-18 16:51:00,Rice,Grains,2,388.35,Delhi,48.53,Delivered,776.7,16,Wednesday,October,No,Afternoon,Yes,Slow
+416,ORD1416,CUST219,2023-04-04 11:20:00,Tomatoes,Vegetables,2,313.04,Chennai,25.31,Delivered,626.08,11,Tuesday,April,No,Morning,Yes,Fast
+417,ORD1417,CUST450,2023-12-27 01:42:00,Onions,Vegetables,5,36.58,Mumbai,79.54,Delivered,182.89999999999998,1,Wednesday,December,No,Night,No,Slow
+418,ORD1418,CUST429,2023-06-09 20:29:00,Apples,Fruits,4,165.78,Delhi,68.74,Delivered,663.12,20,Friday,June,No,Evening,Yes,Slow
+419,ORD1419,CUST157,2023-08-20 00:33:00,Rice,Grains,5,215.34,Kolkata,69.94,Delivered,1076.7,0,Sunday,August,Yes,Night,Yes,Slow
+420,ORD1420,CUST429,2023-08-26 20:58:00,Potatoes,Vegetables,4,172.34,Hyderabad,0.0,Cancelled,689.36,20,Saturday,August,Yes,Evening,Yes,Fast
+421,ORD1421,CUST442,2023-03-09 14:23:00,Butter,Dairy,4,410.73,Pune,0.0,Returned,1642.92,14,Thursday,March,No,Afternoon,Yes,Fast
+422,ORD1422,CUST231,2023-01-09 22:29:00,Potatoes,Vegetables,1,215.91,Chennai,65.62,Delivered,215.91,22,Monday,January,No,Night,No,Slow
+423,ORD1423,CUST292,2023-06-25 09:13:00,Bananas,Fruits,2,225.03,Chennai,19.24,Delivered,450.06,9,Sunday,June,Yes,Morning,No,Fast
+424,ORD1424,CUST374,2023-11-03 17:36:00,Eggs,Dairy,4,77.38,Hyderabad,46.5,Delivered,309.52,17,Friday,November,No,Evening,No,Slow
+425,ORD1425,CUST457,2023-10-10 14:42:00,Bananas,Fruits,4,269.1,Bangalore,64.99,Delivered,1076.4,14,Tuesday,October,No,Afternoon,Yes,Slow
+426,ORD1426,CUST287,2023-11-15 07:16:00,Butter,Dairy,3,222.68,Delhi,78.57,Delivered,668.04,7,Wednesday,November,No,Morning,Yes,Slow
+427,ORD1427,CUST483,2023-05-23 06:04:00,Milk,Dairy,5,292.55,Mumbai,55.24,Delivered,1462.75,6,Tuesday,May,No,Morning,Yes,Slow
+428,ORD1428,CUST313,2023-09-22 09:51:00,Rice,Grains,4,22.08,Chennai,69.1,Delivered,88.32,9,Friday,September,No,Morning,No,Slow
+429,ORD1429,CUST233,2023-02-04 06:33:00,Potatoes,Vegetables,2,296.31,Delhi,60.64,Delivered,592.62,6,Saturday,February,Yes,Morning,Yes,Slow
+430,ORD1430,CUST385,2023-01-09 18:42:00,Wheat Flour,Grains,3,104.77,Chennai,22.56,Delivered,314.31,18,Monday,January,No,Evening,No,Fast
+431,ORD1431,CUST101,2023-06-20 00:38:00,Chicken,Meat,5,357.49,Pune,65.27,Delivered,1787.45,0,Tuesday,June,No,Night,Yes,Slow
+432,ORD1432,CUST174,2023-06-19 15:15:00,Eggs,Dairy,4,218.12,Delhi,0.0,Returned,872.48,15,Monday,June,No,Afternoon,Yes,Fast
+433,ORD1433,CUST231,2023-12-05 17:15:00,Milk,Dairy,5,240.35,Pune,36.46,Delivered,1201.75,17,Tuesday,December,No,Evening,Yes,Slow
+434,ORD1434,CUST349,2023-05-07 03:42:00,Tomatoes,Vegetables,3,328.53,Mumbai,0.0,Returned,985.5899999999999,3,Sunday,May,Yes,Night,Yes,Fast
+435,ORD1435,CUST494,2023-07-02 14:51:00,Toothpaste,Personal Care,2,159.97,Pune,13.25,Delivered,319.94,14,Sunday,July,Yes,Afternoon,No,Fast
+436,ORD1436,CUST418,2023-10-31 18:49:00,Wheat Flour,Grains,3,339.93,Chennai,74.66,Delivered,1019.79,18,Tuesday,October,No,Evening,Yes,Slow
+437,ORD1437,CUST349,2023-02-26 11:33:00,Apples,Fruits,5,301.73,Pune,0.0,Cancelled,1508.65,11,Sunday,February,Yes,Morning,Yes,Fast
+438,ORD1438,CUST373,2023-03-21 10:44:00,Fish,Meat,5,211.43,Bangalore,82.98,Delivered,1057.15,10,Tuesday,March,No,Morning,Yes,Slow
+439,ORD1439,CUST336,2023-01-31 16:19:00,Eggs,Dairy,2,35.63,Chennai,0.0,Returned,71.26,16,Tuesday,January,No,Afternoon,No,Fast
+440,ORD1440,CUST384,2023-05-14 01:30:00,Chicken,Meat,4,126.15,Hyderabad,0.0,Cancelled,504.6,1,Sunday,May,Yes,Night,Yes,Fast
+441,ORD1441,CUST321,2023-04-06 11:21:00,Chicken,Meat,3,400.14,Pune,30.07,Delivered,1200.42,11,Thursday,April,No,Morning,Yes,Slow
+442,ORD1442,CUST310,2023-12-11 07:52:00,Fish,Meat,3,86.27,Bangalore,26.43,Delivered,258.81,7,Monday,December,No,Morning,No,Fast
+443,ORD1443,CUST211,2023-03-28 19:16:00,Toothpaste,Personal Care,2,418.35,Delhi,76.1,Delivered,836.7,19,Tuesday,March,No,Evening,Yes,Slow
+444,ORD1444,CUST237,2023-04-15 06:02:00,Potatoes,Vegetables,3,278.33,Delhi,32.89,Delivered,834.99,6,Saturday,April,Yes,Morning,Yes,Slow
+445,ORD1445,CUST412,2023-07-05 05:49:00,Milk,Dairy,2,422.48,Pune,26.92,Delivered,844.96,5,Wednesday,July,No,Morning,Yes,Fast
+446,ORD1446,CUST332,2023-09-01 13:12:00,Shampoo,Personal Care,4,347.64,Bangalore,21.28,Delivered,1390.56,13,Friday,September,No,Afternoon,Yes,Fast
+447,ORD1447,CUST461,2023-03-07 09:53:00,Chicken,Meat,1,38.79,Delhi,45.81,Delivered,38.79,9,Tuesday,March,No,Morning,No,Slow
+448,ORD1448,CUST263,2023-06-20 04:38:00,Butter,Dairy,2,27.31,Pune,77.43,Delivered,54.62,4,Tuesday,June,No,Night,No,Slow
+449,ORD1449,CUST493,2023-12-06 03:09:00,Fish,Meat,3,218.99,Chennai,43.66,Delivered,656.97,3,Wednesday,December,No,Night,Yes,Slow
+450,ORD1450,CUST486,2023-02-03 12:01:00,Eggs,Dairy,2,169.54,Hyderabad,0.0,Returned,339.08,12,Friday,February,No,Afternoon,No,Fast
+451,ORD1451,CUST273,2023-10-19 01:57:00,Toothpaste,Personal Care,4,154.38,Mumbai,34.57,Delivered,617.52,1,Thursday,October,No,Night,Yes,Slow
+452,ORD1452,CUST345,2023-04-12 10:13:00,Tomatoes,Vegetables,5,155.9,Chennai,19.25,Delivered,779.5,10,Wednesday,April,No,Morning,Yes,Fast
+453,ORD1453,CUST272,2023-09-30 08:43:00,Tomatoes,Vegetables,3,256.49,Pune,49.67,Delivered,769.47,8,Saturday,September,Yes,Morning,Yes,Slow
+454,ORD1454,CUST103,2023-02-02 18:12:00,Rice,Grains,3,63.93,Mumbai,26.34,Delivered,191.79,18,Thursday,February,No,Evening,No,Fast
+455,ORD1455,CUST175,2023-06-15 02:07:00,Potatoes,Vegetables,2,432.23,Hyderabad,76.2,Delivered,864.46,2,Thursday,June,No,Night,Yes,Slow
+456,ORD1456,CUST298,2023-10-31 07:59:00,Fish,Meat,4,469.48,Delhi,69.53,Delivered,1877.92,7,Tuesday,October,No,Morning,Yes,Slow
+457,ORD1457,CUST301,2023-08-19 20:07:00,Fish,Meat,3,38.01,Mumbai,20.12,Delivered,114.03,20,Saturday,August,Yes,Evening,No,Fast
+458,ORD1458,CUST237,2023-01-10 03:29:00,Shampoo,Personal Care,1,302.71,Chennai,26.17,Delivered,302.71,3,Tuesday,January,No,Night,No,Fast
+459,ORD1459,CUST488,2023-12-01 03:04:00,Potatoes,Vegetables,5,347.62,Mumbai,87.33,Delivered,1738.1,3,Friday,December,No,Night,Yes,Slow
+460,ORD1460,CUST489,2023-09-30 04:40:00,Wheat Flour,Grains,3,318.63,Bangalore,0.0,Cancelled,955.89,4,Saturday,September,Yes,Night,Yes,Fast
+461,ORD1461,CUST192,2023-02-18 13:07:00,Bananas,Fruits,3,415.62,Mumbai,67.74,Delivered,1246.8600000000001,13,Saturday,February,Yes,Afternoon,Yes,Slow
+462,ORD1462,CUST197,2023-07-12 23:08:00,Rice,Grains,3,233.57,Mumbai,63.18,Delivered,700.71,23,Wednesday,July,No,Night,Yes,Slow
+463,ORD1463,CUST438,2023-09-28 14:02:00,Apples,Fruits,3,137.49,Delhi,0.0,Cancelled,412.47,14,Thursday,September,No,Afternoon,No,Fast
+464,ORD1464,CUST267,2023-07-18 23:19:00,Chicken,Meat,1,163.17,Delhi,75.41,Delivered,163.17,23,Tuesday,July,No,Night,No,Slow
+465,ORD1465,CUST308,2023-09-04 07:44:00,Bananas,Fruits,3,34.97,Mumbai,41.58,Delivered,104.91,7,Monday,September,No,Morning,No,Slow
+466,ORD1466,CUST306,2023-06-14 09:24:00,Onions,Vegetables,2,258.04,Mumbai,82.31,Delivered,516.08,9,Wednesday,June,No,Morning,Yes,Slow
+467,ORD1467,CUST197,2023-04-09 16:36:00,Apples,Fruits,1,120.73,Kolkata,30.92,Delivered,120.73,16,Sunday,April,Yes,Afternoon,No,Slow
+468,ORD1468,CUST143,2023-09-25 11:14:00,Bananas,Fruits,1,294.9,Pune,60.32,Delivered,294.9,11,Monday,September,No,Morning,No,Slow
+469,ORD1469,CUST330,2023-11-26 18:54:00,Wheat Flour,Grains,5,454.79,Mumbai,27.73,Delivered,2273.9500000000003,18,Sunday,November,Yes,Evening,Yes,Fast
+470,ORD1470,CUST450,2023-07-11 10:16:00,Bananas,Fruits,4,39.44,Bangalore,75.1,Delivered,157.76,10,Tuesday,July,No,Morning,No,Slow
+471,ORD1471,CUST214,2023-10-13 17:53:00,Shampoo,Personal Care,5,331.93,Kolkata,0.0,Returned,1659.65,17,Friday,October,No,Evening,Yes,Fast
+472,ORD1472,CUST484,2023-11-03 21:46:00,Apples,Fruits,2,393.84,Pune,59.0,Delivered,787.68,21,Friday,November,No,Night,Yes,Slow
+473,ORD1473,CUST239,2023-08-20 17:04:00,Toothpaste,Personal Care,2,490.0,Mumbai,19.62,Delivered,980.0,17,Sunday,August,Yes,Evening,Yes,Fast
+474,ORD1474,CUST329,2023-04-29 00:37:00,Bread,Bakery,5,129.14,Mumbai,0.0,Cancelled,645.6999999999999,0,Saturday,April,Yes,Night,Yes,Fast
+475,ORD1475,CUST456,2023-11-05 02:07:00,Apples,Fruits,4,32.31,Mumbai,13.89,Delivered,129.24,2,Sunday,November,Yes,Night,No,Fast
+476,ORD1476,CUST333,2023-02-22 16:08:00,Bananas,Fruits,2,313.91,Pune,58.68,Delivered,627.82,16,Wednesday,February,No,Afternoon,Yes,Slow
+477,ORD1477,CUST160,2023-03-01 03:45:00,Bread,Bakery,4,74.12,Chennai,38.43,Delivered,296.48,3,Wednesday,March,No,Night,No,Slow
+478,ORD1478,CUST319,2023-04-02 23:19:00,Eggs,Dairy,2,460.32,Delhi,0.0,Returned,920.64,23,Sunday,April,Yes,Night,Yes,Fast
+479,ORD1479,CUST117,2023-07-30 20:04:00,Potatoes,Vegetables,4,277.49,Delhi,15.03,Delivered,1109.96,20,Sunday,July,Yes,Evening,Yes,Fast
+480,ORD1480,CUST405,2023-06-29 14:15:00,Rice,Grains,5,346.75,Pune,0.0,Cancelled,1733.75,14,Thursday,June,No,Afternoon,Yes,Fast
+481,ORD1481,CUST250,2023-01-25 15:51:00,Tomatoes,Vegetables,4,199.21,Mumbai,57.26,Delivered,796.84,15,Wednesday,January,No,Afternoon,Yes,Slow
+482,ORD1482,CUST120,2023-08-22 00:20:00,Bread,Bakery,3,225.71,Chennai,64.82,Delivered,677.13,0,Tuesday,August,No,Night,Yes,Slow
+483,ORD1483,CUST417,2023-09-27 00:14:00,Shampoo,Personal Care,3,195.22,Mumbai,35.55,Delivered,585.66,0,Wednesday,September,No,Night,Yes,Slow
+484,ORD1484,CUST266,2023-01-28 16:28:00,Wheat Flour,Grains,5,431.66,Chennai,32.95,Delivered,2158.3,16,Saturday,January,Yes,Afternoon,Yes,Slow
+485,ORD1485,CUST163,2023-07-11 02:23:00,Apples,Fruits,4,58.94,Chennai,78.58,Delivered,235.76,2,Tuesday,July,No,Night,No,Slow
+486,ORD1486,CUST370,2023-11-14 00:03:00,Bananas,Fruits,3,63.38,Chennai,82.17,Delivered,190.14000000000001,0,Tuesday,November,No,Night,No,Slow
+487,ORD1487,CUST307,2023-12-01 11:37:00,Chicken,Meat,1,290.99,Hyderabad,15.39,Delivered,290.99,11,Friday,December,No,Morning,No,Fast
+488,ORD1488,CUST476,2023-07-28 03:19:00,Shampoo,Personal Care,2,432.35,Mumbai,63.76,Delivered,864.7,3,Friday,July,No,Night,Yes,Slow
+489,ORD1489,CUST199,2023-08-19 05:55:00,Milk,Dairy,2,326.08,Kolkata,0.0,Returned,652.16,5,Saturday,August,Yes,Morning,Yes,Fast
+490,ORD1490,CUST478,2023-10-11 13:12:00,Tomatoes,Vegetables,4,442.56,Bangalore,0.0,Returned,1770.24,13,Wednesday,October,No,Afternoon,Yes,Fast
+491,ORD1491,CUST181,2023-05-23 08:44:00,Eggs,Dairy,3,369.0,Chennai,60.33,Delivered,1107.0,8,Tuesday,May,No,Morning,Yes,Slow
+492,ORD1492,CUST105,2023-06-27 09:39:00,Butter,Dairy,3,38.61,Chennai,39.05,Delivered,115.83,9,Tuesday,June,No,Morning,No,Slow
+493,ORD1493,CUST158,2023-12-17 03:44:00,Bread,Bakery,3,130.14,Kolkata,0.0,Cancelled,390.41999999999996,3,Sunday,December,Yes,Night,No,Fast
+494,ORD1494,CUST262,2023-06-02 20:31:00,Bread,Bakery,3,62.87,Delhi,0.0,Returned,188.60999999999999,20,Friday,June,No,Evening,No,Fast
+495,ORD1495,CUST378,2023-02-24 04:13:00,Bananas,Fruits,3,61.98,Hyderabad,20.71,Delivered,185.94,4,Friday,February,No,Night,No,Fast
+496,ORD1496,CUST237,2023-09-25 20:28:00,Fish,Meat,5,445.42,Kolkata,45.12,Delivered,2227.1,20,Monday,September,No,Evening,Yes,Slow
+497,ORD1497,CUST170,2023-06-28 04:02:00,Milk,Dairy,4,380.96,Chennai,84.69,Delivered,1523.84,4,Wednesday,June,No,Night,Yes,Slow
+498,ORD1498,CUST386,2023-11-07 20:18:00,Apples,Fruits,5,38.81,Chennai,71.86,Delivered,194.05,20,Tuesday,November,No,Evening,No,Slow
+499,ORD1499,CUST350,2023-12-05 11:07:00,Wheat Flour,Grains,5,447.89,Hyderabad,16.44,Delivered,2239.45,11,Tuesday,December,No,Morning,Yes,Fast
+500,ORD1500,CUST271,2023-04-14 13:50:00,Milk,Dairy,1,399.79,Kolkata,76.21,Delivered,399.79,13,Friday,April,No,Afternoon,No,Slow
+501,ORD1501,CUST422,2023-07-16 04:00:00,Potatoes,Vegetables,3,245.69,Kolkata,37.41,Delivered,737.0699999999999,4,Sunday,July,Yes,Night,Yes,Slow
+502,ORD1502,CUST273,2023-06-10 05:17:00,Chicken,Meat,4,340.8,Delhi,0.0,Cancelled,1363.2,5,Saturday,June,Yes,Morning,Yes,Fast
+503,ORD1503,CUST372,2023-11-16 21:32:00,Potatoes,Vegetables,1,155.09,Chennai,51.4,Delivered,155.09,21,Thursday,November,No,Night,No,Slow
+504,ORD1504,CUST217,2023-02-12 15:16:00,Rice,Grains,2,269.77,Hyderabad,34.47,Delivered,539.54,15,Sunday,February,Yes,Afternoon,Yes,Slow
+505,ORD1505,CUST271,2023-06-05 02:12:00,Bananas,Fruits,4,288.49,Mumbai,70.49,Delivered,1153.96,2,Monday,June,No,Night,Yes,Slow
+506,ORD1506,CUST182,2023-01-31 23:34:00,Bread,Bakery,2,216.95,Hyderabad,56.21,Delivered,433.9,23,Tuesday,January,No,Night,No,Slow
+507,ORD1507,CUST443,2023-04-28 01:54:00,Bananas,Fruits,3,457.98,Pune,79.8,Delivered,1373.94,1,Friday,April,No,Night,Yes,Slow
+508,ORD1508,CUST200,2023-09-28 16:12:00,Toothpaste,Personal Care,4,210.79,Pune,0.0,Cancelled,843.16,16,Thursday,September,No,Afternoon,Yes,Fast
+509,ORD1509,CUST337,2023-08-04 07:28:00,Tomatoes,Vegetables,5,282.2,Delhi,74.74,Delivered,1411.0,7,Friday,August,No,Morning,Yes,Slow
+510,ORD1510,CUST139,2023-07-07 09:33:00,Tomatoes,Vegetables,1,294.08,Chennai,52.23,Delivered,294.08,9,Friday,July,No,Morning,No,Slow
+511,ORD1511,CUST305,2023-05-30 14:33:00,Milk,Dairy,1,431.85,Chennai,56.54,Delivered,431.85,14,Tuesday,May,No,Afternoon,No,Slow
+512,ORD1512,CUST409,2023-05-06 06:31:00,Potatoes,Vegetables,4,327.74,Delhi,71.31,Delivered,1310.96,6,Saturday,May,Yes,Morning,Yes,Slow
+513,ORD1513,CUST392,2023-12-28 23:24:00,Wheat Flour,Grains,5,348.58,Delhi,69.68,Delivered,1742.8999999999999,23,Thursday,December,No,Night,Yes,Slow
+514,ORD1514,CUST271,2023-12-02 20:30:00,Shampoo,Personal Care,1,152.09,Hyderabad,74.78,Delivered,152.09,20,Saturday,December,Yes,Evening,No,Slow
+515,ORD1515,CUST136,2023-11-18 12:13:00,Potatoes,Vegetables,2,223.35,Bangalore,0.0,Cancelled,446.7,12,Saturday,November,Yes,Afternoon,No,Fast
+516,ORD1516,CUST233,2023-02-28 14:36:00,Tomatoes,Vegetables,4,131.04,Pune,46.46,Delivered,524.16,14,Tuesday,February,No,Afternoon,Yes,Slow
+517,ORD1517,CUST144,2023-10-19 12:14:00,Onions,Vegetables,3,176.0,Delhi,22.7,Delivered,528.0,12,Thursday,October,No,Afternoon,Yes,Fast
+518,ORD1518,CUST270,2023-08-15 23:26:00,Toothpaste,Personal Care,1,263.71,Kolkata,14.69,Delivered,263.71,23,Tuesday,August,No,Night,No,Fast
+519,ORD1519,CUST331,2023-09-11 10:58:00,Potatoes,Vegetables,5,265.26,Pune,74.3,Delivered,1326.3,10,Monday,September,No,Morning,Yes,Slow
+520,ORD1520,CUST219,2023-02-17 14:29:00,Bananas,Fruits,5,44.55,Delhi,25.45,Delivered,222.75,14,Friday,February,No,Afternoon,No,Fast
+521,ORD1521,CUST439,2023-12-17 18:39:00,Rice,Grains,4,81.81,Pune,30.86,Delivered,327.24,18,Sunday,December,Yes,Evening,No,Slow
+522,ORD1522,CUST115,2023-12-05 08:20:00,Fish,Meat,5,34.25,Chennai,0.0,Returned,171.25,8,Tuesday,December,No,Morning,No,Fast
+523,ORD1523,CUST430,2023-01-03 01:47:00,Eggs,Dairy,3,58.44,Hyderabad,70.39,Delivered,175.32,1,Tuesday,January,No,Night,No,Slow
+524,ORD1524,CUST124,2023-08-03 16:42:00,Milk,Dairy,5,116.93,Bangalore,64.83,Delivered,584.6500000000001,16,Thursday,August,No,Afternoon,Yes,Slow
+525,ORD1525,CUST299,2023-04-12 05:02:00,Tomatoes,Vegetables,5,315.48,Chennai,37.21,Delivered,1577.4,5,Wednesday,April,No,Morning,Yes,Slow
+526,ORD1526,CUST251,2023-07-12 04:34:00,Fish,Meat,2,341.17,Mumbai,19.07,Delivered,682.34,4,Wednesday,July,No,Night,Yes,Fast
+527,ORD1527,CUST386,2023-04-03 15:26:00,Butter,Dairy,1,432.44,Mumbai,0.0,Returned,432.44,15,Monday,April,No,Afternoon,No,Fast
+528,ORD1528,CUST362,2023-10-04 19:24:00,Bananas,Fruits,1,106.12,Pune,66.39,Delivered,106.12,19,Wednesday,October,No,Evening,No,Slow
+529,ORD1529,CUST194,2023-12-17 20:40:00,Wheat Flour,Grains,2,341.72,Pune,65.78,Delivered,683.44,20,Sunday,December,Yes,Evening,Yes,Slow
+530,ORD1530,CUST472,2023-08-24 05:43:00,Toothpaste,Personal Care,2,450.22,Bangalore,61.22,Delivered,900.44,5,Thursday,August,No,Morning,Yes,Slow
+531,ORD1531,CUST413,2023-09-21 22:03:00,Chicken,Meat,2,189.34,Bangalore,33.51,Delivered,378.68,22,Thursday,September,No,Night,No,Slow
+532,ORD1532,CUST169,2023-08-21 07:15:00,Tomatoes,Vegetables,4,312.34,Mumbai,61.94,Delivered,1249.36,7,Monday,August,No,Morning,Yes,Slow
+533,ORD1533,CUST152,2023-08-18 06:17:00,Onions,Vegetables,2,136.16,Mumbai,12.22,Delivered,272.32,6,Friday,August,No,Morning,No,Fast
+534,ORD1534,CUST310,2023-12-07 12:57:00,Wheat Flour,Grains,2,203.44,Mumbai,44.92,Delivered,406.88,12,Thursday,December,No,Afternoon,No,Slow
+535,ORD1535,CUST236,2023-05-01 01:24:00,Rice,Grains,2,255.07,Delhi,44.8,Delivered,510.14,1,Monday,May,No,Night,Yes,Slow
+536,ORD1536,CUST395,2023-05-20 13:29:00,Bread,Bakery,4,144.04,Hyderabad,71.94,Delivered,576.16,13,Saturday,May,Yes,Afternoon,Yes,Slow
+537,ORD1537,CUST277,2023-07-23 22:06:00,Eggs,Dairy,2,130.74,Bangalore,73.81,Delivered,261.48,22,Sunday,July,Yes,Night,No,Slow
+538,ORD1538,CUST176,2023-12-08 01:24:00,Milk,Dairy,2,164.03,Delhi,75.81,Delivered,328.06,1,Friday,December,No,Night,No,Slow
+539,ORD1539,CUST455,2023-04-23 09:14:00,Tomatoes,Vegetables,5,87.88,Delhi,80.37,Delivered,439.4,9,Sunday,April,Yes,Morning,No,Slow
+540,ORD1540,CUST426,2023-02-23 01:42:00,Rice,Grains,2,240.11,Mumbai,78.3,Delivered,480.22,1,Thursday,February,No,Night,No,Slow
+541,ORD1541,CUST360,2023-09-26 02:01:00,Apples,Fruits,3,23.59,Bangalore,60.81,Delivered,70.77,2,Tuesday,September,No,Night,No,Slow
+542,ORD1542,CUST345,2023-07-15 02:01:00,Milk,Dairy,3,124.53,Hyderabad,81.85,Delivered,373.59000000000003,2,Saturday,July,Yes,Night,No,Slow
+543,ORD1543,CUST389,2023-08-18 14:01:00,Eggs,Dairy,4,281.22,Mumbai,68.46,Delivered,1124.88,14,Friday,August,No,Afternoon,Yes,Slow
+544,ORD1544,CUST379,2023-04-05 14:47:00,Fish,Meat,2,42.75,Delhi,0.0,Cancelled,85.5,14,Wednesday,April,No,Afternoon,No,Fast
+545,ORD1545,CUST310,2023-12-06 01:40:00,Apples,Fruits,3,451.16,Chennai,54.79,Delivered,1353.48,1,Wednesday,December,No,Night,Yes,Slow
+546,ORD1546,CUST490,2023-10-09 15:49:00,Toothpaste,Personal Care,4,273.45,Bangalore,32.26,Delivered,1093.8,15,Monday,October,No,Afternoon,Yes,Slow
+547,ORD1547,CUST122,2023-06-23 17:54:00,Rice,Grains,1,104.69,Delhi,21.39,Delivered,104.69,17,Friday,June,No,Evening,No,Fast
+548,ORD1548,CUST148,2023-12-17 03:45:00,Butter,Dairy,3,47.46,Mumbai,18.59,Delivered,142.38,3,Sunday,December,Yes,Night,No,Fast
+549,ORD1549,CUST143,2023-08-21 18:19:00,Toothpaste,Personal Care,5,208.91,Mumbai,72.2,Delivered,1044.55,18,Monday,August,No,Evening,Yes,Slow
+550,ORD1550,CUST385,2023-05-18 12:01:00,Toothpaste,Personal Care,1,407.72,Delhi,45.29,Delivered,407.72,12,Thursday,May,No,Afternoon,No,Slow
+551,ORD1551,CUST318,2023-06-04 02:59:00,Wheat Flour,Grains,2,104.51,Chennai,28.23,Delivered,209.02,2,Sunday,June,Yes,Night,No,Fast
+552,ORD1552,CUST446,2023-06-05 03:23:00,Onions,Vegetables,2,308.99,Kolkata,84.56,Delivered,617.98,3,Monday,June,No,Night,Yes,Slow
+553,ORD1553,CUST271,2023-07-31 21:47:00,Onions,Vegetables,4,303.03,Bangalore,43.29,Delivered,1212.12,21,Monday,July,No,Night,Yes,Slow
+554,ORD1554,CUST410,2023-12-13 19:36:00,Eggs,Dairy,1,332.21,Delhi,15.64,Delivered,332.21,19,Wednesday,December,No,Evening,No,Fast
+555,ORD1555,CUST364,2023-10-28 02:27:00,Chicken,Meat,4,444.66,Kolkata,78.8,Delivered,1778.64,2,Saturday,October,Yes,Night,Yes,Slow
+556,ORD1556,CUST352,2023-11-13 02:01:00,Butter,Dairy,2,388.75,Bangalore,61.3,Delivered,777.5,2,Monday,November,No,Night,Yes,Slow
+557,ORD1557,CUST289,2023-12-30 05:16:00,Bananas,Fruits,3,355.03,Mumbai,49.0,Delivered,1065.09,5,Saturday,December,Yes,Morning,Yes,Slow
+558,ORD1558,CUST367,2023-07-06 09:48:00,Butter,Dairy,1,413.44,Bangalore,83.17,Delivered,413.44,9,Thursday,July,No,Morning,No,Slow
+559,ORD1559,CUST123,2023-03-29 06:44:00,Shampoo,Personal Care,2,328.79,Chennai,61.15,Delivered,657.58,6,Wednesday,March,No,Morning,Yes,Slow
+560,ORD1560,CUST290,2023-08-14 05:13:00,Onions,Vegetables,3,71.13,Delhi,56.86,Delivered,213.39,5,Monday,August,No,Morning,No,Slow
+561,ORD1561,CUST331,2023-01-04 09:27:00,Tomatoes,Vegetables,4,330.61,Pune,0.0,Cancelled,1322.44,9,Wednesday,January,No,Morning,Yes,Fast
+562,ORD1562,CUST479,2023-07-21 08:53:00,Wheat Flour,Grains,2,292.37,Kolkata,87.27,Delivered,584.74,8,Friday,July,No,Morning,Yes,Slow
+563,ORD1563,CUST216,2023-11-09 13:11:00,Toothpaste,Personal Care,1,218.9,Pune,68.99,Delivered,218.9,13,Thursday,November,No,Afternoon,No,Slow
+564,ORD1564,CUST386,2023-09-25 06:13:00,Shampoo,Personal Care,5,394.23,Mumbai,28.76,Delivered,1971.15,6,Monday,September,No,Morning,Yes,Fast
+565,ORD1565,CUST188,2023-10-20 13:23:00,Bananas,Fruits,1,355.59,Kolkata,84.47,Delivered,355.59,13,Friday,October,No,Afternoon,No,Slow
+566,ORD1566,CUST461,2023-09-07 02:49:00,Fish,Meat,5,250.3,Hyderabad,62.21,Delivered,1251.5,2,Thursday,September,No,Night,Yes,Slow
+567,ORD1567,CUST266,2023-06-03 10:12:00,Toothpaste,Personal Care,5,73.68,Chennai,34.16,Delivered,368.40000000000003,10,Saturday,June,Yes,Morning,No,Slow
+568,ORD1568,CUST499,2023-04-17 22:48:00,Bananas,Fruits,5,259.27,Pune,69.78,Delivered,1296.35,22,Monday,April,No,Night,Yes,Slow
+569,ORD1569,CUST276,2023-05-29 22:56:00,Milk,Dairy,2,301.38,Mumbai,36.32,Delivered,602.76,22,Monday,May,No,Night,Yes,Slow
+570,ORD1570,CUST439,2023-05-31 21:58:00,Bananas,Fruits,1,358.43,Kolkata,18.97,Delivered,358.43,21,Wednesday,May,No,Night,No,Fast
+571,ORD1571,CUST216,2023-12-04 09:24:00,Milk,Dairy,5,368.21,Hyderabad,73.65,Delivered,1841.05,9,Monday,December,No,Morning,Yes,Slow
+572,ORD1572,CUST446,2023-06-08 14:54:00,Apples,Fruits,1,53.56,Kolkata,46.84,Delivered,53.56,14,Thursday,June,No,Afternoon,No,Slow
+573,ORD1573,CUST310,2023-11-19 22:11:00,Shampoo,Personal Care,5,133.01,Kolkata,28.15,Delivered,665.05,22,Sunday,November,Yes,Night,Yes,Fast
+574,ORD1574,CUST152,2023-07-06 18:32:00,Butter,Dairy,5,381.7,Kolkata,89.79,Delivered,1908.5,18,Thursday,July,No,Evening,Yes,Slow
+575,ORD1575,CUST327,2023-02-20 21:09:00,Butter,Dairy,2,266.76,Kolkata,57.77,Delivered,533.52,21,Monday,February,No,Night,Yes,Slow
+576,ORD1576,CUST460,2023-07-26 08:10:00,Fish,Meat,5,432.32,Mumbai,36.49,Delivered,2161.6,8,Wednesday,July,No,Morning,Yes,Slow
+577,ORD1577,CUST243,2023-05-15 06:13:00,Rice,Grains,2,64.24,Kolkata,17.65,Delivered,128.48,6,Monday,May,No,Morning,No,Fast
+578,ORD1578,CUST495,2023-02-16 06:52:00,Toothpaste,Personal Care,2,299.58,Pune,30.78,Delivered,599.16,6,Thursday,February,No,Morning,Yes,Slow
+579,ORD1579,CUST455,2023-07-26 03:14:00,Butter,Dairy,4,179.51,Hyderabad,71.1,Delivered,718.04,3,Wednesday,July,No,Night,Yes,Slow
+580,ORD1580,CUST320,2023-10-31 22:15:00,Onions,Vegetables,3,70.0,Pune,52.19,Delivered,210.0,22,Tuesday,October,No,Night,No,Slow
+581,ORD1581,CUST253,2023-01-21 07:42:00,Shampoo,Personal Care,4,250.51,Chennai,41.73,Delivered,1002.04,7,Saturday,January,Yes,Morning,Yes,Slow
+582,ORD1582,CUST299,2023-07-12 03:07:00,Wheat Flour,Grains,3,317.29,Delhi,27.3,Delivered,951.8700000000001,3,Wednesday,July,No,Night,Yes,Fast
+583,ORD1583,CUST349,2023-06-25 14:35:00,Shampoo,Personal Care,4,297.42,Pune,67.85,Delivered,1189.68,14,Sunday,June,Yes,Afternoon,Yes,Slow
+584,ORD1584,CUST125,2023-10-25 09:53:00,Shampoo,Personal Care,2,58.68,Chennai,43.31,Delivered,117.36,9,Wednesday,October,No,Morning,No,Slow
+585,ORD1585,CUST401,2023-02-20 00:57:00,Butter,Dairy,4,395.61,Chennai,68.05,Delivered,1582.44,0,Monday,February,No,Night,Yes,Slow
+586,ORD1586,CUST352,2023-09-12 13:54:00,Milk,Dairy,5,58.45,Bangalore,53.18,Delivered,292.25,13,Tuesday,September,No,Afternoon,No,Slow
+587,ORD1587,CUST300,2023-09-24 09:33:00,Eggs,Dairy,4,241.94,Chennai,84.84,Delivered,967.76,9,Sunday,September,Yes,Morning,Yes,Slow
+588,ORD1588,CUST449,2023-04-14 02:46:00,Onions,Vegetables,4,170.83,Hyderabad,21.22,Delivered,683.32,2,Friday,April,No,Night,Yes,Fast
+589,ORD1589,CUST496,2023-11-04 03:33:00,Shampoo,Personal Care,1,102.4,Delhi,71.89,Delivered,102.4,3,Saturday,November,Yes,Night,No,Slow
+590,ORD1590,CUST242,2023-08-28 01:53:00,Apples,Fruits,4,201.12,Hyderabad,24.49,Delivered,804.48,1,Monday,August,No,Night,Yes,Fast
+591,ORD1591,CUST369,2023-06-06 02:41:00,Shampoo,Personal Care,1,225.3,Delhi,0.0,Returned,225.3,2,Tuesday,June,No,Night,No,Fast
+592,ORD1592,CUST331,2023-11-09 10:47:00,Fish,Meat,2,214.8,Hyderabad,69.51,Delivered,429.6,10,Thursday,November,No,Morning,No,Slow
+593,ORD1593,CUST351,2023-01-05 05:29:00,Eggs,Dairy,1,99.52,Bangalore,58.47,Delivered,99.52,5,Thursday,January,No,Morning,No,Slow
+594,ORD1594,CUST197,2023-09-15 06:47:00,Chicken,Meat,4,320.19,Mumbai,23.83,Delivered,1280.76,6,Friday,September,No,Morning,Yes,Fast
+595,ORD1595,CUST148,2023-09-03 07:47:00,Eggs,Dairy,4,432.8,Delhi,11.92,Delivered,1731.2,7,Sunday,September,Yes,Morning,Yes,Fast
+596,ORD1596,CUST392,2023-03-29 03:14:00,Chicken,Meat,4,405.15,Chennai,81.45,Delivered,1620.6,3,Wednesday,March,No,Night,Yes,Slow
+597,ORD1597,CUST169,2023-02-23 04:27:00,Fish,Meat,2,409.72,Bangalore,71.25,Delivered,819.44,4,Thursday,February,No,Night,Yes,Slow
+598,ORD1598,CUST403,2023-10-13 21:37:00,Tomatoes,Vegetables,2,438.15,Kolkata,24.6,Delivered,876.3,21,Friday,October,No,Night,Yes,Fast
+599,ORD1599,CUST497,2023-04-08 14:34:00,Toothpaste,Personal Care,1,222.54,Delhi,0.0,Returned,222.54,14,Saturday,April,Yes,Afternoon,No,Fast
+600,ORD1600,CUST184,2023-07-08 18:15:00,Apples,Fruits,4,170.29,Delhi,58.79,Delivered,681.16,18,Saturday,July,Yes,Evening,Yes,Slow
+601,ORD1601,CUST444,2023-02-09 18:24:00,Tomatoes,Vegetables,2,84.46,Kolkata,73.25,Delivered,168.92,18,Thursday,February,No,Evening,No,Slow
+602,ORD1602,CUST456,2023-09-15 20:08:00,Bananas,Fruits,5,363.42,Chennai,0.0,Cancelled,1817.1000000000001,20,Friday,September,No,Evening,Yes,Fast
+603,ORD1603,CUST311,2023-04-01 15:02:00,Toothpaste,Personal Care,4,101.42,Mumbai,0.0,Cancelled,405.68,15,Saturday,April,Yes,Afternoon,No,Fast
+604,ORD1604,CUST458,2023-04-23 18:29:00,Eggs,Dairy,3,218.52,Delhi,10.1,Delivered,655.5600000000001,18,Sunday,April,Yes,Evening,Yes,Fast
+605,ORD1605,CUST172,2023-03-07 00:49:00,Milk,Dairy,2,206.92,Delhi,52.93,Delivered,413.84,0,Tuesday,March,No,Night,No,Slow
+606,ORD1606,CUST400,2023-12-13 18:41:00,Eggs,Dairy,4,431.66,Mumbai,84.65,Delivered,1726.64,18,Wednesday,December,No,Evening,Yes,Slow
+607,ORD1607,CUST326,2023-12-30 22:25:00,Potatoes,Vegetables,2,172.23,Bangalore,0.0,Cancelled,344.46,22,Saturday,December,Yes,Night,No,Fast
+608,ORD1608,CUST333,2023-11-26 10:17:00,Eggs,Dairy,4,407.34,Mumbai,68.43,Delivered,1629.36,10,Sunday,November,Yes,Morning,Yes,Slow
+609,ORD1609,CUST296,2023-07-28 04:10:00,Eggs,Dairy,3,492.92,Hyderabad,54.08,Delivered,1478.76,4,Friday,July,No,Night,Yes,Slow
+610,ORD1610,CUST160,2023-04-24 11:56:00,Onions,Vegetables,3,396.66,Mumbai,13.06,Delivered,1189.98,11,Monday,April,No,Morning,Yes,Fast
+611,ORD1611,CUST186,2023-10-09 02:19:00,Toothpaste,Personal Care,5,358.15,Bangalore,76.42,Delivered,1790.75,2,Monday,October,No,Night,Yes,Slow
+612,ORD1612,CUST489,2023-05-25 12:08:00,Butter,Dairy,4,207.26,Delhi,22.12,Delivered,829.04,12,Thursday,May,No,Afternoon,Yes,Fast
+613,ORD1613,CUST267,2023-09-04 09:10:00,Shampoo,Personal Care,4,338.62,Hyderabad,10.49,Delivered,1354.48,9,Monday,September,No,Morning,Yes,Fast
+614,ORD1614,CUST134,2023-07-15 03:26:00,Butter,Dairy,2,83.71,Chennai,71.33,Delivered,167.42,3,Saturday,July,Yes,Night,No,Slow
+615,ORD1615,CUST391,2023-12-06 01:09:00,Butter,Dairy,3,252.49,Bangalore,19.7,Delivered,757.47,1,Wednesday,December,No,Night,Yes,Fast
+616,ORD1616,CUST167,2023-03-03 20:07:00,Bread,Bakery,5,310.14,Bangalore,59.35,Delivered,1550.6999999999998,20,Friday,March,No,Evening,Yes,Slow
+617,ORD1617,CUST104,2023-01-30 10:23:00,Onions,Vegetables,5,31.62,Hyderabad,48.92,Delivered,158.1,10,Monday,January,No,Morning,No,Slow
+618,ORD1618,CUST342,2023-04-12 13:04:00,Bananas,Fruits,2,459.64,Bangalore,47.28,Delivered,919.28,13,Wednesday,April,No,Afternoon,Yes,Slow
+619,ORD1619,CUST401,2023-10-12 16:52:00,Eggs,Dairy,1,420.51,Kolkata,78.54,Delivered,420.51,16,Thursday,October,No,Afternoon,No,Slow
+620,ORD1620,CUST306,2023-02-21 22:24:00,Eggs,Dairy,4,463.41,Kolkata,84.48,Delivered,1853.64,22,Tuesday,February,No,Night,Yes,Slow
+621,ORD1621,CUST307,2023-03-03 12:33:00,Wheat Flour,Grains,4,356.99,Kolkata,89.21,Delivered,1427.96,12,Friday,March,No,Afternoon,Yes,Slow
+622,ORD1622,CUST432,2023-02-22 06:05:00,Milk,Dairy,3,475.5,Mumbai,70.94,Delivered,1426.5,6,Wednesday,February,No,Morning,Yes,Slow
+623,ORD1623,CUST490,2023-06-11 04:19:00,Toothpaste,Personal Care,5,163.33,Mumbai,47.46,Delivered,816.6500000000001,4,Sunday,June,Yes,Night,Yes,Slow
+624,ORD1624,CUST355,2023-09-10 11:52:00,Wheat Flour,Grains,2,130.33,Mumbai,58.59,Delivered,260.66,11,Sunday,September,Yes,Morning,No,Slow
+625,ORD1625,CUST312,2023-12-31 06:28:00,Milk,Dairy,4,420.75,Kolkata,11.84,Delivered,1683.0,6,Sunday,December,Yes,Morning,Yes,Fast
+626,ORD1626,CUST259,2023-12-14 03:59:00,Bananas,Fruits,1,290.94,Pune,47.3,Delivered,290.94,3,Thursday,December,No,Night,No,Slow
+627,ORD1627,CUST236,2023-04-21 08:30:00,Onions,Vegetables,1,242.23,Hyderabad,58.08,Delivered,242.23,8,Friday,April,No,Morning,No,Slow
+628,ORD1628,CUST220,2023-05-28 09:30:00,Onions,Vegetables,1,402.04,Delhi,33.51,Delivered,402.04,9,Sunday,May,Yes,Morning,No,Slow
+629,ORD1629,CUST166,2023-05-21 11:48:00,Fish,Meat,5,243.21,Kolkata,38.12,Delivered,1216.05,11,Sunday,May,Yes,Morning,Yes,Slow
+630,ORD1630,CUST368,2023-01-23 13:28:00,Tomatoes,Vegetables,3,49.22,Chennai,12.04,Delivered,147.66,13,Monday,January,No,Afternoon,No,Fast
+631,ORD1631,CUST425,2023-02-27 20:14:00,Fish,Meat,4,67.77,Delhi,89.16,Delivered,271.08,20,Monday,February,No,Evening,No,Slow
+632,ORD1632,CUST245,2023-01-21 16:43:00,Bananas,Fruits,3,91.77,Pune,72.36,Delivered,275.31,16,Saturday,January,Yes,Afternoon,No,Slow
+633,ORD1633,CUST136,2023-09-05 15:29:00,Eggs,Dairy,3,381.21,Hyderabad,0.0,Returned,1143.6299999999999,15,Tuesday,September,No,Afternoon,Yes,Fast
+634,ORD1634,CUST297,2023-03-29 12:12:00,Eggs,Dairy,2,355.55,Mumbai,50.16,Delivered,711.1,12,Wednesday,March,No,Afternoon,Yes,Slow
+635,ORD1635,CUST268,2023-06-18 02:59:00,Rice,Grains,3,131.08,Hyderabad,66.01,Delivered,393.24,2,Sunday,June,Yes,Night,No,Slow
+636,ORD1636,CUST482,2023-04-30 11:56:00,Tomatoes,Vegetables,1,137.37,Chennai,16.97,Delivered,137.37,11,Sunday,April,Yes,Morning,No,Fast
+637,ORD1637,CUST354,2023-12-19 04:04:00,Rice,Grains,4,52.17,Kolkata,0.0,Returned,208.68,4,Tuesday,December,No,Night,No,Fast
+638,ORD1638,CUST306,2023-08-28 06:45:00,Onions,Vegetables,1,272.68,Pune,71.69,Delivered,272.68,6,Monday,August,No,Morning,No,Slow
+639,ORD1639,CUST166,2023-06-30 07:55:00,Onions,Vegetables,4,293.58,Bangalore,56.11,Delivered,1174.32,7,Friday,June,No,Morning,Yes,Slow
+640,ORD1640,CUST321,2023-01-17 20:07:00,Bananas,Fruits,5,366.56,Pune,0.0,Returned,1832.8,20,Tuesday,January,No,Evening,Yes,Fast
+641,ORD1641,CUST177,2023-12-03 14:00:00,Tomatoes,Vegetables,3,388.24,Delhi,0.0,Returned,1164.72,14,Sunday,December,Yes,Afternoon,Yes,Fast
+642,ORD1642,CUST147,2023-05-04 18:49:00,Onions,Vegetables,5,283.25,Pune,41.32,Delivered,1416.25,18,Thursday,May,No,Evening,Yes,Slow
+643,ORD1643,CUST418,2023-10-30 18:26:00,Tomatoes,Vegetables,5,29.99,Bangalore,42.43,Delivered,149.95,18,Monday,October,No,Evening,No,Slow
+644,ORD1644,CUST204,2023-04-08 00:24:00,Wheat Flour,Grains,1,268.44,Bangalore,45.36,Delivered,268.44,0,Saturday,April,Yes,Night,No,Slow
+645,ORD1645,CUST447,2023-10-13 18:36:00,Potatoes,Vegetables,2,172.97,Pune,88.93,Delivered,345.94,18,Friday,October,No,Evening,No,Slow
+646,ORD1646,CUST146,2023-02-13 06:09:00,Bread,Bakery,4,360.52,Hyderabad,35.64,Delivered,1442.08,6,Monday,February,No,Morning,Yes,Slow
+647,ORD1647,CUST339,2023-07-14 20:30:00,Bread,Bakery,5,287.93,Hyderabad,22.26,Delivered,1439.65,20,Friday,July,No,Evening,Yes,Fast
+648,ORD1648,CUST278,2023-02-26 13:57:00,Butter,Dairy,1,245.31,Pune,54.35,Delivered,245.31,13,Sunday,February,Yes,Afternoon,No,Slow
+649,ORD1649,CUST346,2023-02-08 05:53:00,Shampoo,Personal Care,2,350.61,Delhi,75.26,Delivered,701.22,5,Wednesday,February,No,Morning,Yes,Slow
+650,ORD1650,CUST389,2023-03-15 03:09:00,Apples,Fruits,2,233.86,Pune,57.98,Delivered,467.72,3,Wednesday,March,No,Night,No,Slow
+651,ORD1651,CUST426,2023-09-26 13:42:00,Shampoo,Personal Care,3,248.66,Kolkata,0.0,Returned,745.98,13,Tuesday,September,No,Afternoon,Yes,Fast
+652,ORD1652,CUST266,2023-04-24 22:38:00,Potatoes,Vegetables,1,189.76,Mumbai,28.62,Delivered,189.76,22,Monday,April,No,Night,No,Fast
+653,ORD1653,CUST153,2023-03-04 15:46:00,Shampoo,Personal Care,2,264.96,Pune,48.86,Delivered,529.92,15,Saturday,March,Yes,Afternoon,Yes,Slow
+654,ORD1654,CUST467,2023-12-18 04:29:00,Onions,Vegetables,4,466.88,Pune,39.83,Delivered,1867.52,4,Monday,December,No,Night,Yes,Slow
+655,ORD1655,CUST105,2023-07-23 17:59:00,Onions,Vegetables,4,75.85,Chennai,69.25,Delivered,303.4,17,Sunday,July,Yes,Evening,No,Slow
+656,ORD1656,CUST392,2023-04-26 03:41:00,Apples,Fruits,1,156.53,Hyderabad,71.36,Delivered,156.53,3,Wednesday,April,No,Night,No,Slow
+657,ORD1657,CUST206,2023-08-05 13:49:00,Wheat Flour,Grains,1,82.58,Kolkata,71.07,Delivered,82.58,13,Saturday,August,Yes,Afternoon,No,Slow
+658,ORD1658,CUST430,2023-02-08 10:30:00,Milk,Dairy,4,214.89,Bangalore,83.47,Delivered,859.56,10,Wednesday,February,No,Morning,Yes,Slow
+659,ORD1659,CUST498,2023-06-29 06:31:00,Wheat Flour,Grains,2,146.54,Delhi,31.75,Delivered,293.08,6,Thursday,June,No,Morning,No,Slow
+660,ORD1660,CUST160,2023-05-17 11:06:00,Fish,Meat,2,250.95,Hyderabad,12.91,Delivered,501.9,11,Wednesday,May,No,Morning,Yes,Fast
+661,ORD1661,CUST276,2023-02-15 05:22:00,Apples,Fruits,4,241.02,Bangalore,40.33,Delivered,964.08,5,Wednesday,February,No,Morning,Yes,Slow
+662,ORD1662,CUST450,2023-04-06 04:48:00,Milk,Dairy,1,72.24,Mumbai,74.35,Delivered,72.24,4,Thursday,April,No,Night,No,Slow
+663,ORD1663,CUST364,2023-03-03 18:00:00,Potatoes,Vegetables,3,46.34,Hyderabad,0.0,Returned,139.02,18,Friday,March,No,Evening,No,Fast
+664,ORD1664,CUST352,2023-05-27 01:41:00,Onions,Vegetables,5,83.27,Chennai,75.92,Delivered,416.34999999999997,1,Saturday,May,Yes,Night,No,Slow
+665,ORD1665,CUST155,2023-09-14 05:23:00,Rice,Grains,5,33.52,Pune,33.63,Delivered,167.60000000000002,5,Thursday,September,No,Morning,No,Slow
+666,ORD1666,CUST293,2023-12-08 22:59:00,Apples,Fruits,5,245.58,Chennai,69.1,Delivered,1227.9,22,Friday,December,No,Night,Yes,Slow
+667,ORD1667,CUST261,2023-05-18 04:29:00,Chicken,Meat,2,401.58,Hyderabad,61.9,Delivered,803.16,4,Thursday,May,No,Night,Yes,Slow
+668,ORD1668,CUST411,2023-07-29 14:50:00,Chicken,Meat,2,246.5,Hyderabad,63.18,Delivered,493.0,14,Saturday,July,Yes,Afternoon,No,Slow
+669,ORD1669,CUST219,2023-06-02 08:38:00,Potatoes,Vegetables,1,361.4,Kolkata,78.91,Delivered,361.4,8,Friday,June,No,Morning,No,Slow
+670,ORD1670,CUST134,2023-03-16 05:50:00,Shampoo,Personal Care,3,349.76,Chennai,85.85,Delivered,1049.28,5,Thursday,March,No,Morning,Yes,Slow
+671,ORD1671,CUST174,2023-01-22 12:38:00,Tomatoes,Vegetables,3,29.17,Hyderabad,67.36,Delivered,87.51,12,Sunday,January,Yes,Afternoon,No,Slow
+672,ORD1672,CUST390,2023-11-23 22:49:00,Butter,Dairy,2,237.91,Mumbai,15.74,Delivered,475.82,22,Thursday,November,No,Night,No,Fast
+673,ORD1673,CUST289,2023-08-25 05:27:00,Potatoes,Vegetables,5,401.6,Pune,11.41,Delivered,2008.0,5,Friday,August,No,Morning,Yes,Fast
+674,ORD1674,CUST343,2023-09-04 04:13:00,Bananas,Fruits,3,351.19,Chennai,0.0,Returned,1053.57,4,Monday,September,No,Night,Yes,Fast
+675,ORD1675,CUST236,2023-03-11 17:07:00,Wheat Flour,Grains,5,464.34,Chennai,41.54,Delivered,2321.7,17,Saturday,March,Yes,Evening,Yes,Slow
+676,ORD1676,CUST142,2023-04-15 07:19:00,Rice,Grains,1,461.94,Delhi,48.53,Delivered,461.94,7,Saturday,April,Yes,Morning,No,Slow
+677,ORD1677,CUST305,2023-10-13 04:56:00,Potatoes,Vegetables,1,357.1,Hyderabad,0.0,Cancelled,357.1,4,Friday,October,No,Night,No,Fast
+678,ORD1678,CUST172,2023-11-27 16:02:00,Shampoo,Personal Care,4,458.96,Hyderabad,25.0,Delivered,1835.84,16,Monday,November,No,Afternoon,Yes,Fast
+679,ORD1679,CUST215,2023-04-16 14:14:00,Chicken,Meat,5,433.54,Mumbai,78.99,Delivered,2167.7000000000003,14,Sunday,April,Yes,Afternoon,Yes,Slow
+680,ORD1680,CUST287,2023-10-19 17:26:00,Milk,Dairy,5,313.17,Bangalore,66.95,Delivered,1565.8500000000001,17,Thursday,October,No,Evening,Yes,Slow
+681,ORD1681,CUST166,2023-03-02 14:47:00,Bananas,Fruits,4,155.73,Mumbai,10.44,Delivered,622.92,14,Thursday,March,No,Afternoon,Yes,Fast
+682,ORD1682,CUST196,2023-07-21 21:55:00,Rice,Grains,3,397.63,Bangalore,0.0,Returned,1192.8899999999999,21,Friday,July,No,Night,Yes,Fast
+683,ORD1683,CUST198,2023-04-13 15:00:00,Potatoes,Vegetables,4,257.56,Kolkata,74.23,Delivered,1030.24,15,Thursday,April,No,Afternoon,Yes,Slow
+684,ORD1684,CUST441,2023-02-21 20:49:00,Milk,Dairy,3,47.87,Hyderabad,0.0,Returned,143.60999999999999,20,Tuesday,February,No,Evening,No,Fast
+685,ORD1685,CUST170,2023-07-18 23:26:00,Apples,Fruits,4,450.32,Chennai,11.34,Delivered,1801.28,23,Tuesday,July,No,Night,Yes,Fast
+686,ORD1686,CUST177,2023-06-06 02:44:00,Toothpaste,Personal Care,2,50.45,Delhi,87.42,Delivered,100.9,2,Tuesday,June,No,Night,No,Slow
+687,ORD1687,CUST481,2023-03-05 10:38:00,Toothpaste,Personal Care,4,73.35,Delhi,35.29,Delivered,293.4,10,Sunday,March,Yes,Morning,No,Slow
+688,ORD1688,CUST300,2023-11-22 20:51:00,Shampoo,Personal Care,4,228.71,Delhi,13.87,Delivered,914.84,20,Wednesday,November,No,Evening,Yes,Fast
+689,ORD1689,CUST134,2023-03-04 15:08:00,Tomatoes,Vegetables,5,408.22,Chennai,71.2,Delivered,2041.1000000000001,15,Saturday,March,Yes,Afternoon,Yes,Slow
+690,ORD1690,CUST423,2023-08-23 13:17:00,Shampoo,Personal Care,5,126.83,Kolkata,0.0,Cancelled,634.15,13,Wednesday,August,No,Afternoon,Yes,Fast
+691,ORD1691,CUST207,2023-09-18 17:22:00,Onions,Vegetables,3,342.67,Chennai,83.73,Delivered,1028.01,17,Monday,September,No,Evening,Yes,Slow
+692,ORD1692,CUST245,2023-05-17 23:53:00,Rice,Grains,1,47.44,Delhi,0.0,Cancelled,47.44,23,Wednesday,May,No,Night,No,Fast
+693,ORD1693,CUST223,2023-08-16 15:42:00,Rice,Grains,2,342.91,Hyderabad,38.22,Delivered,685.82,15,Wednesday,August,No,Afternoon,Yes,Slow
+694,ORD1694,CUST215,2023-02-25 01:26:00,Wheat Flour,Grains,1,288.49,Delhi,0.0,Cancelled,288.49,1,Saturday,February,Yes,Night,No,Fast
+695,ORD1695,CUST168,2023-01-05 18:19:00,Fish,Meat,2,456.07,Kolkata,17.88,Delivered,912.14,18,Thursday,January,No,Evening,Yes,Fast
+696,ORD1696,CUST157,2023-02-08 21:18:00,Apples,Fruits,1,284.87,Bangalore,55.6,Delivered,284.87,21,Wednesday,February,No,Night,No,Slow
+697,ORD1697,CUST155,2023-07-14 02:19:00,Eggs,Dairy,3,70.26,Chennai,56.27,Delivered,210.78000000000003,2,Friday,July,No,Night,No,Slow
+698,ORD1698,CUST450,2023-07-04 22:45:00,Shampoo,Personal Care,4,25.92,Chennai,33.73,Delivered,103.68,22,Tuesday,July,No,Night,No,Slow
+699,ORD1699,CUST206,2023-02-21 17:49:00,Wheat Flour,Grains,1,440.36,Delhi,73.39,Delivered,440.36,17,Tuesday,February,No,Evening,No,Slow
+700,ORD1700,CUST151,2023-06-01 10:26:00,Rice,Grains,3,309.8,Hyderabad,73.04,Delivered,929.4000000000001,10,Thursday,June,No,Morning,Yes,Slow
+701,ORD1701,CUST119,2023-04-08 19:04:00,Shampoo,Personal Care,1,30.59,Hyderabad,16.37,Delivered,30.59,19,Saturday,April,Yes,Evening,No,Fast
+702,ORD1702,CUST366,2023-10-30 20:34:00,Onions,Vegetables,5,448.9,Hyderabad,72.43,Delivered,2244.5,20,Monday,October,No,Evening,Yes,Slow
+703,ORD1703,CUST326,2023-02-03 20:24:00,Wheat Flour,Grains,2,97.17,Mumbai,81.48,Delivered,194.34,20,Friday,February,No,Evening,No,Slow
+704,ORD1704,CUST341,2023-05-30 15:35:00,Toothpaste,Personal Care,3,173.23,Bangalore,29.76,Delivered,519.6899999999999,15,Tuesday,May,No,Afternoon,Yes,Fast
+705,ORD1705,CUST457,2023-04-03 03:03:00,Chicken,Meat,2,301.4,Bangalore,20.21,Delivered,602.8,3,Monday,April,No,Night,Yes,Fast
+706,ORD1706,CUST149,2023-04-16 17:26:00,Bananas,Fruits,4,419.73,Chennai,69.46,Delivered,1678.92,17,Sunday,April,Yes,Evening,Yes,Slow
+707,ORD1707,CUST173,2023-06-20 22:11:00,Shampoo,Personal Care,3,116.38,Delhi,57.14,Delivered,349.14,22,Tuesday,June,No,Night,No,Slow
+708,ORD1708,CUST240,2023-07-05 09:07:00,Shampoo,Personal Care,4,287.14,Delhi,34.49,Delivered,1148.56,9,Wednesday,July,No,Morning,Yes,Slow
+709,ORD1709,CUST371,2023-06-20 17:12:00,Chicken,Meat,4,179.19,Kolkata,0.0,Returned,716.76,17,Tuesday,June,No,Evening,Yes,Fast
+710,ORD1710,CUST238,2023-05-25 08:45:00,Eggs,Dairy,5,399.56,Bangalore,0.0,Cancelled,1997.8,8,Thursday,May,No,Morning,Yes,Fast
+711,ORD1711,CUST443,2023-01-06 18:11:00,Eggs,Dairy,5,344.29,Pune,27.71,Delivered,1721.45,18,Friday,January,No,Evening,Yes,Fast
+712,ORD1712,CUST212,2023-09-12 20:19:00,Apples,Fruits,2,267.57,Mumbai,64.63,Delivered,535.14,20,Tuesday,September,No,Evening,Yes,Slow
+713,ORD1713,CUST306,2023-10-31 02:48:00,Apples,Fruits,4,248.08,Kolkata,38.23,Delivered,992.32,2,Tuesday,October,No,Night,Yes,Slow
+714,ORD1714,CUST246,2023-03-19 17:15:00,Toothpaste,Personal Care,1,68.36,Hyderabad,78.63,Delivered,68.36,17,Sunday,March,Yes,Evening,No,Slow
+715,ORD1715,CUST145,2023-06-25 14:00:00,Rice,Grains,3,250.61,Mumbai,74.24,Delivered,751.83,14,Sunday,June,Yes,Afternoon,Yes,Slow
+716,ORD1716,CUST233,2023-12-01 19:51:00,Bread,Bakery,4,328.87,Mumbai,56.13,Delivered,1315.48,19,Friday,December,No,Evening,Yes,Slow
+717,ORD1717,CUST203,2023-02-03 14:53:00,Shampoo,Personal Care,2,22.55,Pune,65.19,Delivered,45.1,14,Friday,February,No,Afternoon,No,Slow
+718,ORD1718,CUST338,2023-06-21 04:34:00,Onions,Vegetables,5,293.96,Delhi,47.55,Delivered,1469.8,4,Wednesday,June,No,Night,Yes,Slow
+719,ORD1719,CUST223,2023-07-01 13:45:00,Eggs,Dairy,5,488.23,Hyderabad,31.79,Delivered,2441.15,13,Saturday,July,Yes,Afternoon,Yes,Slow
+720,ORD1720,CUST186,2023-08-13 17:20:00,Tomatoes,Vegetables,2,421.6,Delhi,12.34,Delivered,843.2,17,Sunday,August,Yes,Evening,Yes,Fast
+721,ORD1721,CUST239,2023-05-17 23:35:00,Bread,Bakery,2,147.18,Kolkata,48.53,Delivered,294.36,23,Wednesday,May,No,Night,No,Slow
+722,ORD1722,CUST345,2023-12-29 21:37:00,Potatoes,Vegetables,2,260.19,Hyderabad,69.06,Delivered,520.38,21,Friday,December,No,Night,Yes,Slow
+723,ORD1723,CUST123,2023-09-12 01:57:00,Butter,Dairy,3,66.72,Hyderabad,20.15,Delivered,200.16,1,Tuesday,September,No,Night,No,Fast
+724,ORD1724,CUST144,2023-02-21 20:12:00,Milk,Dairy,5,42.11,Chennai,63.38,Delivered,210.55,20,Tuesday,February,No,Evening,No,Slow
+725,ORD1725,CUST216,2023-11-29 12:50:00,Rice,Grains,4,435.82,Mumbai,36.08,Delivered,1743.28,12,Wednesday,November,No,Afternoon,Yes,Slow
+726,ORD1726,CUST246,2023-03-14 17:54:00,Rice,Grains,3,132.38,Hyderabad,19.6,Delivered,397.14,17,Tuesday,March,No,Evening,No,Fast
+727,ORD1727,CUST459,2023-05-02 01:16:00,Chicken,Meat,1,165.7,Pune,0.0,Returned,165.7,1,Tuesday,May,No,Night,No,Fast
+728,ORD1728,CUST205,2023-05-22 10:33:00,Bananas,Fruits,2,396.56,Chennai,39.92,Delivered,793.12,10,Monday,May,No,Morning,Yes,Slow
+729,ORD1729,CUST117,2023-10-30 19:36:00,Bread,Bakery,4,485.44,Chennai,30.5,Delivered,1941.76,19,Monday,October,No,Evening,Yes,Slow
+730,ORD1730,CUST432,2023-10-27 20:32:00,Butter,Dairy,1,414.61,Hyderabad,82.07,Delivered,414.61,20,Friday,October,No,Evening,No,Slow
+731,ORD1731,CUST140,2023-02-09 06:06:00,Shampoo,Personal Care,3,248.19,Mumbai,30.53,Delivered,744.5699999999999,6,Thursday,February,No,Morning,Yes,Slow
+732,ORD1732,CUST483,2023-02-04 00:11:00,Milk,Dairy,5,281.08,Delhi,24.87,Delivered,1405.3999999999999,0,Saturday,February,Yes,Night,Yes,Fast
+733,ORD1733,CUST336,2023-10-12 06:40:00,Onions,Vegetables,4,120.76,Delhi,63.1,Delivered,483.04,6,Thursday,October,No,Morning,No,Slow
+734,ORD1734,CUST259,2023-03-27 09:29:00,Tomatoes,Vegetables,3,412.33,Delhi,35.41,Delivered,1236.99,9,Monday,March,No,Morning,Yes,Slow
+735,ORD1735,CUST169,2023-10-06 07:12:00,Chicken,Meat,2,438.22,Bangalore,79.59,Delivered,876.44,7,Friday,October,No,Morning,Yes,Slow
+736,ORD1736,CUST317,2023-07-20 06:58:00,Chicken,Meat,2,497.24,Delhi,0.0,Returned,994.48,6,Thursday,July,No,Morning,Yes,Fast
+737,ORD1737,CUST481,2023-01-29 17:46:00,Bread,Bakery,3,186.97,Mumbai,56.06,Delivered,560.91,17,Sunday,January,Yes,Evening,Yes,Slow
+738,ORD1738,CUST358,2023-03-29 23:25:00,Bananas,Fruits,4,62.09,Bangalore,28.28,Delivered,248.36,23,Wednesday,March,No,Night,No,Fast
+739,ORD1739,CUST454,2023-11-07 09:53:00,Fish,Meat,4,93.69,Mumbai,0.0,Returned,374.76,9,Tuesday,November,No,Morning,No,Fast
+740,ORD1740,CUST294,2023-12-11 18:06:00,Eggs,Dairy,1,145.38,Kolkata,72.56,Delivered,145.38,18,Monday,December,No,Evening,No,Slow
+741,ORD1741,CUST191,2023-12-26 19:29:00,Butter,Dairy,3,24.84,Mumbai,0.0,Cancelled,74.52,19,Tuesday,December,No,Evening,No,Fast
+742,ORD1742,CUST135,2023-08-04 22:45:00,Apples,Fruits,4,354.65,Mumbai,15.5,Delivered,1418.6,22,Friday,August,No,Night,Yes,Fast
+743,ORD1743,CUST156,2023-02-14 15:12:00,Onions,Vegetables,4,215.9,Delhi,50.3,Delivered,863.6,15,Tuesday,February,No,Afternoon,Yes,Slow
+744,ORD1744,CUST232,2023-01-03 03:10:00,Wheat Flour,Grains,4,253.55,Delhi,48.07,Delivered,1014.2,3,Tuesday,January,No,Night,Yes,Slow
+745,ORD1745,CUST497,2023-03-16 11:30:00,Bananas,Fruits,5,147.88,Delhi,53.07,Delivered,739.4,11,Thursday,March,No,Morning,Yes,Slow
+746,ORD1746,CUST423,2023-10-27 13:21:00,Rice,Grains,2,341.55,Pune,59.87,Delivered,683.1,13,Friday,October,No,Afternoon,Yes,Slow
+747,ORD1747,CUST157,2023-03-23 06:06:00,Tomatoes,Vegetables,3,214.09,Mumbai,11.72,Delivered,642.27,6,Thursday,March,No,Morning,Yes,Fast
+748,ORD1748,CUST270,2023-03-30 22:21:00,Bananas,Fruits,3,29.69,Chennai,70.29,Delivered,89.07000000000001,22,Thursday,March,No,Night,No,Slow
+749,ORD1749,CUST106,2023-07-24 16:52:00,Shampoo,Personal Care,4,360.26,Bangalore,0.0,Cancelled,1441.04,16,Monday,July,No,Afternoon,Yes,Fast
+750,ORD1750,CUST465,2023-05-15 23:20:00,Rice,Grains,3,90.46,Delhi,34.88,Delivered,271.38,23,Monday,May,No,Night,No,Slow
+751,ORD1751,CUST303,2023-12-20 16:53:00,Toothpaste,Personal Care,3,146.82,Chennai,50.84,Delivered,440.46,16,Wednesday,December,No,Afternoon,No,Slow
+752,ORD1752,CUST315,2023-09-25 14:21:00,Bananas,Fruits,1,23.93,Kolkata,44.64,Delivered,23.93,14,Monday,September,No,Afternoon,No,Slow
+753,ORD1753,CUST130,2023-12-03 22:44:00,Bread,Bakery,3,67.39,Mumbai,57.65,Delivered,202.17000000000002,22,Sunday,December,Yes,Night,No,Slow
+754,ORD1754,CUST420,2023-04-01 01:50:00,Butter,Dairy,2,381.69,Hyderabad,11.54,Delivered,763.38,1,Saturday,April,Yes,Night,Yes,Fast
+755,ORD1755,CUST462,2023-10-10 17:47:00,Wheat Flour,Grains,1,283.17,Delhi,0.0,Cancelled,283.17,17,Tuesday,October,No,Evening,No,Fast
+756,ORD1756,CUST486,2023-11-21 21:55:00,Rice,Grains,2,358.29,Delhi,51.36,Delivered,716.58,21,Tuesday,November,No,Night,Yes,Slow
+757,ORD1757,CUST450,2023-10-22 06:41:00,Potatoes,Vegetables,3,179.16,Bangalore,35.68,Delivered,537.48,6,Sunday,October,Yes,Morning,Yes,Slow
+758,ORD1758,CUST101,2023-11-24 23:19:00,Fish,Meat,2,339.95,Bangalore,64.36,Delivered,679.9,23,Friday,November,No,Night,Yes,Slow
+759,ORD1759,CUST128,2023-08-22 12:54:00,Potatoes,Vegetables,3,253.04,Chennai,0.0,Cancelled,759.12,12,Tuesday,August,No,Afternoon,Yes,Fast
+760,ORD1760,CUST134,2023-08-14 19:17:00,Chicken,Meat,2,130.79,Delhi,32.53,Delivered,261.58,19,Monday,August,No,Evening,No,Slow
+761,ORD1761,CUST289,2023-06-03 15:02:00,Bread,Bakery,2,112.47,Kolkata,35.78,Delivered,224.94,15,Saturday,June,Yes,Afternoon,No,Slow
+762,ORD1762,CUST323,2023-01-02 15:32:00,Bananas,Fruits,5,218.57,Pune,0.0,Cancelled,1092.85,15,Monday,January,No,Afternoon,Yes,Fast
+763,ORD1763,CUST382,2023-05-17 10:53:00,Shampoo,Personal Care,3,129.8,Kolkata,75.6,Delivered,389.40000000000003,10,Wednesday,May,No,Morning,No,Slow
+764,ORD1764,CUST154,2023-02-21 09:37:00,Shampoo,Personal Care,1,134.41,Delhi,82.78,Delivered,134.41,9,Tuesday,February,No,Morning,No,Slow
+765,ORD1765,CUST469,2023-10-27 10:45:00,Bread,Bakery,1,27.95,Kolkata,54.88,Delivered,27.95,10,Friday,October,No,Morning,No,Slow
+766,ORD1766,CUST466,2023-05-09 23:57:00,Toothpaste,Personal Care,2,202.82,Hyderabad,63.81,Delivered,405.64,23,Tuesday,May,No,Night,No,Slow
+767,ORD1767,CUST192,2023-10-19 02:29:00,Eggs,Dairy,2,57.01,Kolkata,72.43,Delivered,114.02,2,Thursday,October,No,Night,No,Slow
+768,ORD1768,CUST112,2023-02-12 23:16:00,Potatoes,Vegetables,1,274.4,Hyderabad,72.9,Delivered,274.4,23,Sunday,February,Yes,Night,No,Slow
+769,ORD1769,CUST131,2023-02-06 03:49:00,Milk,Dairy,5,103.48,Pune,59.23,Delivered,517.4,3,Monday,February,No,Night,Yes,Slow
+770,ORD1770,CUST265,2023-11-13 15:31:00,Bread,Bakery,1,315.79,Pune,25.77,Delivered,315.79,15,Monday,November,No,Afternoon,No,Fast
+771,ORD1771,CUST383,2023-06-11 11:38:00,Bananas,Fruits,3,93.44,Kolkata,0.0,Returned,280.32,11,Sunday,June,Yes,Morning,No,Fast
+772,ORD1772,CUST336,2023-07-25 18:03:00,Fish,Meat,2,73.57,Bangalore,79.61,Delivered,147.14,18,Tuesday,July,No,Evening,No,Slow
+773,ORD1773,CUST144,2023-10-11 17:24:00,Wheat Flour,Grains,1,41.44,Kolkata,0.0,Cancelled,41.44,17,Wednesday,October,No,Evening,No,Fast
+774,ORD1774,CUST199,2023-10-13 00:40:00,Eggs,Dairy,3,303.73,Pune,77.58,Delivered,911.19,0,Friday,October,No,Night,Yes,Slow
+775,ORD1775,CUST258,2023-06-12 08:26:00,Wheat Flour,Grains,1,289.06,Pune,68.37,Delivered,289.06,8,Monday,June,No,Morning,No,Slow
+776,ORD1776,CUST105,2023-06-07 02:03:00,Butter,Dairy,1,470.65,Kolkata,51.41,Delivered,470.65,2,Wednesday,June,No,Night,No,Slow
+777,ORD1777,CUST300,2023-08-08 19:57:00,Tomatoes,Vegetables,1,104.99,Delhi,15.84,Delivered,104.99,19,Tuesday,August,No,Evening,No,Fast
+778,ORD1778,CUST275,2023-04-11 01:16:00,Bananas,Fruits,4,379.54,Bangalore,83.63,Delivered,1518.16,1,Tuesday,April,No,Night,Yes,Slow
+779,ORD1779,CUST283,2023-06-27 13:45:00,Bananas,Fruits,5,151.34,Chennai,63.78,Delivered,756.7,13,Tuesday,June,No,Afternoon,Yes,Slow
+780,ORD1780,CUST389,2023-07-11 08:44:00,Tomatoes,Vegetables,4,483.93,Delhi,47.14,Delivered,1935.72,8,Tuesday,July,No,Morning,Yes,Slow
+781,ORD1781,CUST494,2023-05-30 21:11:00,Eggs,Dairy,3,148.03,Pune,29.0,Delivered,444.09000000000003,21,Tuesday,May,No,Night,No,Fast
+782,ORD1782,CUST147,2023-08-08 03:26:00,Bananas,Fruits,1,98.49,Kolkata,74.83,Delivered,98.49,3,Tuesday,August,No,Night,No,Slow
+783,ORD1783,CUST232,2023-02-23 11:25:00,Tomatoes,Vegetables,4,217.6,Pune,81.48,Delivered,870.4,11,Thursday,February,No,Morning,Yes,Slow
+784,ORD1784,CUST285,2023-04-11 21:40:00,Fish,Meat,5,352.29,Kolkata,51.9,Delivered,1761.45,21,Tuesday,April,No,Night,Yes,Slow
+785,ORD1785,CUST121,2023-08-08 16:47:00,Tomatoes,Vegetables,2,372.55,Delhi,46.17,Delivered,745.1,16,Tuesday,August,No,Afternoon,Yes,Slow
+786,ORD1786,CUST130,2023-05-18 09:16:00,Tomatoes,Vegetables,2,311.38,Chennai,87.5,Delivered,622.76,9,Thursday,May,No,Morning,Yes,Slow
+787,ORD1787,CUST146,2023-11-26 06:45:00,Rice,Grains,5,111.54,Delhi,0.0,Cancelled,557.7,6,Sunday,November,Yes,Morning,Yes,Fast
+788,ORD1788,CUST217,2023-04-12 00:23:00,Rice,Grains,1,146.26,Chennai,27.36,Delivered,146.26,0,Wednesday,April,No,Night,No,Fast
+789,ORD1789,CUST305,2023-05-20 13:07:00,Tomatoes,Vegetables,5,185.47,Chennai,0.0,Returned,927.35,13,Saturday,May,Yes,Afternoon,Yes,Fast
+790,ORD1790,CUST139,2023-04-18 15:00:00,Rice,Grains,2,338.03,Bangalore,27.15,Delivered,676.06,15,Tuesday,April,No,Afternoon,Yes,Fast
+791,ORD1791,CUST418,2023-12-21 18:21:00,Rice,Grains,3,470.77,Chennai,0.0,Cancelled,1412.31,18,Thursday,December,No,Evening,Yes,Fast
+792,ORD1792,CUST343,2023-10-03 02:17:00,Shampoo,Personal Care,1,389.92,Kolkata,66.23,Delivered,389.92,2,Tuesday,October,No,Night,No,Slow
+793,ORD1793,CUST407,2023-03-12 09:57:00,Shampoo,Personal Care,4,418.97,Kolkata,0.0,Cancelled,1675.88,9,Sunday,March,Yes,Morning,Yes,Fast
+794,ORD1794,CUST496,2023-01-14 13:16:00,Bananas,Fruits,3,440.44,Kolkata,74.65,Delivered,1321.32,13,Saturday,January,Yes,Afternoon,Yes,Slow
+795,ORD1795,CUST292,2023-05-29 00:40:00,Eggs,Dairy,5,187.55,Chennai,35.05,Delivered,937.75,0,Monday,May,No,Night,Yes,Slow
+796,ORD1796,CUST198,2023-02-16 00:53:00,Fish,Meat,5,328.01,Delhi,15.44,Delivered,1640.05,0,Thursday,February,No,Night,Yes,Fast
+797,ORD1797,CUST434,2023-04-22 02:13:00,Milk,Dairy,4,346.4,Mumbai,26.3,Delivered,1385.6,2,Saturday,April,Yes,Night,Yes,Fast
+798,ORD1798,CUST345,2023-06-24 19:28:00,Tomatoes,Vegetables,2,386.92,Pune,0.0,Cancelled,773.84,19,Saturday,June,Yes,Evening,Yes,Fast
+799,ORD1799,CUST459,2023-06-25 20:29:00,Milk,Dairy,1,336.61,Bangalore,59.78,Delivered,336.61,20,Sunday,June,Yes,Evening,No,Slow
+800,ORD1800,CUST239,2023-02-20 15:23:00,Potatoes,Vegetables,5,341.78,Mumbai,26.49,Delivered,1708.8999999999999,15,Monday,February,No,Afternoon,Yes,Fast
+801,ORD1801,CUST304,2023-07-14 06:06:00,Onions,Vegetables,1,27.53,Kolkata,63.54,Delivered,27.53,6,Friday,July,No,Morning,No,Slow
+802,ORD1802,CUST373,2023-06-26 10:02:00,Shampoo,Personal Care,4,322.15,Delhi,35.93,Delivered,1288.6,10,Monday,June,No,Morning,Yes,Slow
+803,ORD1803,CUST454,2023-10-10 10:26:00,Onions,Vegetables,3,432.19,Chennai,57.96,Delivered,1296.57,10,Tuesday,October,No,Morning,Yes,Slow
+804,ORD1804,CUST248,2023-03-10 10:46:00,Eggs,Dairy,2,491.34,Kolkata,0.0,Returned,982.68,10,Friday,March,No,Morning,Yes,Fast
+805,ORD1805,CUST288,2023-12-27 16:16:00,Fish,Meat,1,460.68,Pune,53.68,Delivered,460.68,16,Wednesday,December,No,Afternoon,No,Slow
+806,ORD1806,CUST476,2023-07-02 09:11:00,Onions,Vegetables,2,95.89,Bangalore,44.68,Delivered,191.78,9,Sunday,July,Yes,Morning,No,Slow
+807,ORD1807,CUST394,2023-09-23 12:57:00,Chicken,Meat,5,335.77,Hyderabad,75.82,Delivered,1678.85,12,Saturday,September,Yes,Afternoon,Yes,Slow
+808,ORD1808,CUST323,2023-05-16 05:42:00,Bananas,Fruits,5,225.49,Hyderabad,0.0,Returned,1127.45,5,Tuesday,May,No,Morning,Yes,Fast
+809,ORD1809,CUST327,2023-12-10 01:26:00,Bananas,Fruits,5,278.64,Pune,0.0,Cancelled,1393.1999999999998,1,Sunday,December,Yes,Night,Yes,Fast
+810,ORD1810,CUST477,2023-06-11 03:37:00,Rice,Grains,1,290.4,Hyderabad,0.0,Returned,290.4,3,Sunday,June,Yes,Night,No,Fast
+811,ORD1811,CUST425,2023-05-19 11:11:00,Fish,Meat,5,448.96,Kolkata,82.44,Delivered,2244.7999999999997,11,Friday,May,No,Morning,Yes,Slow
+812,ORD1812,CUST135,2023-01-14 16:43:00,Bananas,Fruits,4,288.66,Delhi,44.07,Delivered,1154.64,16,Saturday,January,Yes,Afternoon,Yes,Slow
+813,ORD1813,CUST321,2023-12-30 12:51:00,Butter,Dairy,1,320.43,Pune,85.8,Delivered,320.43,12,Saturday,December,Yes,Afternoon,No,Slow
+814,ORD1814,CUST187,2023-05-27 23:29:00,Bread,Bakery,2,465.72,Delhi,0.0,Cancelled,931.44,23,Saturday,May,Yes,Night,Yes,Fast
+815,ORD1815,CUST410,2023-11-11 02:13:00,Chicken,Meat,2,360.26,Delhi,48.08,Delivered,720.52,2,Saturday,November,Yes,Night,Yes,Slow
+816,ORD1816,CUST182,2023-03-24 21:37:00,Eggs,Dairy,3,233.05,Mumbai,15.86,Delivered,699.1500000000001,21,Friday,March,No,Night,Yes,Fast
+817,ORD1817,CUST294,2023-05-28 07:37:00,Wheat Flour,Grains,2,305.97,Pune,54.09,Delivered,611.94,7,Sunday,May,Yes,Morning,Yes,Slow
+818,ORD1818,CUST359,2023-07-07 09:07:00,Wheat Flour,Grains,2,303.97,Mumbai,64.64,Delivered,607.94,9,Friday,July,No,Morning,Yes,Slow
+819,ORD1819,CUST267,2023-10-24 10:59:00,Bananas,Fruits,1,306.67,Kolkata,42.86,Delivered,306.67,10,Tuesday,October,No,Morning,No,Slow
+820,ORD1820,CUST194,2023-08-16 14:46:00,Apples,Fruits,3,374.24,Chennai,20.6,Delivered,1122.72,14,Wednesday,August,No,Afternoon,Yes,Fast
+821,ORD1821,CUST288,2023-09-02 03:09:00,Tomatoes,Vegetables,2,173.71,Kolkata,0.0,Cancelled,347.42,3,Saturday,September,Yes,Night,No,Fast
+822,ORD1822,CUST231,2023-08-31 16:39:00,Toothpaste,Personal Care,4,116.7,Delhi,24.37,Delivered,466.8,16,Thursday,August,No,Afternoon,No,Fast
+823,ORD1823,CUST473,2023-04-26 16:45:00,Milk,Dairy,4,380.03,Pune,71.35,Delivered,1520.12,16,Wednesday,April,No,Afternoon,Yes,Slow
+824,ORD1824,CUST134,2023-09-24 09:27:00,Tomatoes,Vegetables,2,36.98,Pune,31.92,Delivered,73.96,9,Sunday,September,Yes,Morning,No,Slow
+825,ORD1825,CUST153,2023-01-03 03:30:00,Potatoes,Vegetables,2,471.59,Kolkata,0.0,Returned,943.18,3,Tuesday,January,No,Night,Yes,Fast
+826,ORD1826,CUST478,2023-05-29 18:36:00,Shampoo,Personal Care,2,463.83,Mumbai,56.05,Delivered,927.66,18,Monday,May,No,Evening,Yes,Slow
+827,ORD1827,CUST213,2023-11-03 16:51:00,Toothpaste,Personal Care,5,103.85,Delhi,79.78,Delivered,519.25,16,Friday,November,No,Afternoon,Yes,Slow
+828,ORD1828,CUST436,2023-05-10 23:37:00,Eggs,Dairy,3,310.75,Hyderabad,27.07,Delivered,932.25,23,Wednesday,May,No,Night,Yes,Fast
+829,ORD1829,CUST186,2023-03-31 12:47:00,Bread,Bakery,1,410.73,Mumbai,12.8,Delivered,410.73,12,Friday,March,No,Afternoon,No,Fast
+830,ORD1830,CUST116,2023-09-23 10:02:00,Wheat Flour,Grains,3,200.3,Pune,77.89,Delivered,600.9000000000001,10,Saturday,September,Yes,Morning,Yes,Slow
+831,ORD1831,CUST254,2023-12-21 10:40:00,Shampoo,Personal Care,4,256.97,Bangalore,31.02,Delivered,1027.88,10,Thursday,December,No,Morning,Yes,Slow
+832,ORD1832,CUST153,2023-01-31 18:25:00,Butter,Dairy,1,384.56,Hyderabad,19.86,Delivered,384.56,18,Tuesday,January,No,Evening,No,Fast
+833,ORD1833,CUST187,2023-02-17 15:05:00,Bananas,Fruits,5,430.03,Mumbai,83.97,Delivered,2150.1499999999996,15,Friday,February,No,Afternoon,Yes,Slow
+834,ORD1834,CUST231,2023-03-03 11:44:00,Wheat Flour,Grains,5,260.81,Chennai,58.05,Delivered,1304.05,11,Friday,March,No,Morning,Yes,Slow
+835,ORD1835,CUST392,2023-11-15 06:36:00,Milk,Dairy,5,492.01,Kolkata,0.0,Cancelled,2460.05,6,Wednesday,November,No,Morning,Yes,Fast
+836,ORD1836,CUST350,2023-06-01 02:47:00,Bread,Bakery,3,396.46,Mumbai,30.9,Delivered,1189.3799999999999,2,Thursday,June,No,Night,Yes,Slow
+837,ORD1837,CUST406,2023-07-12 14:28:00,Tomatoes,Vegetables,2,469.41,Bangalore,0.0,Cancelled,938.82,14,Wednesday,July,No,Afternoon,Yes,Fast
+838,ORD1838,CUST294,2023-05-01 02:43:00,Tomatoes,Vegetables,2,495.34,Delhi,54.09,Delivered,990.68,2,Monday,May,No,Night,Yes,Slow
+839,ORD1839,CUST277,2023-07-21 09:02:00,Shampoo,Personal Care,2,303.51,Delhi,0.0,Returned,607.02,9,Friday,July,No,Morning,Yes,Fast
+840,ORD1840,CUST466,2023-06-28 03:46:00,Butter,Dairy,5,20.17,Chennai,32.69,Delivered,100.85000000000001,3,Wednesday,June,No,Night,No,Slow
+841,ORD1841,CUST425,2023-11-09 07:13:00,Milk,Dairy,5,72.88,Hyderabad,69.94,Delivered,364.4,7,Thursday,November,No,Morning,No,Slow
+842,ORD1842,CUST158,2023-06-11 05:17:00,Tomatoes,Vegetables,1,315.55,Kolkata,38.73,Delivered,315.55,5,Sunday,June,Yes,Morning,No,Slow
+843,ORD1843,CUST354,2023-08-15 17:39:00,Onions,Vegetables,1,356.7,Mumbai,50.91,Delivered,356.7,17,Tuesday,August,No,Evening,No,Slow
+844,ORD1844,CUST409,2023-07-02 22:56:00,Milk,Dairy,3,54.52,Delhi,40.31,Delivered,163.56,22,Sunday,July,Yes,Night,No,Slow
+845,ORD1845,CUST237,2023-01-16 17:02:00,Toothpaste,Personal Care,5,458.46,Hyderabad,35.22,Delivered,2292.2999999999997,17,Monday,January,No,Evening,Yes,Slow
+846,ORD1846,CUST242,2023-04-16 14:37:00,Rice,Grains,4,431.24,Kolkata,0.0,Cancelled,1724.96,14,Sunday,April,Yes,Afternoon,Yes,Fast
+847,ORD1847,CUST500,2023-10-03 09:02:00,Shampoo,Personal Care,4,88.9,Kolkata,0.0,Cancelled,355.6,9,Tuesday,October,No,Morning,No,Fast
+848,ORD1848,CUST146,2023-05-03 17:41:00,Shampoo,Personal Care,2,69.4,Bangalore,41.06,Delivered,138.8,17,Wednesday,May,No,Evening,No,Slow
+849,ORD1849,CUST412,2023-02-15 16:08:00,Toothpaste,Personal Care,1,39.16,Kolkata,0.0,Cancelled,39.16,16,Wednesday,February,No,Afternoon,No,Fast
+850,ORD1850,CUST446,2023-04-06 04:52:00,Bananas,Fruits,3,268.71,Kolkata,73.26,Delivered,806.1299999999999,4,Thursday,April,No,Night,Yes,Slow
+851,ORD1851,CUST258,2023-03-07 06:07:00,Apples,Fruits,3,367.65,Chennai,11.62,Delivered,1102.9499999999998,6,Tuesday,March,No,Morning,Yes,Fast
+852,ORD1852,CUST425,2023-04-02 03:17:00,Butter,Dairy,3,89.21,Kolkata,0.0,Returned,267.63,3,Sunday,April,Yes,Night,No,Fast
+853,ORD1853,CUST179,2023-11-12 18:04:00,Apples,Fruits,5,130.92,Delhi,89.28,Delivered,654.5999999999999,18,Sunday,November,Yes,Evening,Yes,Slow
+854,ORD1854,CUST200,2023-02-24 16:17:00,Milk,Dairy,2,33.45,Kolkata,79.16,Delivered,66.9,16,Friday,February,No,Afternoon,No,Slow
+855,ORD1855,CUST137,2023-01-07 10:24:00,Fish,Meat,2,378.33,Kolkata,11.79,Delivered,756.66,10,Saturday,January,Yes,Morning,Yes,Fast
+856,ORD1856,CUST422,2023-03-31 19:11:00,Fish,Meat,5,491.66,Bangalore,17.28,Delivered,2458.3,19,Friday,March,No,Evening,Yes,Fast
+857,ORD1857,CUST451,2023-10-13 19:19:00,Butter,Dairy,5,134.36,Chennai,35.04,Delivered,671.8000000000001,19,Friday,October,No,Evening,Yes,Slow
+858,ORD1858,CUST123,2023-08-30 17:57:00,Potatoes,Vegetables,1,412.24,Kolkata,88.55,Delivered,412.24,17,Wednesday,August,No,Evening,No,Slow
+859,ORD1859,CUST379,2023-10-04 04:33:00,Bread,Bakery,5,266.01,Mumbai,61.49,Delivered,1330.05,4,Wednesday,October,No,Night,Yes,Slow
+860,ORD1860,CUST386,2023-11-20 03:35:00,Toothpaste,Personal Care,4,346.44,Pune,43.32,Delivered,1385.76,3,Monday,November,No,Night,Yes,Slow
+861,ORD1861,CUST405,2023-01-04 07:20:00,Toothpaste,Personal Care,2,170.64,Kolkata,23.54,Delivered,341.28,7,Wednesday,January,No,Morning,No,Fast
+862,ORD1862,CUST481,2023-03-09 21:04:00,Wheat Flour,Grains,3,260.13,Delhi,44.07,Delivered,780.39,21,Thursday,March,No,Night,Yes,Slow
+863,ORD1863,CUST323,2023-07-07 16:44:00,Toothpaste,Personal Care,5,202.95,Chennai,56.14,Delivered,1014.75,16,Friday,July,No,Afternoon,Yes,Slow
+864,ORD1864,CUST100,2023-03-23 08:34:00,Fish,Meat,2,494.69,Delhi,0.0,Cancelled,989.38,8,Thursday,March,No,Morning,Yes,Fast
+865,ORD1865,CUST179,2023-05-01 23:46:00,Eggs,Dairy,2,240.99,Pune,72.94,Delivered,481.98,23,Monday,May,No,Night,No,Slow
+866,ORD1866,CUST350,2023-09-08 01:59:00,Toothpaste,Personal Care,2,465.49,Delhi,0.0,Returned,930.98,1,Friday,September,No,Night,Yes,Fast
+867,ORD1867,CUST482,2023-03-23 03:24:00,Bananas,Fruits,4,365.71,Pune,58.53,Delivered,1462.84,3,Thursday,March,No,Night,Yes,Slow
+868,ORD1868,CUST275,2023-09-20 14:49:00,Shampoo,Personal Care,3,419.02,Pune,0.0,Cancelled,1257.06,14,Wednesday,September,No,Afternoon,Yes,Fast
+869,ORD1869,CUST323,2023-02-08 10:20:00,Milk,Dairy,4,218.72,Pune,77.8,Delivered,874.88,10,Wednesday,February,No,Morning,Yes,Slow
+870,ORD1870,CUST449,2023-12-26 18:39:00,Rice,Grains,5,267.88,Bangalore,73.9,Delivered,1339.4,18,Tuesday,December,No,Evening,Yes,Slow
+871,ORD1871,CUST124,2023-07-29 22:36:00,Potatoes,Vegetables,1,122.8,Mumbai,0.0,Returned,122.8,22,Saturday,July,Yes,Night,No,Fast
+872,ORD1872,CUST349,2023-04-20 10:16:00,Tomatoes,Vegetables,3,353.1,Kolkata,85.54,Delivered,1059.3000000000002,10,Thursday,April,No,Morning,Yes,Slow
+873,ORD1873,CUST147,2023-12-05 16:46:00,Fish,Meat,4,150.98,Pune,30.67,Delivered,603.92,16,Tuesday,December,No,Afternoon,Yes,Slow
+874,ORD1874,CUST249,2023-11-07 04:49:00,Toothpaste,Personal Care,5,193.5,Delhi,0.0,Returned,967.5,4,Tuesday,November,No,Night,Yes,Fast
+875,ORD1875,CUST120,2023-03-13 14:08:00,Bread,Bakery,4,32.98,Chennai,0.0,Returned,131.92,14,Monday,March,No,Afternoon,No,Fast
+876,ORD1876,CUST226,2023-12-20 16:34:00,Apples,Fruits,2,330.21,Delhi,59.41,Delivered,660.42,16,Wednesday,December,No,Afternoon,Yes,Slow
+877,ORD1877,CUST345,2023-08-02 12:58:00,Fish,Meat,3,331.31,Chennai,86.9,Delivered,993.9300000000001,12,Wednesday,August,No,Afternoon,Yes,Slow
+878,ORD1878,CUST165,2023-11-11 20:03:00,Wheat Flour,Grains,4,403.67,Kolkata,51.93,Delivered,1614.68,20,Saturday,November,Yes,Evening,Yes,Slow
+879,ORD1879,CUST241,2023-09-02 03:35:00,Fish,Meat,3,307.15,Kolkata,87.05,Delivered,921.4499999999999,3,Saturday,September,Yes,Night,Yes,Slow
+880,ORD1880,CUST199,2023-03-16 23:48:00,Shampoo,Personal Care,4,141.45,Hyderabad,16.12,Delivered,565.8,23,Thursday,March,No,Night,Yes,Fast
+881,ORD1881,CUST130,2023-02-09 16:02:00,Bread,Bakery,4,142.54,Pune,33.69,Delivered,570.16,16,Thursday,February,No,Afternoon,Yes,Slow
+882,ORD1882,CUST324,2023-08-05 01:04:00,Shampoo,Personal Care,1,303.48,Hyderabad,83.87,Delivered,303.48,1,Saturday,August,Yes,Night,No,Slow
+883,ORD1883,CUST279,2023-04-28 12:11:00,Wheat Flour,Grains,4,268.56,Bangalore,0.0,Cancelled,1074.24,12,Friday,April,No,Afternoon,Yes,Fast
+884,ORD1884,CUST461,2023-03-24 19:00:00,Bread,Bakery,1,485.61,Chennai,0.0,Returned,485.61,19,Friday,March,No,Evening,No,Fast
+885,ORD1885,CUST453,2023-08-09 11:40:00,Wheat Flour,Grains,5,328.23,Delhi,46.64,Delivered,1641.15,11,Wednesday,August,No,Morning,Yes,Slow
+886,ORD1886,CUST199,2023-11-27 03:48:00,Toothpaste,Personal Care,4,243.46,Bangalore,79.32,Delivered,973.84,3,Monday,November,No,Night,Yes,Slow
+887,ORD1887,CUST364,2023-11-05 19:35:00,Apples,Fruits,2,265.58,Delhi,54.0,Delivered,531.16,19,Sunday,November,Yes,Evening,Yes,Slow
+888,ORD1888,CUST372,2023-06-21 15:44:00,Bananas,Fruits,1,444.04,Pune,76.81,Delivered,444.04,15,Wednesday,June,No,Afternoon,No,Slow
+889,ORD1889,CUST214,2023-11-22 06:31:00,Onions,Vegetables,5,61.15,Pune,13.2,Delivered,305.75,6,Wednesday,November,No,Morning,No,Fast
+890,ORD1890,CUST161,2023-08-09 08:21:00,Bread,Bakery,3,360.94,Hyderabad,37.43,Delivered,1082.82,8,Wednesday,August,No,Morning,Yes,Slow
+891,ORD1891,CUST245,2023-12-14 16:13:00,Wheat Flour,Grains,3,65.04,Chennai,56.75,Delivered,195.12,16,Thursday,December,No,Afternoon,No,Slow
+892,ORD1892,CUST116,2023-10-04 03:44:00,Shampoo,Personal Care,1,136.19,Chennai,76.57,Delivered,136.19,3,Wednesday,October,No,Night,No,Slow
+893,ORD1893,CUST321,2023-10-09 12:49:00,Butter,Dairy,3,111.7,Kolkata,56.18,Delivered,335.1,12,Monday,October,No,Afternoon,No,Slow
+894,ORD1894,CUST229,2023-03-04 10:37:00,Butter,Dairy,4,440.3,Hyderabad,68.77,Delivered,1761.2,10,Saturday,March,Yes,Morning,Yes,Slow
+895,ORD1895,CUST146,2023-10-15 23:47:00,Tomatoes,Vegetables,3,69.0,Pune,33.82,Delivered,207.0,23,Sunday,October,Yes,Night,No,Slow
+896,ORD1896,CUST285,2023-07-26 16:34:00,Chicken,Meat,3,126.77,Mumbai,72.41,Delivered,380.31,16,Wednesday,July,No,Afternoon,No,Slow
+897,ORD1897,CUST309,2023-04-06 22:13:00,Bananas,Fruits,4,153.34,Hyderabad,31.24,Delivered,613.36,22,Thursday,April,No,Night,Yes,Slow
+898,ORD1898,CUST221,2023-12-24 02:38:00,Butter,Dairy,2,281.81,Chennai,10.54,Delivered,563.62,2,Sunday,December,Yes,Night,Yes,Fast
+899,ORD1899,CUST289,2023-04-10 00:09:00,Fish,Meat,4,23.21,Mumbai,33.95,Delivered,92.84,0,Monday,April,No,Night,No,Slow
+900,ORD1900,CUST428,2023-10-25 21:53:00,Fish,Meat,4,154.54,Bangalore,0.0,Cancelled,618.16,21,Wednesday,October,No,Night,Yes,Fast
+901,ORD1901,CUST236,2023-01-26 18:49:00,Bread,Bakery,1,193.39,Hyderabad,67.09,Delivered,193.39,18,Thursday,January,No,Evening,No,Slow
+902,ORD1902,CUST462,2023-04-21 09:53:00,Milk,Dairy,2,208.83,Chennai,67.38,Delivered,417.66,9,Friday,April,No,Morning,No,Slow
+903,ORD1903,CUST491,2023-09-20 19:43:00,Chicken,Meat,2,140.25,Kolkata,46.6,Delivered,280.5,19,Wednesday,September,No,Evening,No,Slow
+904,ORD1904,CUST109,2023-01-14 22:20:00,Milk,Dairy,2,430.01,Delhi,26.15,Delivered,860.02,22,Saturday,January,Yes,Night,Yes,Fast
+905,ORD1905,CUST266,2023-01-31 00:57:00,Shampoo,Personal Care,1,143.05,Pune,48.35,Delivered,143.05,0,Tuesday,January,No,Night,No,Slow
+906,ORD1906,CUST400,2023-07-30 05:47:00,Chicken,Meat,1,448.09,Delhi,0.0,Cancelled,448.09,5,Sunday,July,Yes,Morning,No,Fast
+907,ORD1907,CUST115,2023-01-18 14:50:00,Wheat Flour,Grains,1,412.33,Kolkata,13.44,Delivered,412.33,14,Wednesday,January,No,Afternoon,No,Fast
+908,ORD1908,CUST404,2023-02-07 17:02:00,Chicken,Meat,3,74.06,Hyderabad,0.0,Returned,222.18,17,Tuesday,February,No,Evening,No,Fast
+909,ORD1909,CUST166,2023-05-24 17:24:00,Bread,Bakery,3,47.96,Hyderabad,51.95,Delivered,143.88,17,Wednesday,May,No,Evening,No,Slow
+910,ORD1910,CUST463,2023-01-18 10:13:00,Wheat Flour,Grains,3,73.77,Hyderabad,14.07,Delivered,221.31,10,Wednesday,January,No,Morning,No,Fast
+911,ORD1911,CUST261,2023-10-02 16:48:00,Wheat Flour,Grains,2,135.61,Delhi,0.0,Cancelled,271.22,16,Monday,October,No,Afternoon,No,Fast
+912,ORD1912,CUST347,2023-08-04 03:20:00,Milk,Dairy,2,412.19,Kolkata,14.99,Delivered,824.38,3,Friday,August,No,Night,Yes,Fast
+913,ORD1913,CUST175,2023-01-28 03:42:00,Bananas,Fruits,2,123.32,Kolkata,42.35,Delivered,246.64,3,Saturday,January,Yes,Night,No,Slow
+914,ORD1914,CUST200,2023-04-07 05:30:00,Potatoes,Vegetables,4,198.86,Hyderabad,0.0,Returned,795.44,5,Friday,April,No,Morning,Yes,Fast
+915,ORD1915,CUST176,2023-09-25 06:22:00,Rice,Grains,1,32.24,Hyderabad,76.63,Delivered,32.24,6,Monday,September,No,Morning,No,Slow
+916,ORD1916,CUST488,2023-04-08 00:12:00,Bananas,Fruits,2,305.24,Mumbai,83.83,Delivered,610.48,0,Saturday,April,Yes,Night,Yes,Slow
+917,ORD1917,CUST331,2023-12-03 12:44:00,Bananas,Fruits,1,382.01,Delhi,28.21,Delivered,382.01,12,Sunday,December,Yes,Afternoon,No,Fast
+918,ORD1918,CUST453,2023-10-01 00:30:00,Tomatoes,Vegetables,5,175.1,Delhi,66.56,Delivered,875.5,0,Sunday,October,Yes,Night,Yes,Slow
+919,ORD1919,CUST383,2023-01-12 13:18:00,Rice,Grains,5,92.39,Chennai,52.07,Delivered,461.95,13,Thursday,January,No,Afternoon,No,Slow
+920,ORD1920,CUST218,2023-11-07 01:29:00,Fish,Meat,2,392.1,Chennai,27.29,Delivered,784.2,1,Tuesday,November,No,Night,Yes,Fast
+921,ORD1921,CUST323,2023-10-24 22:09:00,Onions,Vegetables,3,62.37,Bangalore,44.32,Delivered,187.10999999999999,22,Tuesday,October,No,Night,No,Slow
+922,ORD1922,CUST278,2023-01-01 06:20:00,Chicken,Meat,2,35.39,Chennai,74.6,Delivered,70.78,6,Sunday,January,Yes,Morning,No,Slow
+923,ORD1923,CUST322,2023-10-01 23:07:00,Eggs,Dairy,2,341.08,Pune,67.43,Delivered,682.16,23,Sunday,October,Yes,Night,Yes,Slow
+924,ORD1924,CUST201,2023-10-17 14:24:00,Shampoo,Personal Care,1,53.57,Chennai,46.69,Delivered,53.57,14,Tuesday,October,No,Afternoon,No,Slow
+925,ORD1925,CUST154,2023-07-22 08:26:00,Wheat Flour,Grains,1,228.76,Chennai,76.87,Delivered,228.76,8,Saturday,July,Yes,Morning,No,Slow
+926,ORD1926,CUST416,2023-11-13 00:21:00,Fish,Meat,2,125.73,Kolkata,0.0,Returned,251.46,0,Monday,November,No,Night,No,Fast
+927,ORD1927,CUST136,2023-01-15 04:43:00,Rice,Grains,3,429.31,Chennai,0.0,Cancelled,1287.93,4,Sunday,January,Yes,Night,Yes,Fast
+928,ORD1928,CUST233,2023-06-22 21:50:00,Apples,Fruits,5,477.17,Hyderabad,61.09,Delivered,2385.85,21,Thursday,June,No,Night,Yes,Slow
+929,ORD1929,CUST429,2023-11-06 15:51:00,Eggs,Dairy,5,301.8,Bangalore,0.0,Cancelled,1509.0,15,Monday,November,No,Afternoon,Yes,Fast
+930,ORD1930,CUST382,2023-08-01 05:10:00,Chicken,Meat,1,173.8,Delhi,55.27,Delivered,173.8,5,Tuesday,August,No,Morning,No,Slow
+931,ORD1931,CUST343,2023-07-13 15:16:00,Bread,Bakery,5,267.9,Chennai,25.97,Delivered,1339.5,15,Thursday,July,No,Afternoon,Yes,Fast
+932,ORD1932,CUST372,2023-10-29 17:55:00,Shampoo,Personal Care,1,274.73,Kolkata,42.69,Delivered,274.73,17,Sunday,October,Yes,Evening,No,Slow
+933,ORD1933,CUST305,2023-09-05 22:55:00,Apples,Fruits,3,83.03,Hyderabad,86.41,Delivered,249.09,22,Tuesday,September,No,Night,No,Slow
+934,ORD1934,CUST345,2023-04-01 15:05:00,Bananas,Fruits,1,45.63,Chennai,32.07,Delivered,45.63,15,Saturday,April,Yes,Afternoon,No,Slow
+935,ORD1935,CUST225,2023-03-29 23:21:00,Butter,Dairy,1,216.12,Hyderabad,0.0,Cancelled,216.12,23,Wednesday,March,No,Night,No,Fast
+936,ORD1936,CUST343,2023-06-26 15:40:00,Chicken,Meat,1,273.26,Hyderabad,0.0,Returned,273.26,15,Monday,June,No,Afternoon,No,Fast
+937,ORD1937,CUST181,2023-12-01 20:17:00,Fish,Meat,1,32.73,Bangalore,36.21,Delivered,32.73,20,Friday,December,No,Evening,No,Slow
+938,ORD1938,CUST382,2023-10-15 08:29:00,Apples,Fruits,2,427.24,Pune,0.0,Cancelled,854.48,8,Sunday,October,Yes,Morning,Yes,Fast
+939,ORD1939,CUST146,2023-11-26 07:23:00,Tomatoes,Vegetables,3,262.19,Bangalore,30.54,Delivered,786.5699999999999,7,Sunday,November,Yes,Morning,Yes,Slow
+940,ORD1940,CUST407,2023-07-03 07:53:00,Bananas,Fruits,1,26.4,Pune,10.08,Delivered,26.4,7,Monday,July,No,Morning,No,Fast
+941,ORD1941,CUST499,2023-05-05 08:16:00,Rice,Grains,2,55.77,Kolkata,0.0,Cancelled,111.54,8,Friday,May,No,Morning,No,Fast
+942,ORD1942,CUST360,2023-05-01 04:40:00,Rice,Grains,2,416.35,Pune,87.46,Delivered,832.7,4,Monday,May,No,Night,Yes,Slow
+943,ORD1943,CUST309,2023-11-09 15:10:00,Tomatoes,Vegetables,2,398.1,Chennai,47.6,Delivered,796.2,15,Thursday,November,No,Afternoon,Yes,Slow
+944,ORD1944,CUST334,2023-04-17 17:27:00,Potatoes,Vegetables,2,164.16,Bangalore,30.46,Delivered,328.32,17,Monday,April,No,Evening,No,Slow
+945,ORD1945,CUST347,2023-01-26 23:51:00,Shampoo,Personal Care,3,40.47,Pune,88.76,Delivered,121.41,23,Thursday,January,No,Night,No,Slow
+946,ORD1946,CUST437,2023-05-14 15:34:00,Potatoes,Vegetables,3,431.25,Hyderabad,31.98,Delivered,1293.75,15,Sunday,May,Yes,Afternoon,Yes,Slow
+947,ORD1947,CUST377,2023-10-27 20:55:00,Butter,Dairy,5,212.59,Chennai,20.07,Delivered,1062.95,20,Friday,October,No,Evening,Yes,Fast
+948,ORD1948,CUST393,2023-09-23 18:00:00,Fish,Meat,2,366.33,Chennai,60.27,Delivered,732.66,18,Saturday,September,Yes,Evening,Yes,Slow
+949,ORD1949,CUST386,2023-10-17 22:27:00,Tomatoes,Vegetables,1,114.55,Kolkata,34.5,Delivered,114.55,22,Tuesday,October,No,Night,No,Slow
+950,ORD1950,CUST458,2023-09-11 11:05:00,Toothpaste,Personal Care,1,334.53,Chennai,34.77,Delivered,334.53,11,Monday,September,No,Morning,No,Slow
+951,ORD1951,CUST304,2023-11-13 05:24:00,Chicken,Meat,2,79.34,Bangalore,72.14,Delivered,158.68,5,Monday,November,No,Morning,No,Slow
+952,ORD1952,CUST468,2023-01-12 01:34:00,Onions,Vegetables,4,461.51,Chennai,75.57,Delivered,1846.04,1,Thursday,January,No,Night,Yes,Slow
+953,ORD1953,CUST351,2023-07-28 21:39:00,Eggs,Dairy,2,70.87,Delhi,89.96,Delivered,141.74,21,Friday,July,No,Night,No,Slow
+954,ORD1954,CUST231,2023-03-06 11:39:00,Apples,Fruits,3,419.05,Kolkata,42.77,Delivered,1257.15,11,Monday,March,No,Morning,Yes,Slow
+955,ORD1955,CUST296,2023-12-24 19:50:00,Fish,Meat,1,351.22,Bangalore,0.0,Returned,351.22,19,Sunday,December,Yes,Evening,No,Fast
+956,ORD1956,CUST195,2023-05-14 18:15:00,Rice,Grains,4,115.21,Chennai,48.09,Delivered,460.84,18,Sunday,May,Yes,Evening,No,Slow
+957,ORD1957,CUST232,2023-08-29 19:57:00,Tomatoes,Vegetables,3,364.62,Delhi,43.35,Delivered,1093.8600000000001,19,Tuesday,August,No,Evening,Yes,Slow
+958,ORD1958,CUST459,2023-03-20 21:13:00,Onions,Vegetables,1,219.19,Bangalore,0.0,Returned,219.19,21,Monday,March,No,Night,No,Fast
+959,ORD1959,CUST388,2023-07-12 03:44:00,Butter,Dairy,4,316.84,Pune,77.12,Delivered,1267.36,3,Wednesday,July,No,Night,Yes,Slow
+960,ORD1960,CUST284,2023-02-20 11:50:00,Tomatoes,Vegetables,2,54.64,Delhi,14.6,Delivered,109.28,11,Monday,February,No,Morning,No,Fast
+961,ORD1961,CUST458,2023-04-16 05:14:00,Chicken,Meat,4,497.09,Delhi,33.28,Delivered,1988.36,5,Sunday,April,Yes,Morning,Yes,Slow
+962,ORD1962,CUST468,2023-07-28 12:43:00,Toothpaste,Personal Care,1,151.59,Mumbai,30.63,Delivered,151.59,12,Friday,July,No,Afternoon,No,Slow
+963,ORD1963,CUST274,2023-03-12 14:34:00,Shampoo,Personal Care,4,253.64,Bangalore,19.59,Delivered,1014.56,14,Sunday,March,Yes,Afternoon,Yes,Fast
+964,ORD1964,CUST316,2023-11-22 06:38:00,Onions,Vegetables,2,47.56,Mumbai,30.87,Delivered,95.12,6,Wednesday,November,No,Morning,No,Slow
+965,ORD1965,CUST183,2023-09-13 02:48:00,Butter,Dairy,4,297.66,Pune,0.0,Returned,1190.64,2,Wednesday,September,No,Night,Yes,Fast
+966,ORD1966,CUST172,2023-01-03 03:06:00,Wheat Flour,Grains,2,288.74,Hyderabad,13.73,Delivered,577.48,3,Tuesday,January,No,Night,Yes,Fast
+967,ORD1967,CUST142,2023-11-23 15:38:00,Bananas,Fruits,3,400.79,Delhi,0.0,Cancelled,1202.3700000000001,15,Thursday,November,No,Afternoon,Yes,Fast
+968,ORD1968,CUST280,2023-04-13 08:55:00,Shampoo,Personal Care,3,261.65,Bangalore,59.45,Delivered,784.9499999999999,8,Thursday,April,No,Morning,Yes,Slow
+969,ORD1969,CUST446,2023-08-10 12:09:00,Onions,Vegetables,3,255.02,Pune,65.32,Delivered,765.0600000000001,12,Thursday,August,No,Afternoon,Yes,Slow
+970,ORD1970,CUST275,2023-06-12 10:55:00,Onions,Vegetables,5,220.92,Mumbai,24.33,Delivered,1104.6,10,Monday,June,No,Morning,Yes,Fast
+971,ORD1971,CUST387,2023-01-06 14:38:00,Bananas,Fruits,2,26.42,Mumbai,58.45,Delivered,52.84,14,Friday,January,No,Afternoon,No,Slow
+972,ORD1972,CUST439,2023-08-10 08:46:00,Bread,Bakery,2,184.4,Delhi,84.73,Delivered,368.8,8,Thursday,August,No,Morning,No,Slow
+973,ORD1973,CUST415,2023-12-16 18:38:00,Bananas,Fruits,4,244.55,Chennai,68.79,Delivered,978.2,18,Saturday,December,Yes,Evening,Yes,Slow
+974,ORD1974,CUST350,2023-12-19 17:39:00,Tomatoes,Vegetables,5,302.68,Chennai,17.14,Delivered,1513.4,17,Tuesday,December,No,Evening,Yes,Fast
+975,ORD1975,CUST384,2023-07-25 14:37:00,Tomatoes,Vegetables,5,48.4,Hyderabad,87.06,Delivered,242.0,14,Tuesday,July,No,Afternoon,No,Slow
+976,ORD1976,CUST332,2023-05-28 15:38:00,Onions,Vegetables,4,376.94,Bangalore,71.72,Delivered,1507.76,15,Sunday,May,Yes,Afternoon,Yes,Slow
+977,ORD1977,CUST484,2023-10-08 18:33:00,Wheat Flour,Grains,5,67.1,Pune,72.66,Delivered,335.5,18,Sunday,October,Yes,Evening,No,Slow
+978,ORD1978,CUST227,2023-07-20 09:27:00,Tomatoes,Vegetables,1,125.98,Delhi,79.71,Delivered,125.98,9,Thursday,July,No,Morning,No,Slow
+979,ORD1979,CUST428,2023-03-10 00:26:00,Toothpaste,Personal Care,2,210.68,Bangalore,58.64,Delivered,421.36,0,Friday,March,No,Night,No,Slow
+980,ORD1980,CUST415,2023-12-22 08:48:00,Bananas,Fruits,2,442.52,Mumbai,34.91,Delivered,885.04,8,Friday,December,No,Morning,Yes,Slow
+981,ORD1981,CUST490,2023-01-23 13:37:00,Wheat Flour,Grains,5,459.55,Mumbai,0.0,Returned,2297.75,13,Monday,January,No,Afternoon,Yes,Fast
+982,ORD1982,CUST126,2023-01-06 07:28:00,Wheat Flour,Grains,1,344.46,Bangalore,66.25,Delivered,344.46,7,Friday,January,No,Morning,No,Slow
+983,ORD1983,CUST286,2023-11-29 17:27:00,Tomatoes,Vegetables,3,249.91,Kolkata,32.02,Delivered,749.73,17,Wednesday,November,No,Evening,Yes,Slow
+984,ORD1984,CUST361,2023-02-01 19:45:00,Bananas,Fruits,3,339.47,Chennai,14.7,Delivered,1018.4100000000001,19,Wednesday,February,No,Evening,Yes,Fast
+985,ORD1985,CUST229,2023-11-16 16:29:00,Potatoes,Vegetables,4,190.81,Bangalore,32.44,Delivered,763.24,16,Thursday,November,No,Afternoon,Yes,Slow
+986,ORD1986,CUST330,2023-10-18 14:45:00,Potatoes,Vegetables,4,102.07,Pune,41.15,Delivered,408.28,14,Wednesday,October,No,Afternoon,No,Slow
+987,ORD1987,CUST471,2023-03-25 03:41:00,Eggs,Dairy,2,143.32,Hyderabad,64.39,Delivered,286.64,3,Saturday,March,Yes,Night,No,Slow
+988,ORD1988,CUST233,2023-07-24 00:11:00,Bread,Bakery,3,63.89,Mumbai,34.88,Delivered,191.67000000000002,0,Monday,July,No,Night,No,Slow
+989,ORD1989,CUST247,2023-05-31 20:05:00,Apples,Fruits,1,140.41,Hyderabad,0.0,Cancelled,140.41,20,Wednesday,May,No,Evening,No,Fast
+990,ORD1990,CUST414,2023-10-28 01:19:00,Rice,Grains,2,426.87,Delhi,42.97,Delivered,853.74,1,Saturday,October,Yes,Night,Yes,Slow
+991,ORD1991,CUST102,2023-11-24 18:02:00,Wheat Flour,Grains,3,474.19,Mumbai,50.99,Delivered,1422.57,18,Friday,November,No,Evening,Yes,Slow
+992,ORD1992,CUST435,2023-11-28 07:44:00,Butter,Dairy,4,239.99,Delhi,19.29,Delivered,959.96,7,Tuesday,November,No,Morning,Yes,Fast
+993,ORD1993,CUST486,2023-11-01 01:40:00,Potatoes,Vegetables,3,297.89,Hyderabad,0.0,Returned,893.67,1,Wednesday,November,No,Night,Yes,Fast
+994,ORD1994,CUST341,2023-07-22 22:24:00,Tomatoes,Vegetables,2,374.03,Delhi,34.31,Delivered,748.06,22,Saturday,July,Yes,Night,Yes,Slow
+995,ORD1995,CUST471,2023-02-28 18:04:00,Bananas,Fruits,4,499.91,Hyderabad,0.0,Cancelled,1999.64,18,Tuesday,February,No,Evening,Yes,Fast
+996,ORD1996,CUST140,2023-07-25 11:22:00,Onions,Vegetables,1,168.99,Kolkata,43.39,Delivered,168.99,11,Tuesday,July,No,Morning,No,Slow
+997,ORD1997,CUST230,2023-01-17 13:19:00,Milk,Dairy,5,429.22,Delhi,78.9,Delivered,2146.1000000000004,13,Tuesday,January,No,Afternoon,Yes,Slow
+998,ORD1998,CUST291,2023-11-18 06:01:00,Fish,Meat,5,126.03,Mumbai,71.74,Delivered,630.15,6,Saturday,November,Yes,Morning,Yes,Slow
+999,ORD1999,CUST348,2023-02-04 11:27:00,Milk,Dairy,2,389.85,Chennai,0.0,Returned,779.7,11,Saturday,February,Yes,Morning,Yes,Fast
