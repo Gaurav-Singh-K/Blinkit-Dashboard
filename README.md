@@ -175,25 +175,6 @@ The dashboard uses custom DAX measures such as:
 
 ---
 
-# 📂 Repository Structure
-
-```
-Blinkit-Sales-Dashboard/
-│
-├── Blinkit_Dashboard.pbix
-├── blinkit_dataset.csv
-├── Screenshots/
-│   ├── Home.png
-│   ├── Customer Analysis.png
-│   ├── Product Analysis.png
-│   ├── Delivery Analysis.png
-│   └── Time Trend.png
-├── LICENSE
-└── README.md
-```
-
----
-
 # 📷 Dashboard Preview
 
 > Add screenshots of each dashboard page inside the **Screenshots** folder.
