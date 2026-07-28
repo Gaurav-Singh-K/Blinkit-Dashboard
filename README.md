@@ -200,7 +200,7 @@ Blinkit-Sales-Dashboard/
 
 Example:
 
-```
+---
 <img width="1165" height="648" alt="Screenshot 2026-07-28 143913" src="https://github.com/user-attachments/assets/304ce191-2d85-43d5-a8fd-581ae56bd26d" />
 <img width="1152" height="648" alt="Screenshot 2026-07-28 143929" src="https://github.com/user-attachments/assets/d88469be-0ec8-4e84-98aa-fb82a1365f77" />
 <img width="1152" height="648" alt="Screenshot 2026-07-28 143929" src="https://github.com/user-attachments/assets/f9f62089-5046-4916-87b3-de1c4775cdf1" />
@@ -209,7 +209,7 @@ Example:
 
 <img width="1160" height="647" alt="Screenshot 2026-07-28 144020" src="https://github.com/user-attachments/assets/4ccf3d30-521c-4aff-9b96-5682d1ffc293" />
 
-```
+
 
 ---
 
